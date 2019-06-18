@@ -1,0 +1,1 @@
+Let's write something to the file and later on we will check the file content.

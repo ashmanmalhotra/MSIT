@@ -1,0 +1,3 @@
+This is newly created file with Write Mode.
+Let's append something to the file with mode='a'.
+You can also write to this file as the mode is a+.New Content. 

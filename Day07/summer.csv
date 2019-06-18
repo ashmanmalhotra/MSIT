@@ -1,0 +1,51 @@
+Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
+1896,Athens,Aquatics,Swimming,"HAJOS, Alfred",HUN,Men,100M Freestyle,Gold
+1896,Athens,Aquatics,Swimming,"HERSCHMANN, Otto",AUT,Men,100M Freestyle,Silver
+1896,Athens,Aquatics,Swimming,"DRIVAS, Dimitrios",GRE,Men,100M Freestyle For Sailors,Bronze
+1896,Athens,Aquatics,Swimming,"MALOKINIS, Ioannis",GRE,Men,100M Freestyle For Sailors,Gold
+1896,Athens,Aquatics,Swimming,"CHASAPIS, Spiridon",GRE,Men,100M Freestyle For Sailors,Silver
+1896,Athens,Aquatics,Swimming,"CHOROPHAS, Efstathios",GRE,Men,1200M Freestyle,Bronze
+1896,Athens,Aquatics,Swimming,"HAJOS, Alfred",HUN,Men,1200M Freestyle,Gold
+1896,Athens,Aquatics,Swimming,"ANDREOU, Joannis",GRE,Men,1200M Freestyle,Silver
+1896,Athens,Aquatics,Swimming,"CHOROPHAS, Efstathios",GRE,Men,400M Freestyle,Bronze
+1896,Athens,Aquatics,Swimming,"NEUMANN, Paul",AUT,Men,400M Freestyle,Gold
+1896,Athens,Aquatics,Swimming,"PEPANOS, Antonios",GRE,Men,400M Freestyle,Silver
+1896,Athens,Athletics,Athletics,"LANE, Francis",USA,Men,100M,Bronze
+1896,Athens,Athletics,Athletics,"SZOKOLYI, Alajos",HUN,Men,100M,Bronze
+1896,Athens,Athletics,Athletics,"BURKE, Thomas",USA,Men,100M,Gold
+1896,Athens,Athletics,Athletics,"HOFMANN, Fritz",GER,Men,100M,Silver
+1896,Athens,Athletics,Athletics,"CURTIS, Thomas",USA,Men,110M Hurdles,Gold
+1896,Athens,Athletics,Athletics,"GOULDING, Grantley",GBR,Men,110M Hurdles,Silver
+1896,Athens,Athletics,Athletics,"LERMUSIAUX, Albin",FRA,Men,1500M,Bronze
+1896,Athens,Athletics,Athletics,"FLACK, Edwin",AUS,Men,1500M,Gold
+1896,Athens,Athletics,Athletics,"BLAKE, Arthur",USA,Men,1500M,Silver
+1896,Athens,Athletics,Athletics,"GMELIN, Charles",GBR,Men,400M,Bronze
+1896,Athens,Athletics,Athletics,"BURKE, Thomas",USA,Men,400M,Gold
+1896,Athens,Athletics,Athletics,"JAMISON, Herbert",USA,Men,400M,Silver
+1896,Athens,Athletics,Athletics,"GOLEMIS, Dimitrios",GRE,Men,800M,Bronze
+1896,Athens,Athletics,Athletics,"FLACK, Edwin",AUS,Men,800M,Gold
+1896,Athens,Athletics,Athletics,"DANI, Nandor",HUN,Men,800M,Silver
+1896,Athens,Athletics,Athletics,"VERSIS, Sotirios",GRE,Men,Discus Throw,Bronze
+1896,Athens,Athletics,Athletics,"GARRETT, Robert",USA,Men,Discus Throw,Gold
+1896,Athens,Athletics,Athletics,"PARASKEVOPOULOS, Panagiotis",GRE,Men,Discus Throw,Silver
+1896,Athens,Athletics,Athletics,"CLARK, Ellery",USA,Men,High Jump,Gold
+1896,Athens,Athletics,Athletics,"CONNOLLY, James",USA,Men,High Jump,Silver
+1896,Athens,Athletics,Athletics,"GARRETT, Robert",USA,Men,High Jump,Silver
+1896,Athens,Athletics,Athletics,"CONNOLLY, James",USA,Men,Long Jump,Bronze
+1896,Athens,Athletics,Athletics,"CLARK, Ellery",USA,Men,Long Jump,Gold
+1896,Athens,Athletics,Athletics,"GARRETT, Robert",USA,Men,Long Jump,Silver
+1896,Athens,Athletics,Athletics,"KELLNER, Gyula",HUN,Men,Marathon,Bronze
+1896,Athens,Athletics,Athletics,"LOUIS, Spyridon",GRE,Men,Marathon,Gold
+1896,Athens,Athletics,Athletics,"VASILAKOS, Kharilaos",GRE,Men,Marathon,Silver
+1896,Athens,Athletics,Athletics,"DAMASKOS, Evangelos",GRE,Men,Pole Vault,Bronze
+1896,Athens,Athletics,Athletics,"THEODOROPOULOS, Ioannis",GRE,Men,Pole Vault,Bronze
+1896,Athens,Athletics,Athletics,"HOYT, William Welles",USA,Men,Pole Vault,Gold
+1896,Athens,Athletics,Athletics,"TYLER, Albert",USA,Men,Pole Vault,Silver
+1896,Athens,Athletics,Athletics,"PAPASIDERIS, Georgios",GRE,Men,Shot Put,Bronze
+1896,Athens,Athletics,Athletics,"GARRETT, Robert",USA,Men,Shot Put,Gold
+1896,Athens,Athletics,Athletics,"GOUSKOS, Miltiadis",GRE,Men,Shot Put,Silver
+1896,Athens,Athletics,Athletics,"PERSAKIS, Ioannis",GRE,Men,Triple Jump,Bronze
+1896,Athens,Athletics,Athletics,"CONNOLLY, James",USA,Men,Triple Jump,Gold
+1896,Athens,Athletics,Athletics,"TUFFERI, Alexandre",FRA,Men,Triple Jump,Silver
+1896,Athens,Cycling,Cycling Road,"BATTEL, Edward",GBR,Men,Individual Road Race,Bronze
+1896,Athens,Cycling,Cycling Road,"KONSTANTINIDIS, Aristidis",GRE,Men,Individual Road Race,Gold
