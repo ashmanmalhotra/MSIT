@@ -1,0 +1,451 @@
+WEBVTT
+
+00:01.190 --> 00:04.340
+So we have already created a data frame object.
+
+00:04.340 --> 00:08.210
+Now let's see what are the attributes animate tones we can apply on top of it.
+
+00:08.690 --> 00:16.490
+So we are going to act on this particular data from what we all created in the last video from this
+
+00:16.490 --> 00:19.290
+particular and very dark data not see as we fight.
+
+00:19.400 --> 00:23.430
+Now let's say we want to display some of the records.
+
+00:23.450 --> 00:26.770
+So if I just do the f it will list.
+
+00:26.780 --> 00:30.140
+It will display a lot of different course for me.
+
+00:30.470 --> 00:36.050
+So there are total thirty first records and 30 from the end of the whole dataset.
+
+00:36.050 --> 00:42.260
+It has displayed me because my default settings up since are local maximum rows I need to display like
+
+00:42.260 --> 00:48.560
+a 60 because first 30 and the last 30 and maybe maximum column all the columns might be but instead
+
+00:48.560 --> 00:54.710
+of that I just want to let's say display some few records on our favorite codes or attend a course or
+
+00:54.980 --> 00:58.640
+to record strongly because I don't want to display every single thing.
+
+00:58.670 --> 01:06.870
+So we have a provision for fundamentals like a head and head by default if you don't supply anything
+
+01:07.130 --> 01:09.200
+it will return a fine course.
+
+01:09.270 --> 01:18.900
+So fight back or only it will display let's say if you want to display just the right course so you
+
+01:18.900 --> 01:20.940
+can just supply two.
+
+01:21.240 --> 01:22.620
+So that is a cool record.
+
+01:22.620 --> 01:24.940
+It has the right time.
+
+01:25.040 --> 01:30.990
+Now you can change all those kinds of setting scene to future sex and not this particular cause and
+
+01:31.110 --> 01:37.240
+by default whatever the data frame object will display the number of records that you can tweak around.
+
+01:37.470 --> 01:41.970
+So far I mean we dealt this head matter you can control that.
+
+01:42.000 --> 01:48.440
+How many total number of records you want to display now if you see here the original data from F and
+
+01:48.440 --> 01:54.510
+what I want the output Rio got after playing this had matter you feel like it has crap like a two different
+
+01:54.510 --> 02:00.540
+records or five different records in this particular case and it is just a return us but that is not
+
+02:00.540 --> 02:01.540
+the case actually.
+
+02:01.600 --> 02:08.280
+What would the data I guess extracted from your original data frame it as a return as the brand new
+
+02:08.280 --> 02:09.660
+data frame object.
+
+02:09.660 --> 02:15.760
+So let's see if I just assign it to your head and let me just execute it.
+
+02:16.290 --> 02:22.750
+And if I just type Let's type the head.
+
+02:22.860 --> 02:28.850
+This is also on a data frame so all those kinds of matters and tribute you can apply on the top of this
+
+02:29.160 --> 02:30.140
+the F head.
+
+02:30.180 --> 02:31.260
+They definitely object.
+
+02:31.260 --> 02:37.190
+Also the same you can apply on top of what is the F data frame object.
+
+02:37.230 --> 02:43.020
+Now all we've seen first fuel that goes from the starting of our data set let's say from the ending
+
+02:43.020 --> 02:43.620
+of data set.
+
+02:43.620 --> 02:48.870
+If you want to see a couple of records so far that we have of methods available later.
+
+02:50.580 --> 02:57.180
+So by default it will return a fight across from the end of the dataset from the last.
+
+02:57.180 --> 03:03.680
+So their total twenty two thousand five sixty one because indexing are starting from zero so we'll totally
+
+03:03.680 --> 03:05.420
+lost to a finite quantity.
+
+03:05.460 --> 03:06.270
+It has this.
+
+03:06.480 --> 03:14.850
+Let's say you want to grab just the of course last three records only so it has a US to create records
+
+03:14.880 --> 03:20.130
+and in both head and tail method will return as the brand new data object.
+
+03:20.130 --> 03:23.650
+Now let's see some more matters and it reveals what we can apply.
+
+03:23.910 --> 03:30.030
+So let's say you want to find what is the indexing value so we can use like index.
+
+03:30.110 --> 03:35.310
+So indexing is nothing but individual rule has been reference with which particular number.
+
+03:35.340 --> 03:38.220
+So yea the numbers are starting from zero.
+
+03:38.250 --> 03:41.370
+So let's see what is index active will return us.
+
+03:41.790 --> 03:48.120
+So it has returned as the range index Range Index kind of object was values are starting from zero and
+
+03:48.120 --> 03:51.930
+stopping at thirty two thousand by sixty one in a step.
+
+03:52.140 --> 03:56.190
+So every single record has been implemented by one number.
+
+03:56.460 --> 04:03.210
+Let's say you want to find one of the values that contained of this particular order data frame object.
+
+04:03.420 --> 04:06.850
+So it has a readiness number.
+
+04:07.250 --> 04:14.080
+And each individual row it is a two dimensionality array so every single record it has a record on this.
+
+04:14.160 --> 04:17.590
+Let's say you want to find what is the sweep of this data.
+
+04:17.790 --> 04:22.520
+So how many total number of rows and how many total number of columns it would put it on.
+
+04:22.980 --> 04:29.550
+So we know total thirty two thousand five sixty one total records added which we can get data from here
+
+04:29.550 --> 04:29.940
+also.
+
+04:30.300 --> 04:35.660
+But this is because the step is what steps is equal to 2.
+
+04:35.670 --> 04:41.940
+In that case it is implemented by 2 and we have a total number of records will be half but the same
+
+04:41.940 --> 04:44.870
+attribute to be not be calculated based on this index.
+
+04:44.880 --> 04:51.100
+But how many total absolute number of records are available and each record has how many total columns.
+
+04:51.450 --> 04:59.810
+Let's say you want to find the size so be our total zero point four million I would say zero point our
+
+04:59.820 --> 05:03.610
+four hundred and eighty eight thousand four one five.
+
+05:03.660 --> 05:05.670
+Total number of values that are really big.
+
+05:05.850 --> 05:15.330
+So if you just multiply this to number let me the plate will get to see my guy to grow one so you can
+
+05:15.330 --> 05:17.770
+see for 88 for the 1 5.
+
+05:17.820 --> 05:24.660
+Let's say you want to find one other column names that are really in your dataset or you can use the
+
+05:24.660 --> 05:25.950
+Column attribute.
+
+05:26.070 --> 05:27.690
+So we our age world class.
+
+05:27.690 --> 05:32.730
+So this is the exact same list object not video explicitly created.
+
+05:32.880 --> 05:39.520
+All we want to find what is that data type of individual column so you can see the data.
+
+05:39.630 --> 05:45.450
+Now if you see the original data frame objects or double what is nearly the same object.
+
+05:45.640 --> 05:52.120
+So there are some attribute or I would say some columns are flawed in nature numeric in nature some
+
+05:52.120 --> 05:58.100
+are like an a categorical or some either like or you could say string in nature.
+
+05:58.450 --> 06:00.720
+So here it's a male female kind of thing.
+
+06:00.790 --> 06:01.910
+So let's see.
+
+06:02.050 --> 06:05.320
+While reading this particular dot Yes we.
+
+06:05.410 --> 06:06.820
+How does bind us labor.
+
+06:06.820 --> 06:13.760
+He has identified each individual column so far that we can get this idea from the data attribute.
+
+06:14.020 --> 06:18.330
+So you can see the ages now in data 64.
+
+06:18.450 --> 06:20.860
+World class is like an object because it's a string.
+
+06:21.580 --> 06:23.930
+So FLN redesign Deja 60.
+
+06:24.130 --> 06:30.610
+Now somehow if you feel that this band as library while reading this particular file it is not correctly
+
+06:30.610 --> 06:32.200
+identified the data.
+
+06:32.300 --> 06:33.300
+You can even change it.
+
+06:33.310 --> 06:36.800
+So we'll see how to change this particularly that type in the future.
+
+06:36.820 --> 06:43.320
+Because the sex is object by default it has taken the object but it has just to value like a male or
+
+06:43.320 --> 06:43.960
+a female.
+
+06:44.050 --> 06:51.370
+So we can even use done other data like a category and once we change the sex particularly sex column
+
+06:51.430 --> 06:55.210
+in the category column in that category type of column.
+
+06:55.240 --> 07:00.170
+So in that case we can see some memory also because we have just a newly weds that I really want.
+
+07:00.220 --> 07:02.470
+So either it will be a male or a female.
+
+07:02.590 --> 07:07.420
+So there is no hard requirement to write in every single records like I am.
+
+07:07.450 --> 07:12.010
+And that is a four character is required in case a female is a six character is required.
+
+07:12.070 --> 07:18.700
+So we can just encoded into two small numbers like a 0 1 0 1 kind of let's say you want to grab some
+
+07:18.700 --> 07:21.230
+information related to this later.
+
+07:21.250 --> 07:27.740
+So we have one in four matters that are available now.
+
+07:27.760 --> 07:32.290
+It will return us that this is kind of data from object.
+
+07:32.480 --> 07:39.400
+Its range indexes having a total thirty two thousand five sixty one entries and it is starting from
+
+07:39.400 --> 07:43.100
+zero to thirty two thousand five sixty data.
+
+07:43.130 --> 07:46.100
+While I'm having a total 15 column Saturday.
+
+07:46.510 --> 07:55.110
+Now if you see here that age having a total two 32000 561 non null integer 64 bit kind of object.
+
+07:55.150 --> 07:58.840
+So this particular ADR.
+
+07:59.040 --> 08:01.230
+Giving us the information that how many.
+
+08:01.250 --> 08:06.630
+Total number of records are available or values that I really want in each particular column.
+
+08:07.050 --> 08:13.230
+So if you get to know about that even in some of the columns if you get the lesser number that means
+
+08:13.230 --> 08:15.170
+some values that are missing.
+
+08:15.240 --> 08:22.590
+But in this case we would total 32000 561 entries and that is the entry which is completely resembling
+
+08:22.590 --> 08:24.250
+with every single column.
+
+08:24.270 --> 08:30.860
+That means there is no missing value in our over as the last two information will give us like a detail.
+
+08:31.080 --> 08:36.510
+So we'll total six column which has been identified like all integer 64 bit.
+
+08:36.780 --> 08:39.480
+And there are nine column which is an object.
+
+08:39.570 --> 08:43.370
+If you just count later how many total integer columns.
+
+08:43.530 --> 08:50.420
+One two three four five and six and remaining all the objects and memory uses.
+
+08:50.420 --> 08:59.130
+So while loading this data into memory it has occupied almost three point seven megabytes of space.
+
+08:59.160 --> 09:02.940
+We can even get this detailed information from get
+
+09:07.850 --> 09:15.350
+the tape and the score counts the same information we'll get Laker in data 64 bit kind of data they
+
+09:15.390 --> 09:21.300
+feel our total six column and for object kind of data lately I went to the nine column so it has redone
+
+09:21.310 --> 09:22.720
+as the CS kind of object.
+
+09:22.720 --> 09:29.100
+So if you just compare it with what we are learning the last section that this this particular cities
+
+09:29.130 --> 09:30.100
+it has written return.
+
+09:30.130 --> 09:36.030
+So these are like data type and values are like how many total number of columns had available in your
+
+09:36.510 --> 09:44.340
+data frame for that particular day today and the last one is like a detail so D-Day here in digits 64
+
+09:44.340 --> 09:51.510
+bit is nothing but this 6 and 9 numbers because it is given us the cities and for that particular cities
+
+09:51.510 --> 09:57.590
+also it has a Dennis that type objects so data type object that would see let's say you want to find
+
+09:57.970 --> 09:58.530
+X's.
+
+09:58.680 --> 10:03.030
+So we've already got this from the index and a column.
+
+10:03.090 --> 10:08.190
+But if you just want to combine all those information we can use like axes.
+
+10:08.400 --> 10:11.550
+So it will return as the total to objects.
+
+10:11.550 --> 10:17.070
+So one is a Raleigh will objects which bill already got from the F docking next to the engine next and
+
+10:17.070 --> 10:21.390
+another one is a index which is equivalent to the each individual column need.
+
+10:21.570 --> 10:23.400
+Let's say you want to describe.
+
+10:23.600 --> 10:30.570
+So what they were all the individual B's columns are available it will calculate all the statistical
+
+10:30.780 --> 10:32.730
+function on the top of it.
+
+10:32.850 --> 10:39.530
+So it has written as first of all the brand new data different object and we show total six individual
+
+10:39.540 --> 10:40.520
+columns that are really well.
+
+10:40.530 --> 10:47.400
+So this described function will calculate this at some of the statistical parameter are all individual
+
+10:47.400 --> 10:52.260
+column which is having a data type it digit order it might be flawed also.
+
+10:52.260 --> 10:59.100
+So we have a total count it has given us first then the mean value our average value of each individual
+
+10:59.400 --> 11:01.260
+column standard deviation.
+
+11:01.260 --> 11:03.660
+What is the minimum value for that particular column.
+
+11:03.660 --> 11:06.650
+What is the maximum value and what is a right.
+
+11:06.720 --> 11:07.800
+Or 25 percent.
+
+11:07.800 --> 11:14.400
+Quite right in that twenty five percentage of value in your dataset having eight less than 20.
+
+11:14.670 --> 11:17.450
+Now once you've got this information you can take a better.
+
+11:17.450 --> 11:21.630
+This isn't that what you need to do next as a data scientist.
+
+11:22.230 --> 11:28.980
+OK so we'll see in a couple of attributes then in matters we can apply directly on top of this data
+
+11:28.980 --> 11:30.340
+frame kind of object.
+
+11:30.570 --> 11:31.920
+So that's all about this video.
+
+11:31.920 --> 11:33.080
+See in the next video.

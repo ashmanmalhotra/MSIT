@@ -1,0 +1,209 @@
+WEBVTT
+
+0
+00:02.040 --> 00:02.820
+Hello everyone.
+
+1
+00:03.090 --> 00:03.920
+And welcome back.
+
+2
+00:04.650 --> 00:10.260
+So we've seen about one very important data structure available in pandas library, Series
+
+3
+00:10.260 --> 00:13.250
+data structure of one dimensional data structure.
+
+4
+00:13.260 --> 00:19.620
+Now we are going to learn about one of the very important core data structure of pandas like a data
+
+5
+00:19.620 --> 00:20.620
+frame.
+
+6
+00:20.700 --> 00:22.530
+So let's see about what is data frame.
+
+7
+00:22.840 --> 00:29.510
+So data frame in a pond as is somewhat inherited concept from other statistical based programming language
+
+8
+00:29.520 --> 00:35.340
+like our programming language are you an Oracle database also having a concept like a date offering
+
+9
+00:35.640 --> 00:40.060
+so data free is nothing but a two dimensional data structure.
+
+10
+00:40.080 --> 00:45.740
+So earlier we have seen that individual single columns represent the cities.
+
+11
+00:45.830 --> 00:49.530
+You know you can say any tabular kind of data.
+
+12
+00:49.650 --> 00:56.220
+Now in the case of this needle frame kind of data structure or a data frame kind of object we have a
+
+13
+00:56.250 --> 01:03.210
+might people call Saturday but so data frame is like an you can consider like a table in a sequel database
+
+14
+01:03.390 --> 01:07.440
+or a tabular kind of way to represent the data.
+
+15
+01:07.440 --> 01:16.270
+So it's a two dimensional data type 2 dimensional I would say that labor data so every single number
+
+16
+01:16.390 --> 01:23.110
+in a data frame has been represented by the two numbers that it lies in which particular hurdle and
+
+17
+01:23.110 --> 01:24.190
+which particular column.
+
+18
+01:24.430 --> 01:28.670
+So here individual row is equivalent to the individual a record.
+
+19
+01:28.690 --> 01:36.250
+So each and every value corresponding to which particular records and lies in which particular column.
+
+20
+01:36.450 --> 01:43.000
+Now compared to other cities data structure which is required of one reference point to represent any
+
+21
+01:43.000 --> 01:44.690
+particular value.
+
+22
+01:44.710 --> 01:51.330
+So if you want to get any particular value in a case of cities you just need a one number varies.
+
+23
+01:51.340 --> 01:57.270
+Now in the case of this kind of data frame kind of object in that case to get any particular value so
+
+24
+01:57.280 --> 01:59.220
+let's say this to 38.
+
+25
+01:59.250 --> 02:07.140
+So 230 lies in a six through I would say or a six number of records and it lies in to meet column or
+
+26
+02:07.150 --> 02:09.210
+the column name is let's say Jen.
+
+27
+02:09.280 --> 02:18.370
+So every single value can be referenced with the two different numbers so tabular visual of representation
+
+28
+02:18.430 --> 02:20.750
+is nothing but bad data framing upon us.
+
+29
+02:21.130 --> 02:25.150
+And it is one of the very important core data structure available in a bind us.
+
+30
+02:25.360 --> 02:32.500
+And every time community people do use while applying any machine learning algorithm or any kind of
+
+31
+02:32.500 --> 02:39.130
+further analytics that is an algorithm before that it has to be presented in such a kind of format for
+
+32
+02:39.240 --> 02:43.960
+need up any processing kind of steps or data leading kind of steps.
+
+33
+02:43.960 --> 02:49.750
+So what we are going to learn through this whole sexting so we'll start with the creation of this data
+
+34
+02:49.750 --> 02:50.240
+frame.
+
+35
+02:50.260 --> 02:56.770
+So we generate some random number and create the data from all of we created a different from some external
+
+36
+02:57.010 --> 03:02.030
+file system like a comma separated file order tab separate file.
+
+37
+03:02.410 --> 03:07.470
+Once we have a data frame has been created we'll see what other attributes and in matters we can apply
+
+38
+03:07.480 --> 03:08.620
+on top of it.
+
+39
+03:08.740 --> 03:15.120
+We'll see how to apply this blame method on individual flaws or individual columns of this data him
+
+40
+03:15.220 --> 03:18.700
+and how to apply the map to indexing mechanism.
+
+41
+03:18.700 --> 03:24.840
+So here we have a multiple indexing like you can use like a single label indexing also.
+
+42
+03:24.910 --> 03:31.660
+So rolling an indexing column and indexing plus multiple indexing will see how to handling the missing
+
+43
+03:31.660 --> 03:37.630
+valuing the data frame how to fill the missing value once you are identified that these are the missing
+
+44
+03:37.630 --> 03:40.040
+value and how to extract individual value.
+
+45
+03:40.180 --> 03:45.010
+So there are a number of ways and number of mechanisms that are really able to extract each individual
+
+46
+03:45.250 --> 03:51.420
+value with a two different reference point and in place parameter.
+
+47
+03:51.440 --> 03:55.930
+And there are many more concepts that are associated with that data and we are going to see in this
+
+48
+03:55.940 --> 03:57.550
+recovery section.
+
+49
+03:57.700 --> 04:03.790
+So I hope you are excited and let's get started from the next video we'll start creating a very simple
+
+50
+04:03.940 --> 04:05.820
+data frame kind of object.
+
+51
+04:06.070 --> 04:07.610
+We delegate this spineless label.

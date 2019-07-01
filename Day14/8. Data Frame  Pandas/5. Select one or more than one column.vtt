@@ -1,0 +1,292 @@
+WEBVTT
+
+00:00.550 --> 00:01.660
+Hi everyone.
+
+00:01.780 --> 00:08.030
+So let's see how we can select one column order more than one column from this data frame object.
+
+00:08.290 --> 00:11.910
+So we have already data frame available in our near object.
+
+00:12.070 --> 00:15.260
+So let's see fossil fuel of course with Delta.
+
+00:15.250 --> 00:17.530
+This head matter.
+
+00:17.890 --> 00:22.690
+So we have total 17 columns available with us in a data frame object.
+
+00:22.690 --> 00:27.600
+Now to select one column or multiple column so multiple column will see later.
+
+00:27.700 --> 00:30.530
+First we'll see how to select a single column.
+
+00:30.610 --> 00:37.480
+So to select a single column there are two ways one can go six ways and I'm going to show you both of
+
+00:37.480 --> 00:38.230
+the ways.
+
+00:38.230 --> 00:44.550
+So second these will be hard because in time it will work the first way it may work or may not work.
+
+00:44.860 --> 00:50.310
+But let's see the first one and then we go with the second we will use a hundred percent surety that
+
+00:50.320 --> 00:55.300
+it will always work to extract any individual columns from the data frame object.
+
+00:56.120 --> 00:56.480
+OK.
+
+00:56.560 --> 01:02.990
+So first is like a D if we have a total 17 columns that are relevant and the column names are like a
+
+01:03.010 --> 01:07.120
+each what class a felony or education.
+
+01:07.180 --> 01:11.640
+So we already applied a number of attributes on top of this data frame object.
+
+01:11.740 --> 01:18.300
+Same way the names of each individual column we can treat it like it is an attribute of this need of
+
+01:18.290 --> 01:19.060
+an object.
+
+01:19.060 --> 01:24.720
+So I can just simply type like let's say we want to grab education column.
+
+01:24.730 --> 01:27.750
+So the F not education.
+
+01:28.120 --> 01:35.150
+So we treat each individual column name as a attribute of this particular data pretty much.
+
+01:35.290 --> 01:43.350
+And if I just simply execute we can get this particular column like a bachelor bachelor which is great
+
+01:43.520 --> 01:50.700
+relevant and matchless and it has written us one particular column which is nothing but a brand new
+
+01:50.700 --> 01:51.880
+C.D. object.
+
+01:52.140 --> 01:53.730
+So the name is education.
+
+01:53.880 --> 02:00.840
+The land is a total two thousand five sixty one value test written and a data type is an object.
+
+02:00.840 --> 02:03.720
+So this is a one way you can grab individual column.
+
+02:04.590 --> 02:08.910
+OK let's grab another column let's say each graph each.
+
+02:08.910 --> 02:11.940
+So each.
+
+02:11.940 --> 02:13.520
+So we have got H.
+
+02:13.830 --> 02:21.180
+Now the problem really starts when we are trying to grab some column which is having the species in
+
+02:21.180 --> 02:21.660
+deadening.
+
+02:21.790 --> 02:23.930
+So like a kind of species.
+
+02:23.940 --> 02:26.430
+So let's try to grab this particular column.
+
+02:26.980 --> 02:27.670
+OK.
+
+02:27.920 --> 02:34.610
+And I'm just going to select this particular name column and let's see what a great.
+
+02:35.880 --> 02:43.380
+So now you can see what will happen because python is now confused that what you are trying to stick.
+
+02:43.560 --> 02:46.820
+So we are trying to extend the full kind of species.
+
+02:46.920 --> 02:52.860
+But before that there is a two species that I believe we saw if I tried to execute it will tell me that
+
+02:52.860 --> 03:02.210
+invalid syntax because there is no column like a kind first of all and after that of business 10 definitely
+
+03:02.260 --> 03:03.320
+doesn't an.
+
+03:03.650 --> 03:10.670
+So that's why whenever you find any species or any extra character which is not compatible by writing
+
+03:10.730 --> 03:15.910
+such a kind of syntax to grab each individual column of this little flying object.
+
+03:15.920 --> 03:19.190
+So in that case this type of approach will not work.
+
+03:19.550 --> 03:22.460
+So let's see about the honor their approach.
+
+03:22.460 --> 03:26.630
+So another approach is you need to write a little bit more characters.
+
+03:26.630 --> 03:33.320
+So in that case you can use that to line up bracket quotation and inside the brackets you can just simply
+
+03:33.320 --> 03:36.380
+write like a let's say age this week.
+
+03:36.740 --> 03:41.110
+And it will return the same thing like a C.D. object has written.
+
+03:41.660 --> 03:44.210
+So same series object we got earlier also.
+
+03:44.280 --> 03:46.490
+It's such a kind of notation.
+
+03:46.580 --> 03:48.570
+OK let's grab now.
+
+03:48.590 --> 03:51.430
+Same kind of species.
+
+03:51.440 --> 03:58.500
+So the F bracket inside the bracket in a course really great a kind of species.
+
+03:58.520 --> 04:01.080
+So now we have got all the human meat.
+
+04:01.160 --> 04:04.030
+That means this apologies on this volcano.
+
+04:04.160 --> 04:10.750
+So this way you can grab individual columns of this particular of the data frame object.
+
+04:10.790 --> 04:14.920
+Now let's say if you want to grab more than one column.
+
+04:15.110 --> 04:17.210
+So let let me just.
+
+04:18.440 --> 04:28.130
+Let's play fast food cross again and let's say we want to grab either H and education both at a one
+
+04:28.130 --> 04:28.780
+shot.
+
+04:28.790 --> 04:33.770
+So in that case also there is no way that now you can use this dart notation.
+
+04:33.800 --> 04:37.420
+So instead of that go with this bracket notice.
+
+04:37.820 --> 04:42.970
+Now you need to later do wells because you want to grab the two different columns.
+
+04:42.980 --> 04:44.740
+Let's eat and education.
+
+04:44.750 --> 04:47.530
+So in that case you need to pass on the list.
+
+04:47.540 --> 04:54.860
+So I am just going to supply the list inside this bracket notation so list we can represent in a python
+
+04:54.860 --> 05:00.590
+with such a kind of notation now inside that I'm just going to put two columns.
+
+05:00.890 --> 05:03.560
+So the first one is like a h.
+
+05:03.560 --> 05:05.490
+And the second one is like education.
+
+05:07.220 --> 05:07.890
+OK.
+
+05:08.060 --> 05:09.480
+Let me just execute it.
+
+05:09.500 --> 05:18.800
+So now you can see we got two column in each and education and this columns are not a series.
+
+05:18.800 --> 05:22.700
+Now we've got the brand new data frame object.
+
+05:22.700 --> 05:25.570
+We can even grab more than two columns.
+
+05:25.700 --> 05:33.220
+You can write as many numbers of column you want from here and even you can assign let's say to under
+
+05:33.260 --> 05:33.670
+regime.
+
+05:33.920 --> 05:42.860
+So let's say let's do one thing let's create the one select select kind of object and here will write
+
+05:42.950 --> 05:44.300
+all this column.
+
+05:44.570 --> 05:50.510
+So let's say each and then let's say education
+
+05:54.150 --> 05:55.870
+and let's say celery.
+
+05:57.210 --> 05:58.110
+OK.
+
+05:58.190 --> 06:03.620
+And the same select we are going to pass them the F object.
+
+06:03.770 --> 06:04.030
+OK.
+
+06:04.060 --> 06:06.020
+So bracket tradition of this myth.
+
+06:06.650 --> 06:12.490
+And now you can see we have got a three column as the output.
+
+06:12.540 --> 06:19.370
+We can even assign it to them select data leave.
+
+06:19.500 --> 06:30.540
+And if you just find that type of this selected leaf object it's a bind us code from data frame kind
+
+06:30.540 --> 06:31.570
+of object.
+
+06:31.740 --> 06:37.980
+So this way there are two ways you can grab the one column but I would suggest you go the IT sector
+
+06:37.980 --> 06:44.490
+kind of bracket noticing that either then those attribute kind of notation and if you want to pass more
+
+06:44.490 --> 06:50.670
+then or if you want to grab more than one column in that case you need to pass some sort of list inside
+
+06:50.670 --> 06:54.450
+the list you can pass all those column which you want to write right.
+
+06:54.810 --> 07:00.740
+And we tell of such a kind of package notation you can replace individual columns of this natively.
+
+07:01.000 --> 07:02.690
+OK so that is all about this video.
+
+07:02.700 --> 07:03.870
+See you next would you.

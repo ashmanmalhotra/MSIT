@@ -1,0 +1,157 @@
+WEBVTT
+
+00:00.550 --> 00:04.320
+All right everyone so let's see about the night I expected.
+
+00:04.360 --> 00:10.890
+So we already learn how to drive the individual loads of information in a last video with the help of
+
+00:10.900 --> 00:13.630
+not locked my car and not I locked metal.
+
+00:13.630 --> 00:20.920
+Now this object too of this I use method is also exactly similar but that is a one difference is that
+
+00:21.160 --> 00:28.800
+this i.e. X matter will take care of most positional base argument plus label based argument or positional
+
+00:28.810 --> 00:31.170
+based indexing and a label based indexing mode.
+
+00:31.510 --> 00:40.780
+So we're already loaded of a data frame in a last studio like data of objects a data object is a data
+
+00:40.780 --> 00:41.330
+frame object.
+
+00:42.400 --> 00:47.530
+So now you can see the other individual countries of information available to us.
+
+00:47.770 --> 00:53.810
+So each country as its me is serving in a I'll call organisms and mine serving spirit serving these
+
+00:53.840 --> 00:55.620
+days really will be test.
+
+00:55.670 --> 01:03.120
+Now let's say you want to grab the third countries information so you can use this not a lot matter
+
+01:03.520 --> 01:10.000
+and you can use the positional BS argument instead of that you can use this lot smarter and use this
+
+01:10.000 --> 01:16.630
+position and these arguments of let's say tournaments index number will be pointing to two is pointing
+
+01:16.630 --> 01:17.970
+to Nigeria.
+
+01:18.010 --> 01:19.990
+Let me just executed.
+
+01:19.990 --> 01:26.250
+Now you can see it has given us one deprecation warning in effect from the future war zone.
+
+01:26.260 --> 01:28.250
+It is going to become a deprecated.
+
+01:28.450 --> 01:34.470
+So they are suggesting that this dark matter is anyhow going to become deprecated.
+
+01:34.480 --> 01:41.290
+So please use this dot lock and dialogue so not lobbies for a label with indexing and not look for the
+
+01:41.290 --> 01:44.760
+position that is indexing as we already seen in the last years.
+
+01:45.130 --> 01:52.240
+So any or this property of this data frame object like Anata yes is going to become a duplicate but
+
+01:52.330 --> 01:58.230
+I just want to show you that most of the kind of indexing you can possibly do it.
+
+01:58.270 --> 02:04.410
+So now let's say you want to really great in this area.
+
+02:04.420 --> 02:10.620
+So instead of passing let's it do you can even pass the Atlanta area.
+
+02:10.750 --> 02:17.500
+Now you can imagine that most of the time so indexing mechanism will work to drive the data in case
+
+02:17.500 --> 02:19.660
+of this property.
+
+02:19.780 --> 02:24.880
+Now you can see exactly the same data you retrieve as we all retired earlier.
+
+02:24.880 --> 02:27.770
+You can even use this range of values.
+
+02:27.910 --> 02:34.810
+So let's say we can use no x so let's say from 3 to 7 currently we want to reclaim.
+
+02:36.400 --> 02:44.010
+So we have countries like between 3 to 7 like Angola Angola Antigua and Barbuda and Argentina.
+
+02:44.020 --> 02:52.110
+Let's use the same lottery x property with the help of this rather than positional based argument will
+
+02:52.120 --> 02:53.670
+pass the legal base argument.
+
+02:54.040 --> 02:57.850
+So let's see the first argument we posit like Andorra.
+
+02:58.510 --> 03:01.420
+So I'm just going to select 10 pasted here.
+
+03:02.100 --> 03:06.730
+And after cologne we are going to pass another Laker Argentina.
+
+03:07.480 --> 03:09.530
+OK let me just execute.
+
+03:09.820 --> 03:12.910
+So now you can see the same set of information.
+
+03:12.910 --> 03:14.280
+It has very.
+
+03:14.470 --> 03:21.900
+So it is not a property you can use both of this indexing label means indexing or a positional base
+
+03:21.910 --> 03:27.470
+indexing in one same property rather than using this dot block and not a lock matter.
+
+03:27.700 --> 03:32.770
+But as this finalizes giving warning that it's a deprecation mining it anyhow it is going to become
+
+03:32.770 --> 03:33.330
+deprecated.
+
+03:33.340 --> 03:39.530
+So if you upgrade your library find us in a future you may not find this not its proper.
+
+03:39.960 --> 03:40.290
+OK.
+
+03:40.390 --> 03:42.860
+So I just want to introduce you.
+
+03:42.880 --> 03:49.330
+That is not I property properties a replacement of kind of most of this property like a dot lock and
+
+03:49.330 --> 03:50.640
+a dot I lock.
+
+03:50.740 --> 03:57.760
+But I would highly suggest to you that as finders community is suggesting to use this lock method and
+
+03:57.760 --> 04:01.540
+not I lock meter for it trial the individual flows of information.
+
+04:01.930 --> 04:03.880
+OK so that's all about this video.
+
+04:03.880 --> 04:05.480
+See you in the next video.

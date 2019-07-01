@@ -1,0 +1,517 @@
+WEBVTT
+
+00:00.600 --> 00:01.410
+Hello everyone.
+
+00:01.770 --> 00:08.160
+So let's discuss about the two important matter to retry the individual roles available in your data
+
+00:08.160 --> 00:08.740
+frame.
+
+00:08.810 --> 00:12.720
+So one is a dot log matter and another one is a dot.
+
+00:12.750 --> 00:19.740
+I log mental now the object behind both of this matter is exactly same to the trial the individual rows
+
+00:19.740 --> 00:20.950
+of your neck.
+
+00:21.150 --> 00:24.000
+But with two different kinds of mechanism.
+
+00:24.450 --> 00:27.710
+So let us first create our data frame object.
+
+00:27.790 --> 00:35.640
+Then we'll see how to use this dart LLC and not a lot matter to retry the individual rows of data frame
+
+00:35.730 --> 00:36.260
+object.
+
+00:36.720 --> 00:43.390
+So for the illustration purposes they can one data set like a drink not CSB fine.
+
+00:43.470 --> 00:47.980
+Let me just open it and let me just close this file browser.
+
+00:48.970 --> 00:57.400
+So this dataset is all about the different countries available on our planet alcohol consumption.
+
+00:57.400 --> 01:04.750
+So for each of the three days a beer serving Dennis spirit serving wine serving total liters of alcohol
+
+01:04.750 --> 01:10.880
+could Simpson has been associated with every single country and a last column has been associated that
+
+01:10.900 --> 01:13.700
+particular country belongs to which quantity.
+
+01:14.260 --> 01:19.130
+OK so let's eat this drinks not CSB fine.
+
+01:19.420 --> 01:21.690
+Let me just first import find this library
+
+01:27.880 --> 01:33.600
+and we are going to use as well read and as closely as we might have to read this links not fine.
+
+01:41.290 --> 01:45.030
+So now you can see we got a brand new data frame object.
+
+01:45.160 --> 01:49.530
+Now that is a one little modification I want to do at this moment.
+
+01:49.570 --> 01:55.960
+Now as for the illustration purpose of this dark block and I lost my turn which we are going to learn
+
+01:55.960 --> 02:02.590
+in this video I just want to make this country as our indexing column rather than our default indexing
+
+02:02.590 --> 02:08.750
+like credit and label based indexing our default indexing in this case is number based indexing.
+
+02:08.890 --> 02:16.960
+So let's make one more argument let's apply one more argument like a index column.
+
+02:16.960 --> 02:21.120
+So an index column I'm just going to pass like a country.
+
+02:21.130 --> 02:27.890
+So now every single law I can access with the country also sort of indelible dot not matter.
+
+02:27.910 --> 02:34.390
+We'll see about it and I can access with the number based indexing also with not i lock my tag.
+
+02:34.750 --> 02:38.870
+So let me just execute and just observe the change.
+
+02:38.920 --> 02:45.330
+Now you can see our index column has been highlighted with a very bold letter in a very first column.
+
+02:45.370 --> 02:51.430
+So that is a next column and that is a very unique value because every single country has a vinyl record
+
+02:51.430 --> 02:52.900
+associated in our dataset.
+
+02:53.980 --> 02:56.290
+Let me just assign it to the data object
+
+03:01.840 --> 03:06.050
+let me just display the first few records.
+
+03:06.970 --> 03:12.080
+So we have our individual draw has been associated with one country.
+
+03:12.080 --> 03:15.460
+Now let's dive into that block my time not a lot.
+
+03:15.850 --> 03:18.120
+So first let's concentrate on a lot.
+
+03:18.790 --> 03:23.660
+So let's say if you want to grab the information of let's say the country like Albania.
+
+03:24.160 --> 03:29.350
+So we can use like later block.
+
+03:30.220 --> 03:36.250
+So this is a kind of one property and year as a bracket notation you can pass it like a rich countries
+
+03:36.250 --> 03:38.550
+information you want to retrieve.
+
+03:38.650 --> 03:40.510
+So let's say Albania.
+
+03:40.510 --> 03:47.910
+So I can just simply pass like Albania now in the earlier videos of this data from sex and we already
+
+03:47.950 --> 03:51.800
+learn about how to drive the individual column.
+
+03:52.300 --> 03:58.900
+So in those keys we'll just directly supplied this bracket notation on top of data frame object.
+
+03:58.900 --> 04:05.910
+So whenever you do not use such a kind of property like daughter Lucy in that case it will the crowd
+
+04:05.920 --> 04:07.210
+that particular column.
+
+04:07.430 --> 04:15.250
+Now as we are explicitly using this not lock property and on top of that we are just passing as a bracket
+
+04:15.250 --> 04:19.040
+notation that which particular rows you want to retrieve it.
+
+04:19.090 --> 04:22.390
+It will require particular rows that added that in column.
+
+04:22.420 --> 04:26.130
+So that is a difference I would just want to highlight here.
+
+04:26.170 --> 04:32.160
+Now you can see Vio got the information about the country like Albania.
+
+04:32.210 --> 04:33.760
+Let's try with some other countries.
+
+04:33.760 --> 04:38.060
+So let's say later Ok let's try it.
+
+04:38.080 --> 04:39.920
+Let's say we have a country India.
+
+04:41.560 --> 04:45.340
+So we have a India has be serving information is like a nine.
+
+04:45.730 --> 04:52.600
+So compared to Albania it's a truly as you can see that it's serving is close the same line serving
+
+04:52.600 --> 04:54.330
+is also in case of India.
+
+04:54.340 --> 04:57.670
+It's close to zero compared to this Albania.
+
+04:57.670 --> 05:04.290
+It's a 54 and is there a specific reason like appointing here to continue this.
+
+05:04.490 --> 05:11.030
+So in both of the case it has written a brand new C.D. object for us and both of the cities object has
+
+05:11.030 --> 05:17.960
+a name that I like an object and a name has been associated with that particular index column value.
+
+05:18.080 --> 05:20.120
+Like in this case it's Albania.
+
+05:20.240 --> 05:22.760
+In this case it's India.
+
+05:22.760 --> 05:29.420
+Now let's say you want to grab more than one country's information or more than one rolls of information
+
+05:29.480 --> 05:36.290
+at a one shot rather than one one contains information so you can use the same property like dot LOC
+
+05:36.710 --> 05:41.640
+but now instead of passing just one single string you can pass the list optionally.
+
+05:41.900 --> 05:45.070
+So let's say the same to country will take.
+
+05:45.140 --> 05:48.820
+So now part of bracket notice are inside this bracket notation.
+
+05:48.830 --> 05:51.070
+We have to pass the list of values.
+
+05:51.110 --> 05:57.830
+So again I am putting the bracket notation so outer bracket notation is corresponding to this not lost
+
+05:57.830 --> 05:58.960
+property values.
+
+05:59.150 --> 06:03.980
+You know bracket notation corresponding to this list of where we want to pass.
+
+06:04.100 --> 06:04.530
+Okay.
+
+06:04.580 --> 06:12.630
+So let's take Albania first Albania and another one is like in India.
+
+06:12.740 --> 06:15.420
+Let me just execute or before I execute.
+
+06:15.430 --> 06:16.570
+Just think about it.
+
+06:16.610 --> 06:23.700
+What kind of data type or what kind of data structure it would written us because in earlier case we're
+
+06:23.720 --> 06:25.820
+just asking for one rows of information.
+
+06:25.820 --> 06:28.550
+Now we are asking for the two rows of information.
+
+06:28.640 --> 06:30.660
+So let me just execute.
+
+06:31.250 --> 06:37.730
+Now you can see we've got a brand new data frame object and every single row has been associated with
+
+06:38.030 --> 06:45.410
+the value we help pass like Albania and India and for Albania and India both of them as written or list
+
+06:45.410 --> 06:46.160
+of values.
+
+06:46.160 --> 06:51.500
+And now let's say if you want to grab just two columns let's say spirits serving either wine Sally you
+
+06:51.500 --> 06:58.160
+can just simply use this particular data frame as another bracket you can pass it like the same.
+
+06:58.160 --> 07:05.540
+We really drive the column because now this full statement is equivalent to the one data offering.
+
+07:05.660 --> 07:08.090
+Let me pass the argument.
+
+07:08.100 --> 07:09.550
+Let's say the blind study
+
+07:15.680 --> 07:18.140
+and another argument let's say the continent
+
+07:22.280 --> 07:29.090
+so you can see we'll just retry that particular column line serving in a continent for the two country
+
+07:29.090 --> 07:31.220
+like Albania and India.
+
+07:31.700 --> 07:34.490
+OK let's let's try it some more country.
+
+07:34.610 --> 07:36.130
+So let's say we won.
+
+07:36.320 --> 07:40.450
+Somehow we passed the some countries name which doesn't exist.
+
+07:40.610 --> 07:44.210
+So let's along with the Albania and India.
+
+07:44.210 --> 07:50.270
+Let's buy somewhere containing which definitely doesn't exist let's say x y z and let's see what it
+
+07:50.390 --> 07:51.470
+return.
+
+07:51.500 --> 07:58.850
+Now you can see it has returned us with a warning message that future warning there is some missing
+
+07:58.980 --> 07:59.490
+label.
+
+07:59.510 --> 08:03.260
+And in the future it will throw some sort of key error.
+
+08:03.260 --> 08:08.030
+So as of now it has not written any kind of error but just with a warning.
+
+08:08.030 --> 08:13.040
+But in a future was an not find us it is saying that there will be a key error very.
+
+08:13.310 --> 08:16.390
+Now if you consider as far as Albania India is concerned.
+
+08:16.430 --> 08:22.630
+That is all good and a fine but in case of this another country which doesn't exist in our data dataset
+
+08:22.640 --> 08:29.680
+like our X Files yet for all the values of that particular rule it is not which is indicating that it's
+
+08:29.680 --> 08:33.410
+not unknown what are kind of missing value you know what I say.
+
+08:34.160 --> 08:38.290
+OK now let's say we want to grab the range of values.
+
+08:38.390 --> 08:43.180
+So before that let me just display first few records again.
+
+08:43.260 --> 08:48.970
+So let's display looks at 10 records.
+
+08:49.140 --> 08:55.540
+Now you can see all the country has been starting with the category.
+
+08:55.640 --> 09:04.010
+So let's say you want to grab all the countries between Algeria and Australia like Algeria and Australia
+
+09:04.250 --> 09:09.140
+so you can use those kind of slicing and dicing to reclaim the range of values.
+
+09:09.140 --> 09:18.950
+So same dark block we are going to use an insight that we are going to pass now a colon before colon
+
+09:19.340 --> 09:25.490
+the first index value will pass and after colon the last index value or end index where we are going
+
+09:25.490 --> 09:32.680
+to pass and what they were all results exist between these two index value it will look private.
+
+09:32.930 --> 09:36.680
+So let's say the first value let's say we'll talk about Algeria
+
+09:39.230 --> 09:42.290
+and let's say done under one Latika Australia.
+
+09:45.410 --> 09:51.960
+So now you can see every single country has returned which is between Algeria and Australia.
+
+09:51.980 --> 09:55.110
+You know what I say in all of this column it is written.
+
+09:55.340 --> 10:01.890
+Now the same way you can grab individual columns of let's say you want to just crapper.
+
+10:02.560 --> 10:08.730
+Let's say one column like a bit sorry for this particular country you can collaborate like this.
+
+10:09.580 --> 10:16.210
+So now you can see whenever we try to snatch in one single column in that case it has written a series
+
+10:16.210 --> 10:20.970
+object but in earlier case we tried to snatch a two column in this case.
+
+10:21.010 --> 10:24.310
+So in that case it has written a brand new data frame object.
+
+10:24.310 --> 10:30.790
+So that is a tumble in the spine does that anywhere you try to snatch one single roll or a one single
+
+10:30.790 --> 10:34.690
+column in that case it will be done a cities object.
+
+10:34.750 --> 10:37.950
+Otherwise it will retain the data frame object.
+
+10:37.960 --> 10:38.290
+OK.
+
+10:38.320 --> 10:41.330
+So it's all about not lost matter.
+
+10:41.470 --> 10:47.220
+That how to try out the individual rows with the help of this label based indexing.
+
+10:47.230 --> 10:48.730
+Now let's talk about I look.
+
+10:48.910 --> 10:55.210
+So the objective behind as I look is exactly similar has that not lost matter.
+
+10:55.210 --> 11:02.290
+The only difference is that you can now grab the individual rows of information with digital base indexing
+
+11:02.370 --> 11:02.970
+also.
+
+11:03.040 --> 11:05.620
+So let's see the door.
+
+11:05.650 --> 11:06.100
+I know.
+
+11:06.570 --> 11:13.120
+Now instead of passing label based indexing you can pass the number base indexing so let's say the first
+
+11:13.120 --> 11:15.250
+record was index is zero.
+
+11:16.060 --> 11:18.760
+So you can see the first record is like Afghanistan.
+
+11:18.910 --> 11:21.390
+So let's then form it.
+
+11:21.400 --> 11:27.920
+So first the record is Afghanistan which is having all values at zero and this is your specific.
+
+11:28.210 --> 11:29.790
+So let's see what it has written.
+
+11:30.220 --> 11:37.090
+So you can see every single values Tito and continents is let's try to grab some other.
+
+11:37.190 --> 11:45.310
+So let's say they lock let's say the sixth row so was in next well you will be fine.
+
+11:45.940 --> 11:48.880
+So five will be and you're fine.
+
+11:48.880 --> 11:52.170
+Next number belongs to Antigua and Barbuda.
+
+11:52.720 --> 11:52.980
+OK.
+
+11:52.990 --> 11:55.640
+So this are my guests on my slate nine.
+
+11:56.010 --> 11:56.650
+OK.
+
+11:56.710 --> 12:02.860
+So that is how you can reclaim individual rows of information with additional base argument.
+
+12:02.860 --> 12:10.450
+Now let's say simply you want to grab the range of features so you can use the same slicing or distance
+
+12:10.460 --> 12:17.250
+so let's say you want to grab all the countries whose indexing are starting from 0 let's say 5.
+
+12:17.380 --> 12:21.470
+Let's say I do let's say then.
+
+12:22.110 --> 12:25.150
+And let me just execute it.
+
+12:25.150 --> 12:32.370
+Now you can see it as written in all countries was indexing values has been starting from fights or
+
+12:32.380 --> 12:41.800
+fires pointing to Antigua and Barbuda that 60s Argentina 70s Armenia 80s Australia and 90s Austria but
+
+12:41.840 --> 12:47.570
+then has been excluded because in this slicing notice and mostly this upper bound is excluded.
+
+12:47.590 --> 12:54.480
+Now let's say instead of range of countries name you want to grab some particular three countries names
+
+12:54.490 --> 13:03.960
+so instead of passing just the one value you can pass the list of value the same way Rio done it you.
+
+13:04.120 --> 13:04.680
+Allotment.
+
+13:04.960 --> 13:13.060
+So let's say was indexing let's say three or seven product well let me just execute it.
+
+13:13.140 --> 13:19.900
+So trees corresponding to Andorra so is corresponding to Armenia and Ralph's corresponding to bearing.
+
+13:20.640 --> 13:25.610
+OK so that is all about the dot log matter and Dot I not matter.
+
+13:25.620 --> 13:32.910
+Let me just summarize it whenever you want to retract any rows of information based on your label based
+
+13:32.910 --> 13:34.390
+indexing in that case.
+
+13:34.420 --> 13:41.640
+Always use this dark block matter and find this community also prefers to use this dark block metal
+
+13:41.670 --> 13:50.250
+and I lock meter to retry individual rows of information and you can use this dot I lock meter to retry
+
+13:50.250 --> 13:55.330
+individual rows of information based on your positional indexing like a number of these indexing which
+
+13:55.340 --> 13:59.520
+starting from numbers 0 1 2 in a sequential order.
+
+14:00.240 --> 14:04.290
+OK so that is all about the dot log matter and Dot I lock meter.
+
+14:04.290 --> 14:07.740
+I hope you enjoy listening to Syria and seeing the next video.

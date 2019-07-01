@@ -1,0 +1,313 @@
+WEBVTT
+
+00:00.910 --> 00:01.840
+All right everyone.
+
+00:01.900 --> 00:04.520
+So real seen in the last video.
+
+00:04.600 --> 00:11.440
+How to use this apply matter become our custom function to apply on one single column of the data frame
+
+00:11.440 --> 00:12.100
+object.
+
+00:12.100 --> 00:18.910
+Now in this video we'll see how to use of a custom function with this dot apply my turn and we'll apply
+
+00:18.910 --> 00:21.910
+on multiple different columns so indirectly.
+
+00:21.910 --> 00:28.100
+Now we're going to take advantage of every single column available in our data frame object manipulate
+
+00:28.120 --> 00:32.070
+it process it and try to generate some new data.
+
+00:32.260 --> 00:37.900
+So we are not just going to rely on a one single column instead of it we are going to take the data
+
+00:37.900 --> 00:39.380
+from every single column.
+
+00:39.460 --> 00:40.810
+So how we can do it.
+
+00:40.880 --> 00:46.750
+Same apply matter we are going to use but now little bit different.
+
+00:47.020 --> 00:49.660
+OK so we're going to take the same dataset.
+
+00:49.680 --> 00:56.470
+So let me just executed and let us display first field of course.
+
+00:56.500 --> 00:59.970
+So now we have all 15 columns of element.
+
+00:59.970 --> 01:00.490
+It has.
+
+01:01.090 --> 01:07.140
+So let's say it's not a proper business use case but let's say I want to generate one column which is
+
+01:07.390 --> 01:11.670
+dependent on the let's say sex and a salary.
+
+01:11.710 --> 01:17.710
+So I want to generate one new column which is giving a description for each individual.
+
+01:18.040 --> 01:24.850
+So let's say we will generate a new description for that record will be something like men are turning
+
+01:24.970 --> 01:25.790
+50.
+
+01:25.980 --> 01:28.470
+Then men need to get on.
+
+01:28.810 --> 01:31.650
+Let me display a few more records.
+
+01:31.720 --> 01:35.980
+So is there anything we have a greater than 50 and we are females.
+
+01:35.980 --> 01:43.510
+So women are being 50 so this way we hope to create a new column which is dependent on two different
+
+01:43.510 --> 01:46.070
+columns like a sex and a salary.
+
+01:46.150 --> 01:51.190
+And eventually it is going too far to make the story based on the sex sensuality.
+
+01:51.310 --> 01:54.010
+And it will generate a new column for us.
+
+01:54.010 --> 01:57.190
+So let's create our custom function first.
+
+01:57.310 --> 02:05.230
+So let's say F and we'll give the function name like in the USA like we are giving the description of
+
+02:05.560 --> 02:07.570
+individual records.
+
+02:07.570 --> 02:12.740
+Now here we are not going to get value from one particular column.
+
+02:12.820 --> 02:17.530
+Instead of that we are going to get value from every single value of each column.
+
+02:17.860 --> 02:25.060
+So I'm just going to posit like a rule which will be nothing but the list as we apply this apply matter
+
+02:25.060 --> 02:26.700
+on a whole data frame object.
+
+02:26.770 --> 02:33.790
+We will get a list of 15 values so we'll get a list and it is having a total 15 value and 15 values
+
+02:33.820 --> 02:37.490
+corresponding to who can consider this particular whole record.
+
+02:37.480 --> 02:41.010
+We'll get rather than just the one individual column.
+
+02:41.290 --> 02:43.690
+So we are going to get this.
+
+02:44.110 --> 02:45.700
+Let's separate out.
+
+02:45.700 --> 02:47.110
+So the first value.
+
+02:47.110 --> 02:49.510
+Let me see first.
+
+02:49.510 --> 02:56.380
+So first value will be let's say it will be a h then it is indicated by indexing number is zero.
+
+02:56.470 --> 03:03.700
+So we can grab it like a Rule Zero and let's just assign it to the easy medium.
+
+03:04.480 --> 03:07.510
+OK we are going to use this sex column in a salary column.
+
+03:07.810 --> 03:17.230
+So this is 0 column this is first second third fourth fifth sixth 7 8 and 9 so 9 column is corresponding
+
+03:17.230 --> 03:23.310
+to sex ten eleven twelve thirteen and fourteen so ninth column in a 14 column.
+
+03:23.320 --> 03:26.950
+We are going to extract into two different variables.
+
+03:26.950 --> 03:31.420
+So it's a ten column basically but indexing number is nine.
+
+03:32.110 --> 03:32.950
+OK.
+
+03:33.120 --> 03:36.880
+Six and let's say the salary
+
+03:41.680 --> 03:43.710
+was indexing number is 40.
+
+03:43.900 --> 03:49.690
+So we'll grab the data into three different variables and yet we are going to use the sex and salary
+
+03:49.690 --> 03:50.590
+as of now.
+
+03:50.590 --> 03:52.980
+So let us generate that description.
+
+03:52.990 --> 04:00.340
+Let's say I'm going to create a temporary variable solicit them and let's just combine this sex and
+
+04:00.340 --> 04:02.350
+salary variable suspects.
+
+04:02.770 --> 04:06.520
+And I just want to concatenate sex with like Ernie
+
+04:12.920 --> 04:18.090
+and along with that I'm just going to concatenate another variable like a cell.
+
+04:19.060 --> 04:22.790
+And at the end of the salary each is up in like a dollar.
+
+04:24.610 --> 04:25.200
+OK.
+
+04:25.360 --> 04:26.920
+And legislative time this time.
+
+04:28.090 --> 04:31.810
+So what we are done here we are going to get here one full list.
+
+04:31.810 --> 04:35.370
+Let me just execute this function and from that list.
+
+04:35.470 --> 04:42.730
+Grab the 10 value which is indicated by the indexing number nine and a 15 value was indexing number
+
+04:42.730 --> 04:43.620
+is 40.
+
+04:43.690 --> 04:48.310
+Sex and salary we'll just farm it at this particular tax and we'll return it.
+
+04:48.610 --> 04:53.080
+So now it will use the combination of these two particular column.
+
+04:53.290 --> 04:55.930
+And it will generate a planned new series object for us.
+
+04:56.320 --> 05:03.190
+OK now that we created a function so let us apply this particular function on a whole data frame object.
+
+05:03.370 --> 05:04.420
+So we have a data.
+
+05:04.660 --> 05:10.330
+Now we're not going to grab any particular column instead of the lectures applied directly on a later.
+
+05:10.810 --> 05:15.030
+So a blank and then the first value like a function.
+
+05:15.040 --> 05:21.680
+So first really we define func bill passes like DSC what have you just now define.
+
+05:22.360 --> 05:26.890
+OK now there is one more thing needs to be taken into consideration.
+
+05:27.220 --> 05:31.470
+So let to see the documentation on display method.
+
+05:31.570 --> 05:38.880
+So whenever we try to apply this apply matter or any function we are trying to apply it to supply method
+
+05:38.900 --> 05:45.550
+on every single rose available and every single column available in your data frame object.
+
+05:45.910 --> 05:51.660
+So in that case we hope to explicitly pass like a XS is equal to like a column.
+
+05:51.700 --> 05:54.530
+Now this columns.
+
+05:54.550 --> 06:00.220
+So this has a little confusing meaning that like access would be a column because we are applying on
+
+06:00.220 --> 06:06.340
+every single rule you are applying on every single one axis will be column because on every single column
+
+06:06.340 --> 06:12.680
+you are taking into consideration when you are trying to apply the same thing on a C.D. object.
+
+06:12.700 --> 06:17.980
+In that case you don't have a column kind of concept because in that case you help by default just the
+
+06:17.980 --> 06:19.380
+one column only.
+
+06:19.720 --> 06:27.660
+OK so let us apply and let us see what result will get so you can see it as a return as the male earning
+
+06:27.660 --> 06:33.240
+less than 50 hit all male earning less than really female earning less than 50 get on ledges assigned
+
+06:33.270 --> 06:35.690
+in the F to another column.
+
+06:35.700 --> 06:37.920
+Let's see the description
+
+06:42.580 --> 06:49.570
+and output of this alignment with the help of the function video created like the chassis.
+
+06:49.620 --> 06:56.250
+Now what happens is that when we apply this match turn on no data frame object.
+
+06:56.250 --> 07:02.750
+This function has gone to every single rows of elements and those particular row has been passed the
+
+07:03.180 --> 07:04.440
+every single function.
+
+07:04.440 --> 07:11.760
+So this is like instead of passing any particular value to the function first function is going to every
+
+07:11.760 --> 07:17.500
+single course and those that code has been passed to the function like a D C.
+
+07:17.790 --> 07:23.780
+So that is what the concept of this parallel programming and a big data analysis kind of system.
+
+07:23.820 --> 07:26.410
+OK so let me just execute it.
+
+07:26.430 --> 07:30.230
+Now let's just see full data frame object
+
+07:33.830 --> 07:39.910
+so you can see the very last column it has generated like a male earning less than 58 I'll be taking
+
+07:39.920 --> 07:42.930
+a brand new column whose name is description.
+
+07:43.340 --> 07:49.600
+So in earlier video you've seen how to apply custom function with display macro not one single column
+
+07:49.940 --> 07:57.170
+but with this kind of mechanism you can apply your custom function on a multiple different columns so
+
+07:57.170 --> 08:01.980
+you can apply this custom function on every single column on a whole data object.
+
+08:02.330 --> 08:06.230
+OK so that is all about the story of this applied matter.

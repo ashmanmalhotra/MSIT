@@ -1,0 +1,310 @@
+WEBVTT
+
+00:01.300 --> 00:02.390
+Hi everyone.
+
+00:02.500 --> 00:08.200
+So let's see how we can drop some missing Rose or missing values a really well in a data frame object
+
+00:08.230 --> 00:10.180
+or some column.
+
+00:10.180 --> 00:16.270
+This is having a missing value so to illustrate the concept of this missing value and some function
+
+00:16.270 --> 00:22.600
+we are going to use on the top of this data frame object like a drop banner and drop any I have created
+
+00:22.660 --> 00:28.930
+one data frame object which is having a some arbitrary value and majority of values are like a and b
+
+00:28.940 --> 00:36.760
+dart and then and then is a special way of indicating that this is not the number and we'll use this
+
+00:36.760 --> 00:39.250
+particular attribute from the NUM by lately.
+
+00:39.280 --> 00:41.850
+So no library I already imported earlier.
+
+00:42.160 --> 00:47.000
+So if you aren't important you have to import it while executing this particular statement.
+
+00:47.020 --> 00:55.120
+So I have created this data from this data and the column name I listed later ABC.
+
+00:55.480 --> 00:59.920
+So let me just execute it and we create the data frame object first.
+
+01:00.310 --> 01:03.700
+Okay let's display where the f object.
+
+01:03.970 --> 01:06.820
+So we have a total four rows and a four column.
+
+01:06.820 --> 01:12.850
+Now if you observe your major duty of rose up and n so n n is a special way of indicating that is a
+
+01:12.850 --> 01:14.670
+missing value inside data.
+
+01:15.130 --> 01:25.850
+So we are going to use one function on top of this data frame object like a drop any so drop not a number.
+
+01:26.500 --> 01:33.740
+So many times while analyzing your data you might face the situations like if you if you had a having
+
+01:33.740 --> 01:40.330
+a some kind of missing value in any row or column label you have to remove that particular rows or column
+
+01:40.330 --> 01:41.470
+respectively.
+
+01:41.470 --> 01:49.490
+So let's see the documentation of this drop any so if you see it exists and how so we're going to play
+
+01:49.570 --> 01:59.440
+it mainly this two parameter like Xs and how so Xs can have a two values like a CDO or one so zeros
+
+01:59.480 --> 02:03.210
+corresponding to rollover and one is corresponding to column Lewin.
+
+02:03.350 --> 02:12.200
+So at a column loop it will consider and another one is later how so how is also two values like any
+
+02:12.680 --> 02:15.890
+or all so default values.
+
+02:16.260 --> 02:19.270
+So let's try to put it into practice.
+
+02:19.530 --> 02:22.800
+So let's say at a rally when we want to apply this thing.
+
+02:22.980 --> 02:31.860
+So we are going to supply X this is equal to zero and let's say how you want to remove anything so let's
+
+02:31.860 --> 02:39.570
+say n so it indicates that at the Raleigh Well if you find any of the record it is having at least any
+
+02:39.570 --> 02:44.190
+value none are not a number or a missing value you just discard it.
+
+02:44.190 --> 02:50.840
+So now you can see every single course you can try to visualize this thing horizontal.
+
+02:50.940 --> 02:58.770
+So every single that caused this one first and then this one every single decoders at least one missing.
+
+02:59.050 --> 03:03.410
+So what it will do it will just discard every single records.
+
+03:03.460 --> 03:10.670
+So we got almost zero records no output and it has returned as that data frame which is having no records
+
+03:10.690 --> 03:11.220
+at all.
+
+03:12.010 --> 03:13.600
+Let's try it all.
+
+03:13.600 --> 03:15.670
+Another parameter at a rollover.
+
+03:16.210 --> 03:18.460
+So instead of any let's say on.
+
+03:19.560 --> 03:25.990
+So all indicates that if you observe every single value is missing in that particular record then oddly
+
+03:26.110 --> 03:27.090
+discarded.
+
+03:27.130 --> 03:28.860
+So let us execute.
+
+03:28.900 --> 03:34.570
+So now you can see the full track record which is having index number three has been discarded remaining.
+
+03:34.590 --> 03:37.780
+All of that could remain as it is in output.
+
+03:37.780 --> 03:45.790
+Now what are the output we got from this drop any function it has returned as the brand new data frame
+
+03:45.850 --> 03:52.300
+object but if you just display the ordinary data frame the change is not permanent.
+
+03:52.300 --> 03:54.700
+Still we got our original data fully.
+
+03:54.760 --> 04:00.310
+That means whatever the change and a modification with help of this drop any function what we have applied
+
+04:00.310 --> 04:06.280
+on a level additional data that does not mean taking place into our or is null object.
+
+04:06.850 --> 04:09.520
+So far that we will learn about the in-place parameter.
+
+04:09.760 --> 04:15.130
+So same in place parameter what we are learning a c e object that will be applied on a data frame object
+
+04:15.130 --> 04:15.370
+also.
+
+04:15.370 --> 04:18.250
+So those things will seem to some future videos.
+
+04:18.250 --> 04:24.760
+So as of now without this in place parameter it has returned as the brand new data every object we can
+
+04:24.760 --> 04:26.060
+assign it to the same.
+
+04:26.230 --> 04:30.860
+But our objective here is not to assign and create a new data frame object.
+
+04:30.940 --> 04:33.940
+Just observe that is based on the different parameters.
+
+04:34.120 --> 04:40.320
+So this thing will applied in Raleigh with Now let's apply it to column one.
+
+04:40.570 --> 04:44.410
+So instead of x is equal to zero let's say x is equal to 1.
+
+04:46.120 --> 04:47.410
+And how you want to do it.
+
+04:47.620 --> 04:53.290
+So any of the records having a none value or a missing value just discarded.
+
+04:54.070 --> 04:57.640
+So every single column has at least one value.
+
+04:57.700 --> 04:58.620
+It is a missing.
+
+04:58.620 --> 05:02.170
+That's why it has discarded every single column.
+
+05:02.290 --> 05:08.740
+Let's do Victor any instead of any let's try it all
+
+05:11.720 --> 05:15.040
+so now you can imaging which particular column will be discarded.
+
+05:15.230 --> 05:21.050
+So here the sea column sea column has every single record which the missing.
+
+05:21.050 --> 05:23.120
+That means that only will be discarded.
+
+05:23.120 --> 05:29.930
+Apart from that this column has at least one value it is not missing me has a true value it is not missing
+
+05:30.260 --> 05:33.550
+and it has also two value is it three values is not missing.
+
+05:33.800 --> 05:34.850
+So each one we discarded.
+
+05:35.150 --> 05:36.670
+So let's see the result.
+
+05:36.710 --> 05:39.820
+So as expected the column C has been removed.
+
+05:41.220 --> 05:42.910
+Now this thing happens.
+
+05:43.030 --> 05:44.170
+Dysfunction.
+
+05:44.190 --> 05:50.010
+You can apply whenever you find some missing mail you are not on a mark of value.
+
+05:50.010 --> 05:56.120
+Now let's say in part you already know that some of the rules what are some of the columns you anyhow
+
+05:56.130 --> 05:59.450
+one to discarded independent of any criteria.
+
+05:59.820 --> 06:07.050
+So whether it has a missing rose or a missing column or missing values inside that particular hole are
+
+06:07.080 --> 06:09.500
+missing values in that particular column.
+
+06:09.570 --> 06:13.500
+You don't want to include that in your further analysis.
+
+06:13.500 --> 06:22.140
+So in that case you have to use the function like a drop instead of drop any so it lets that apply data
+
+06:22.390 --> 06:24.630
+but only with so little.
+
+06:24.630 --> 06:29.380
+Now before that let me just bring this overall regional data.
+
+06:29.940 --> 06:31.540
+So yes.
+
+06:31.860 --> 06:35.150
+Now at a really well beach other rows you want to misguided.
+
+06:35.490 --> 06:42.630
+So for that we have a one attribute what we can some place later levies and let's say we want to remove
+
+06:44.180 --> 06:45.770
+the index number bodies like a tool.
+
+06:46.730 --> 06:52.120
+So we have got to return like a zero row first row and turtle.
+
+06:52.910 --> 06:55.720
+Okay so index number is like a 0 1 and 2.
+
+06:55.940 --> 07:00.090
+It has the return is this second number is and has been removed.
+
+07:00.230 --> 07:06.820
+We can even supply like 2 and 3 so 0 and 1 only it will be return.
+
+07:06.830 --> 07:10.350
+Now let's say let's apply the same function into column labor.
+
+07:10.640 --> 07:17.040
+So if talk can drop so let's say x is equal to 1.
+
+07:17.060 --> 07:23.200
+Now when you want to drop some particular column in that case you how to parse the parameters later
+
+07:23.330 --> 07:27.970
+column and which are the column you want to discard it.
+
+07:28.250 --> 07:37.340
+So let's say I want to discard the B so compare to be double ordinal data from the F and see the result
+
+07:37.550 --> 07:40.440
+and see the comparison output.
+
+07:41.120 --> 07:42.590
+So B has been discarded.
+
+07:42.590 --> 07:49.550
+You want to decide let's say B also so e and see only will be right.
+
+07:49.850 --> 07:56.150
+So in this way independent of any missing values across the row or column with type of draft function
+
+07:56.180 --> 08:03.140
+you can drop individual rows or a column and you have to supply those index number corresponding to
+
+08:03.140 --> 08:05.090
+rows and column.
+
+08:05.090 --> 08:08.030
+OK so that is all about this video see you in the next video.

@@ -1,0 +1,166 @@
+WEBVTT
+
+00:01.970 --> 00:03.250
+Hi everyone.
+
+00:03.410 --> 00:12.320
+So let's see about how you can change the index column of your data frame object so let's use the same
+
+00:12.620 --> 00:14.680
+old dog data not seems to be fine.
+
+00:14.750 --> 00:20.770
+And let me just executed now if you just display the past few records.
+
+00:20.820 --> 00:24.170
+Let's save a street course.
+
+00:24.430 --> 00:28.540
+So we have a indexing I'd like a z 0 1 2.
+
+00:28.600 --> 00:35.020
+Now let's say if you want to make indexing like a country as index so there are two ways you can go
+
+00:35.020 --> 00:35.390
+with that.
+
+00:35.620 --> 00:41.350
+So one is after reading this data every object you can use this set and the scoring next method that
+
+00:41.350 --> 00:47.910
+we'll see later and another ways while reading this particular file at that moment of need you can pass
+
+00:47.920 --> 00:48.970
+one more argument.
+
+00:49.300 --> 00:57.010
+So let's say it's the index column so we're already seeing this thing in a dark lock and I locked metal
+
+00:57.000 --> 01:01.000
+that I I'll made one particular column of these drinks.
+
+01:01.010 --> 01:02.400
+That seems to be fine.
+
+01:02.500 --> 01:03.680
+The country as a column.
+
+01:04.200 --> 01:10.380
+OK so let's pass this country and let me just execute it again.
+
+01:10.430 --> 01:13.880
+Now you can see this United States is the country.
+
+01:13.900 --> 01:21.350
+So I would say this first column which is in a boy later that is the index column for my data frame
+
+01:21.350 --> 01:28.120
+object so I can access every single flows of information with this particular label these indexing.
+
+01:28.370 --> 01:28.730
+OK.
+
+01:28.760 --> 01:34.160
+Now after reading again you think that I want to make some other column as the index.
+
+01:34.160 --> 01:37.650
+So in that case you can use like a certain discount index matter.
+
+01:39.590 --> 01:46.910
+So set the score index say we want to make age as a next so you can just posit like age and let me just
+
+01:46.910 --> 01:48.470
+execute it.
+
+01:48.500 --> 01:53.440
+Now you can see the first column which is not in my next column will become 8.
+
+01:53.450 --> 01:56.960
+Now it feels like it's the additional base indexing.
+
+01:56.960 --> 02:02.270
+But this is not a pedestal based indexing you can get a repeated value as a plus.
+
+02:02.270 --> 02:08.420
+This is the actual age value we are using to reference the individual rows of information.
+
+02:08.420 --> 02:16.470
+Now let's say you want to make multiple columns up your index so you can use the same function indexes
+
+02:16.590 --> 02:19.920
+sadness index.
+
+02:20.030 --> 02:23.870
+Now instead of passing just the one value we can pass them multiple ways.
+
+02:23.990 --> 02:25.900
+So I can display a simple list.
+
+02:26.150 --> 02:30.030
+So let's say no will make one of the two column.
+
+02:30.110 --> 02:32.110
+So let's say six and a salary.
+
+02:32.300 --> 02:38.290
+So I'm just going to do six and I know that argument like a self.
+
+02:39.150 --> 02:39.750
+OK.
+
+02:39.830 --> 02:41.360
+Let's see what it would.
+
+02:41.990 --> 02:47.690
+Now you can see this mighty column index is nothing more than might be index kind of passive.
+
+02:47.690 --> 02:56.240
+So when we learn about how identical indexing might be indexing so I dedicated one particular full section
+
+02:56.240 --> 03:01.520
+on might delay well indexing that every single row you can access with two different values.
+
+03:01.520 --> 03:07.490
+So they'll just grouped it like a mean less than 50 killed all of the earning female with less than
+
+03:07.490 --> 03:10.060
+50 get all the meals again graded in triplicate.
+
+03:10.310 --> 03:18.860
+So now the first two columns like indexing column so that two values will be used to describe the individual
+
+03:18.920 --> 03:22.290
+rows of information to uniquely identify.
+
+03:22.340 --> 03:27.970
+So some days not just one column will be helpful to uniquely identify individual records.
+
+03:27.970 --> 03:34.330
+So in that case you can make it's like a foreign key concept I would say in a relational database system.
+
+03:34.340 --> 03:38.570
+That good column will be used to uniquely identify one individual.
+
+03:38.570 --> 03:43.950
+Now in this our case just populist vision purpose I would just randomly pick and the sex and salary.
+
+03:44.030 --> 03:52.220
+But here it's nothing like a unique but still it's a two column which is referencing to individual rows
+
+03:52.220 --> 03:52.970
+of information.
+
+03:53.460 --> 03:53.810
+OK.
+
+03:53.870 --> 04:00.350
+So that is how you can make individual column as your index or a number of different column as index
+
+04:00.350 --> 04:06.860
+you can make to more than to column as well as your index column in your data frame object and in a
+
+04:06.860 --> 04:14.360
+way the index and hierarchical index section will see much more detailed and how this might index and
+
+04:14.360 --> 04:16.180
+higher index works.

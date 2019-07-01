@@ -1,0 +1,415 @@
+WEBVTT
+
+00:01.440 --> 00:06.420
+So let's see how we can filter the data from this data frame object.
+
+00:06.420 --> 00:08.860
+Now what is this filtering of a dummy.
+
+00:09.000 --> 00:16.140
+So filtering of data means you are trying to grab some data out of your original data set based on some
+
+00:16.140 --> 00:19.140
+sort of mathematical or logical condition.
+
+00:19.230 --> 00:25.290
+So we are complicit in all kinds of mathematical and logical conditions in Python programming language
+
+00:25.290 --> 00:26.820
+or in any other programming language.
+
+00:26.820 --> 00:32.280
+Generally we use the operators like a greater than less than equal to or not equate to.
+
+00:32.460 --> 00:35.350
+So let's say a religious group to greater than three.
+
+00:35.400 --> 00:41.730
+So it will just simply retain me a voice or I would say four is equal to four.
+
+00:41.750 --> 00:45.180
+I will use that double equal so because it is a comparison operator.
+
+00:46.080 --> 00:51.510
+So it has retained me to say the same operator greater than equal to double equal to.
+
+00:51.720 --> 00:54.580
+We are going to use to filter that data.
+
+00:54.630 --> 00:59.650
+So I have use the same data frame object and radar data since we find.
+
+00:59.790 --> 01:08.860
+And let me just execute it and now let me just print for speed records of the Arctic.
+
+01:08.880 --> 01:12.180
+Now you can see we have total 15 columns that are really want.
+
+01:12.600 --> 01:14.610
+Now let's filter some data.
+
+01:14.610 --> 01:19.500
+So let's say let's say very simple column like a sex column.
+
+01:19.500 --> 01:24.150
+So in a sex column B our total two unique values that are really my only male and a female.
+
+01:24.480 --> 01:30.090
+So let's try to grab only those records where its value is me.
+
+01:30.360 --> 01:35.460
+So we are using the same comparison kind of operator equality companies operator.
+
+01:35.550 --> 01:38.440
+So let's grab First the sex column.
+
+01:38.730 --> 01:41.880
+So how to select the column we already seen in earlier video.
+
+01:41.920 --> 01:48.000
+What the f and now inside the bracket we ought to write the column name which you want to extract and
+
+01:48.000 --> 01:54.390
+it will return as the brand new series object which is having not only sex column value.
+
+01:55.050 --> 02:03.720
+OK now we how to grab only those where Lubitsch is having a sex well to me so we can use such a kind
+
+02:03.720 --> 02:11.700
+of equality operator and then we can just simply pass Laker me now what it will return that this meal
+
+02:11.730 --> 02:19.440
+as a string object will be compared with every single value available in a whole dataset of sex column
+
+02:19.830 --> 02:26.250
+and variable the value match will be found in that case it will return not true otherwise it will kind
+
+02:26.260 --> 02:27.080
+of false.
+
+02:27.120 --> 02:33.750
+So after executing this statement also it will return to see this data object and inside the cities
+
+02:33.900 --> 02:40.220
+for every single row available in our original dataset it will return true or false based on weather
+
+02:40.220 --> 02:44.080
+condition and court match or indeed in God match.
+
+02:44.340 --> 02:46.610
+OK so now let me just execute it.
+
+02:47.640 --> 02:52.060
+So first let's see our data sets of first four values are our.
+
+02:52.080 --> 02:54.270
+So we should return a kind of true.
+
+02:54.300 --> 02:56.630
+And then the fifth record is female.
+
+02:56.660 --> 02:58.210
+So it should be kind of false.
+
+02:58.230 --> 03:00.080
+So let me just execute it.
+
+03:01.120 --> 03:03.540
+Oh so something goes wrong here.
+
+03:03.570 --> 03:06.260
+So everything is getting false here.
+
+03:06.810 --> 03:11.670
+So some things something goes wrong otherwise this syntax are correct.
+
+03:11.970 --> 03:15.440
+So let's let's analyze it and what happened here.
+
+03:15.480 --> 03:18.670
+So like Let me grab this.
+
+03:18.670 --> 03:25.410
+Value see sometimes what happens that this particular column has all those rare liberties having some
+
+03:25.410 --> 03:33.430
+sort of trailing spaces are also available in the starting of your string or the ending of the string.
+
+03:33.480 --> 03:38.490
+So let's say we are going to use this apply function.
+
+03:38.490 --> 03:44.490
+Now we haven't learned about the play function on the top of this data frame object but it will invoke
+
+03:44.490 --> 03:47.730
+exactly the same way as we're learning a series object.
+
+03:47.730 --> 03:58.950
+So let me just grab this sex column and we're going to use the life function and let's apply the lend
+
+03:58.950 --> 04:05.680
+function OK so we'll get that video we hold just for character here or not.
+
+04:05.740 --> 04:09.910
+I have a doubt that it may have been net me lot more than four character.
+
+04:11.080 --> 04:17.810
+So as I am expected that we have five characters are available here and then the over seven characters
+
+04:17.810 --> 04:18.630
+that are available here.
+
+04:18.850 --> 04:25.990
+So what we can do we can create one function and we can distribute that all the heading space available
+
+04:26.440 --> 04:27.350
+or otherwise.
+
+04:27.460 --> 04:28.750
+Let me just collapse it.
+
+04:28.780 --> 04:34.510
+So now we got a problem or we can just simply do like a space here.
+
+04:34.510 --> 04:40.750
+But this is not a way to go I would suggest to my star as this lecture is all about the filtering of
+
+04:40.750 --> 04:41.160
+your data.
+
+04:41.160 --> 04:43.600
+Otherwise it will become a little bit longer.
+
+04:43.870 --> 04:50.190
+So like just keep space here and let's see whether this is heading space or a trailing space.
+
+04:50.200 --> 04:50.660
+OK.
+
+04:50.830 --> 04:58.120
+What I expected that we ever want space before this m character and before this I guess the female characters
+
+04:58.120 --> 05:00.830
+or let me conform with the female.
+
+05:00.850 --> 05:01.120
+So
+
+05:08.170 --> 05:11.060
+yes we the over one space extra element.
+
+05:11.140 --> 05:13.020
+Now let's concentrate on the male part.
+
+05:13.180 --> 05:19.530
+You can remove it some kind of apply function and remove all the stealing and extra space element with
+
+05:19.530 --> 05:22.630
+the functions like Ashley Polish trig function.
+
+05:23.150 --> 05:30.790
+OK so now we hold Ben the comparison with me and we'll return all those who are loose which is either
+
+05:30.790 --> 05:33.580
+false or let me execute it.
+
+05:33.820 --> 05:35.780
+So first for values are true.
+
+05:35.780 --> 05:39.510
+Now let's assign to some sort of condition.
+
+05:39.520 --> 05:40.850
+So let's say.
+
+05:41.410 --> 05:44.470
+So I'm assigning two conditions C or n.
+
+05:44.610 --> 05:50.170
+OK so see CNN is nothing but noun one city's object was where lose that idea.
+
+05:50.170 --> 05:51.640
+True and false.
+
+05:51.640 --> 06:00.040
+And this city's object I am just simply going to pass as a bracket notation to the NI f note offering
+
+06:00.100 --> 06:00.850
+object.
+
+06:00.850 --> 06:02.740
+And now let me just execute it.
+
+06:03.340 --> 06:08.490
+So now you can see variable the values are true in those records.
+
+06:08.500 --> 06:09.790
+Only it has a return.
+
+06:10.360 --> 06:12.790
+So only meal values got return.
+
+06:12.850 --> 06:23.510
+See you can very well seat OK so this way you can compare it to a particular value and you can filter
+
+06:23.510 --> 06:24.930
+your data.
+
+06:25.040 --> 06:26.620
+Let's give some other condition.
+
+06:26.660 --> 06:26.880
+OK.
+
+06:26.910 --> 06:27.920
+So same statement.
+
+06:27.930 --> 06:30.630
+What we have written earlier are two different line.
+
+06:30.630 --> 06:33.890
+We can use the same thing into one single line also.
+
+06:33.960 --> 06:39.780
+So we can lose like a D F and inside that only you can just simply data conditions rather than putting
+
+06:39.780 --> 06:42.120
+all those conditions in two different variables.
+
+06:42.480 --> 06:44.750
+So let's try it.
+
+06:46.540 --> 06:49.940
+And that will equal two.
+
+06:52.470 --> 06:59.210
+OK so you can see we've got exactly the same result only mean data.
+
+06:59.270 --> 07:05.210
+It has written a brand new even data frame object so we'll just collected it to me later.
+
+07:05.910 --> 07:06.470
+OK.
+
+07:06.480 --> 07:11.580
+So now all those matters and everything you can apply on top of this mail data data frame object.
+
+07:12.180 --> 07:19.330
+OK let's apply some more filtering condition so rather than sex column let's say each column.
+
+07:19.500 --> 07:23.880
+Now instead of just equality operator we can use like a great dane or listed.
+
+07:24.120 --> 07:32.100
+So let's say we want to grab only those that code which is having a or all those adult data record was
+
+07:32.100 --> 07:34.940
+eight is greater then let's say some property.
+
+07:34.950 --> 07:35.360
+OK.
+
+07:35.460 --> 07:36.600
+So let's grab it.
+
+07:37.200 --> 07:38.200
+So the.
+
+07:40.210 --> 07:42.520
+So first we grab the H.
+
+07:42.780 --> 07:44.100
+So it has return dates.
+
+07:44.100 --> 07:51.060
+Now I am just going to compare every single record available in each column with let's say 50 and variable.
+
+07:51.070 --> 07:57.010
+The match will be greater than 50 or value available in this each column will be greater than 15.
+
+07:57.280 --> 07:58.650
+Is it 2010.
+
+07:58.820 --> 08:05.820
+So section value are covered up for this particular record fourth record which is having a next number
+
+08:05.970 --> 08:07.550
+we will get it through.
+
+08:07.580 --> 08:10.410
+Otherwise before that all those will voice.
+
+08:10.410 --> 08:11.060
+OK.
+
+08:11.160 --> 08:13.010
+So that is what we are expecting.
+
+08:13.110 --> 08:20.790
+Now we can just simply put this whole can listen inside the bracket notation of this the F object so
+
+08:20.790 --> 08:25.470
+variable are only values are true those that currently will get data.
+
+08:27.090 --> 08:32.210
+Okay so now you can see all those ages are greater than 50.
+
+08:32.400 --> 08:41.570
+So 53 52 54 like me is assigning to some really well let's say big age I will say eight.
+
+08:43.670 --> 08:44.910
+OK.
+
+08:45.150 --> 08:50.150
+And you can compare that what is the type of this may later.
+
+08:50.190 --> 08:57.650
+It is also data free now in the same way that type of this big age.
+
+08:57.720 --> 08:59.470
+It is also data free.
+
+08:59.700 --> 09:05.020
+So this way you can use the quality condition you can even use the naughty quality conditionals.
+
+09:05.250 --> 09:18.450
+So let's say written all those records was it is not 50 Lexi better than greater than 50 is not 50 so
+
+09:18.450 --> 09:25.230
+you can use such an I know operator and not 58
+
+09:27.910 --> 09:30.470
+OK we've got drizzle easily.
+
+09:30.660 --> 09:32.070
+So not 58.
+
+09:32.070 --> 09:37.970
+Now you can see every single record it has returned that age is not 50.
+
+09:38.060 --> 09:45.360
+OK but be careful while assigning or doing those kind of comparison operation somehow by mistake you
+
+09:45.360 --> 09:51.070
+can just simply assign those quantity and value to every single valuable label in that particular column.
+
+09:51.120 --> 09:53.890
+So for dead before that only I want your about.
+
+09:54.030 --> 10:00.330
+Now we have seen how you can filter the data based on some sort of candies and this is just equivalent
+
+10:00.330 --> 10:06.620
+to the very condition if you are already aware about the sequel query language of this sequel database.
+
+10:06.640 --> 10:13.360
+OK now we can compare one or more condition together and we can just combine to another.
+
+10:14.240 --> 10:19.130
+Believe a logical operators like a hand operation order hoarding operation.
+
+10:19.410 --> 10:22.420
+So those things combining multiple filtering condition.
+
+10:22.420 --> 10:23.970
+We'll see you next week you.

@@ -1,0 +1,364 @@
+WEBVTT
+
+00:01.220 --> 00:02.350
+Hi everyone.
+
+00:02.490 --> 00:08.480
+So let's see how we can start the value based on the different column suddenly well enough data free.
+
+00:08.640 --> 00:13.170
+So I hope taken the same data frame like all that data dot CCF.
+
+00:13.530 --> 00:14.900
+So let me just execute it.
+
+00:16.110 --> 00:19.710
+And like just display first few records.
+
+00:22.980 --> 00:26.010
+OK so we have total 15 columns that I really want.
+
+00:26.240 --> 00:29.120
+Now there is a two where you can sort this thing.
+
+00:29.130 --> 00:31.140
+So one is like a sorting of values.
+
+00:31.140 --> 00:34.530
+So values nothing but the actual content of your data frame.
+
+00:34.890 --> 00:40.500
+And another one we are going to learn in a next video which is nothing but a site indexing so indexing
+
+00:40.500 --> 00:46.640
+is nothing but this little one to take how you are referencing individual that really well in your data.
+
+00:47.150 --> 00:47.440
+OK.
+
+00:47.460 --> 00:54.300
+So in this video we concentrate on how to sort the values so we can start based on a number of different
+
+00:54.300 --> 00:54.660
+column.
+
+00:54.870 --> 00:57.660
+So let's take a country.
+
+00:57.660 --> 01:00.650
+OK so country let's first find.
+
+01:00.870 --> 01:05.220
+We already learn about the N unique and a unique method that how many unique values that are really
+
+01:05.220 --> 01:07.390
+want in a country column.
+
+01:07.410 --> 01:07.850
+So
+
+01:17.090 --> 01:21.600
+we have a number of unique values that are relevant in a country column so we can just simply start
+
+01:21.600 --> 01:22.250
+it.
+
+01:22.260 --> 01:29.790
+So to start any particular column in a data frame we have a matters like us start and this got value.
+
+01:30.330 --> 01:35.730
+Now if you'll just open the documentation of this site and this core value you can see the very first
+
+01:35.730 --> 01:43.870
+value you can it Laker my so by means you can pass as a single string or you can pass lift off certainly
+
+01:44.190 --> 01:49.670
+that if you want to start with the multiple column so multiple column let's skip it aside we'll see
+
+01:49.670 --> 01:50.270
+later.
+
+01:50.340 --> 01:57.810
+First let's concentrate on one single string I afterwards you want to shot with the column label so
+
+01:57.810 --> 02:01.030
+you can just go with the default value.
+
+02:01.170 --> 02:06.150
+That is another option like you want to start with ascending we are descending me and that is in place
+
+02:06.150 --> 02:12.300
+parameters are in place parameter we already learned in the cities section and the same thing our same
+
+02:12.300 --> 02:16.220
+concept of this in place will be applied here also but we'll see in actually.
+
+02:16.630 --> 02:23.670
+OK so let's do it with these two parameters merely this my barometer that by which particular column
+
+02:23.670 --> 02:28.100
+you want to site all of your data and undermine his Laker ascending.
+
+02:28.100 --> 02:30.020
+So my default is ascending is true.
+
+02:30.600 --> 02:41.020
+OK so first argument by I am going to supply Laker country and the second one.
+
+02:41.040 --> 02:44.610
+Let's not supply anything and let's see what it was.
+
+02:45.660 --> 02:52.800
+So now you can see in a country column that are on question marks and at the end of this particular
+
+02:52.800 --> 03:01.140
+full data frame in the last some of the rows the countries like Vietnam and Yugoslavia.
+
+03:01.140 --> 03:08.670
+So there are some records in which the country is like missing and missing value deal indicating with
+
+03:08.670 --> 03:09.980
+this question mark.
+
+03:09.990 --> 03:18.630
+Now as we know then ascending is like a mighty fly through that space in a first few records or the
+
+03:18.640 --> 03:19.340
+first.
+
+03:19.410 --> 03:25.430
+It has sorted this in alphabetical order and first few record it has kept it like a regular.
+
+03:25.440 --> 03:26.740
+There is no illusory limit.
+
+03:27.060 --> 03:32.810
+If you just make it let's say ascending is equal to False by default it was a true.
+
+03:32.820 --> 03:38.940
+So if you just make it false it will sort all this column value in reverse alphabetical order.
+
+03:38.940 --> 03:47.220
+So now the first sets of all country value is starting from Y and then you can see V from Vietnam and
+
+03:47.220 --> 03:48.230
+might be adding value.
+
+03:48.360 --> 03:54.340
+And at the last we are getting all those question mark value so that is like the missing values.
+
+03:54.390 --> 03:58.920
+Now if you observe along with that indexing number they all got suffering.
+
+03:59.520 --> 04:06.380
+So the first value it seems like a twelve thousand eight hundred and sixteen then somewhere around twenty
+
+04:06.380 --> 04:06.780
+thousand.
+
+04:07.260 --> 04:07.710
+OK.
+
+04:07.800 --> 04:10.750
+So this way you can tweak around it.
+
+04:10.770 --> 04:14.720
+Let me just collapse this party and next time it's some other option.
+
+04:14.760 --> 04:21.760
+So now we started with apparently we can even start with other values so let's try with the age.
+
+04:22.230 --> 04:24.440
+Lexi Bye.
+
+04:27.750 --> 04:30.310
+I want to sort this data from my kids with.
+
+04:30.570 --> 04:36.930
+So now you can see the first very smaller value appears like a seventy eight.
+
+04:37.500 --> 04:42.860
+And at the end of your data frame will get a larger value like 90.
+
+04:42.900 --> 04:47.310
+So now from here you can imaging that ranges for this particular.
+
+04:47.340 --> 04:52.280
+Each column will be from 17 each to the 90 each.
+
+04:52.490 --> 04:53.230
+OK.
+
+04:53.400 --> 04:59.220
+Let's drive into ascending is a value group or ascending by default is true.
+
+04:59.220 --> 05:00.560
+Let's try to find.
+
+05:01.350 --> 05:08.730
+So we got this 90 at a very first record and after let me say just keep decreasing at the end of this
+
+05:08.760 --> 05:12.320
+dataset regard this all ages around 70.
+
+05:12.480 --> 05:19.380
+Okay so we we'll then the starting first with respect to country and then with respect to each.
+
+05:19.890 --> 05:22.800
+But both of the things we done independently.
+
+05:22.800 --> 05:30.530
+Now let's say if you want to apply this sighting first by country and then by H.
+
+05:30.540 --> 05:37.770
+So within a country you want all adults to record in some sort of ascending order on maybe in a descending
+
+05:37.770 --> 05:39.240
+order order.
+
+05:39.390 --> 05:46.890
+You want to sort all the value by age and within that age range you want to how many countries of people
+
+05:46.950 --> 05:53.610
+Liszt but be one goal that we first will start with the country base and then the same record we are
+
+05:53.610 --> 05:55.500
+going to start with The Age base.
+
+05:55.530 --> 06:02.190
+So that's why in this case with this baby are human we are able to supply the list of string.
+
+06:02.430 --> 06:06.100
+So first value we posit like a country and then age.
+
+06:06.120 --> 06:16.700
+So we are going to use the same function by let's apply the first two and you will be like our country
+
+06:17.490 --> 06:18.810
+and then each.
+
+06:18.830 --> 06:24.040
+Now once you observe the result you will get a better idea and by default these are sending me through.
+
+06:24.060 --> 06:26.150
+So let me just execute it.
+
+06:26.150 --> 06:27.450
+Now you can see.
+
+06:27.510 --> 06:34.170
+So first it has sorted all those records based on the country and assumed that ascending is equal to
+
+06:34.180 --> 06:34.530
+true.
+
+06:34.860 --> 06:38.520
+So all those country game which is having a missing value.
+
+06:38.520 --> 06:42.380
+And within those missing value again it is sorted based on this age.
+
+06:42.420 --> 06:48.400
+You can see first is 17 18 19 20.
+
+06:48.930 --> 06:51.550
+So once another let's say currently will cheat.
+
+06:51.630 --> 06:58.370
+So let's concentrate on let's say I guess we are complete data put on Yugoslavia.
+
+06:58.570 --> 06:59.070
+OK.
+
+06:59.160 --> 07:06.990
+So again for this particular country Yugoslavia has another range of this age range starting from ascending
+
+07:06.990 --> 07:07.200
+order.
+
+07:07.200 --> 07:13.760
+So I know that all those well who has been against started reading that particular country began a McCain
+
+07:13.770 --> 07:14.710
+experiment.
+
+07:15.090 --> 07:19.950
+Let's do another argument let's say ascending we are kept by default.
+
+07:20.400 --> 07:24.010
+Let's make it flies.
+
+07:25.020 --> 07:30.310
+So now you can see the first game Yugoslavia and within Yugoslavia.
+
+07:30.330 --> 07:33.480
+Country also the age has been decreasing order.
+
+07:33.510 --> 07:38.720
+So now this ascending is equal to force has been applied to both of this column.
+
+07:38.730 --> 07:45.090
+Now let's say you want to sort this country by ascending order but is Xena descending order.
+
+07:45.120 --> 07:46.680
+So how you can proceed.
+
+07:47.040 --> 07:53.050
+So we are going to supply instead of just a single value in case of this ascending parameter.
+
+07:53.110 --> 07:57.220
+We'll accept the list of all billion values either true or false.
+
+07:57.230 --> 07:57.810
+Okay.
+
+07:57.990 --> 08:06.390
+So first let's say we'll make it false and then we'll make it through OK so ascending will be true in
+
+08:06.390 --> 08:14.450
+case of age and ascending will be fine since case of country.
+
+08:14.500 --> 08:17.070
+Now you can see countries voice.
+
+08:17.080 --> 08:19.360
+That's why first came Yugoslavia.
+
+08:19.360 --> 08:21.880
+And in case of ease by default.
+
+08:21.910 --> 08:28.840
+When we first applied this ascending is equal to just false only in that case we got all those ages
+
+08:28.840 --> 08:30.480
+in the decreasing order.
+
+08:30.490 --> 08:35.650
+Now has view explicitly told that it should be no ascending order.
+
+08:35.710 --> 08:39.320
+So it games like a 20 22 25 29.
+
+08:39.340 --> 08:43.650
+Now every time this indexing has been completely suffering you can imagine.
+
+08:43.690 --> 08:48.040
+So based on this particular column one so we can do the sorting.
+
+08:48.070 --> 08:52.980
+You can even supply another column so let's say education automatic death status.
+
+08:52.990 --> 08:57.850
+So what did we do in the order in which you pass all those column value.
+
+08:57.850 --> 09:04.840
+So first it will sort all those value based on first column and then within that particular column it
+
+09:04.840 --> 09:09.660
+will again start based on the second column and then based on the protocol.
+
+09:09.700 --> 09:13.580
+So this way this site and this core value function works.
+
+09:13.630 --> 09:20.220
+OK so this is about the sort underscore value now in the next video we'll see sort underscored in this.

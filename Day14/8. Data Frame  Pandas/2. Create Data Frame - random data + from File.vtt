@@ -1,0 +1,421 @@
+WEBVTT
+
+00:01.130 --> 00:02.000
+Hi everyone.
+
+00:02.060 --> 00:04.830
+So let's see how to create a data frame object.
+
+00:04.940 --> 00:10.550
+So in this video we're going to see how to create a data frame object from two different ways.
+
+00:10.580 --> 00:17.150
+So first we are going to generate some random data with all of this random data generation kind of lively
+
+00:17.150 --> 00:18.320
+like a non-believer.
+
+00:18.740 --> 00:23.620
+And either way we're going to lose one comma separated file venture.
+
+00:23.720 --> 00:28.940
+Eventually we are going to read and it will be done as the data fully object.
+
+00:28.940 --> 00:32.690
+So that particular file we are going to use from this particular link.
+
+00:32.690 --> 00:35.290
+So those things we'll see in the later half the video.
+
+00:35.360 --> 00:37.580
+First let's generate some random data.
+
+00:37.610 --> 00:41.540
+So first foremost thing we need to import both of the library.
+
+00:41.540 --> 00:43.760
+So let us first import the panda's library
+
+00:48.520 --> 00:50.740
+and another one for the random data.
+
+00:50.750 --> 00:58.090
+Listen we are going to use that number library.
+
+00:58.130 --> 00:59.960
+Let me just execute it.
+
+00:59.990 --> 01:02.360
+So both of the library has been loaded.
+
+01:02.720 --> 01:06.520
+Now let's generate some random data in a matrix automate order tabular form.
+
+01:06.920 --> 01:13.730
+So we are going to use this and be not random not random.
+
+01:16.160 --> 01:18.710
+And we are going to supply to arguing here.
+
+01:18.980 --> 01:23.870
+So first is how many total number of rows you want to generate and honor that argument.
+
+01:23.870 --> 01:26.300
+How many total number of columns do you want to generate.
+
+01:26.600 --> 01:33.120
+So let's say I want to generate files and the second argument I would posit later three columns let
+
+01:33.130 --> 01:34.290
+me just execute it.
+
+01:34.910 --> 01:40.790
+So it has written me one number by adding it is having a total files and a three column.
+
+01:40.880 --> 01:43.060
+Let me just assign the data.
+
+01:44.690 --> 01:53.240
+OK now we'll see a value creating a C.D. object in our earlier section that we'll use the PD like cities
+
+01:53.240 --> 01:54.170
+function.
+
+01:54.260 --> 01:59.940
+Now CMB we can use the function like a PD like Duffy.
+
+02:00.200 --> 02:05.410
+Now here we can parse this data and let's see what it will retain.
+
+02:06.020 --> 02:12.890
+So you can see it has returned as the brand new data frame object which is having a total fighters and
+
+02:12.980 --> 02:16.840
+each individual law has been pointed by the indexing number like a CDO.
+
+02:16.850 --> 02:18.250
+One two three four.
+
+02:18.770 --> 02:23.600
+And we have a total two columns the numbering is starting from 0 1 2.
+
+02:23.690 --> 02:32.000
+Now let's see if you want to or some particular label number or so you can use like a I'm going to create
+
+02:32.000 --> 02:32.990
+into another cell.
+
+02:33.680 --> 02:41.750
+So let's say another argument I can pass like columns and I can supply columns like oh let's a let's
+
+02:41.750 --> 02:45.080
+say me and it's a C.
+
+02:45.740 --> 02:49.430
+Now you can see other columns name has been completely changed.
+
+02:49.760 --> 02:55.430
+Now it becomes a B and C but still other raw numbers are 0 1 2 3 4.
+
+02:55.460 --> 03:03.940
+So that is the argument you can pass like a index ledgers see the documentation so that is an index.
+
+03:03.980 --> 03:10.070
+So instead of index is equal to None by default it is and then you can pass some values and it will
+
+03:10.070 --> 03:12.680
+be automatically appeared at this particular place.
+
+03:12.920 --> 03:16.980
+So every single law you can reference with a name like CDO One two three four.
+
+03:17.030 --> 03:22.430
+At this moment and column has been referencing with a name like ABC.
+
+03:22.490 --> 03:25.480
+Now there are some more attributes and matters.
+
+03:25.520 --> 03:30.110
+We are going to see what we can apply on top of this data frame in the next video.
+
+03:30.110 --> 03:35.810
+Now when you see this kind of structure you will be able to identify easily that this is a data offering
+
+03:36.350 --> 03:41.110
+instead of what we identified earlier sex and like it was a C.D..
+
+03:41.120 --> 03:45.360
+OK so this is the one we we hope created this late afternoon.
+
+03:45.450 --> 03:47.180
+Now we are going to see other.
+
+03:47.330 --> 03:51.590
+So we are going to use this particular data from this particular link.
+
+03:51.590 --> 03:58.220
+So I already downloaded on my current looking directly so let me just open this file browser and we
+
+03:58.220 --> 04:02.450
+have a one files like a header Dark Data CSC.
+
+04:02.480 --> 04:04.670
+So let me just double click and open it.
+
+04:05.060 --> 04:12.630
+It will open inside this Jupiter lab only so there are some poisonous informations are available.
+
+04:12.800 --> 04:15.770
+Vitesse said there are a number of does that.
+
+04:16.070 --> 04:21.890
+So each individual presents information has been written and at the very last column it indicates that
+
+04:21.920 --> 04:27.150
+its salary is less than 50 given all up audits and created a 50 gave order.
+
+04:27.200 --> 04:30.560
+Now we are not going to analyze anything at this moment.
+
+04:30.560 --> 04:36.810
+We are just going to load it into our Python memory and it will return as the brand new data object.
+
+04:37.190 --> 04:43.740
+So to create the data frame object from this particular CSP file we are going to use the other matter.
+
+04:43.740 --> 04:46.270
+L.A. Reid and the school CSC.
+
+04:46.430 --> 04:52.160
+So let me just select this EDI not read and disclose CSC.
+
+04:52.260 --> 04:55.210
+Now I'm just going to press here.
+
+04:55.320 --> 04:57.500
+That it will pop up meta documentation.
+
+04:57.710 --> 05:01.410
+So there are a number of a lot of different parameters that are associated with this part of it.
+
+05:01.610 --> 05:06.070
+So it's like little bit scary looking at how many barometers I need to minimum path.
+
+05:06.200 --> 05:10.620
+So I would suggest that every time you do not need to parse every single thing.
+
+05:10.700 --> 05:17.590
+So first argument will posit later this angle as this adult day did not specify recites it.
+
+05:17.600 --> 05:24.440
+My current working directly so I am just typing here E.D. and just place that it will autocomplete this
+
+05:24.440 --> 05:27.190
+added dot dot dot CSP file.
+
+05:27.230 --> 05:28.840
+Now let me just execute it.
+
+05:29.030 --> 05:31.510
+And let's see what it does.
+
+05:32.270 --> 05:39.200
+So now you can see it has redone a few brand new data frame object for us and all the data has done
+
+05:39.530 --> 05:42.400
+without passing any other argument.
+
+05:42.490 --> 05:49.610
+Violating this lead in the school CSP file so it has displayed the first 30 that codes I guess.
+
+05:49.610 --> 05:51.580
+And after the last 30 seconds.
+
+05:51.770 --> 05:54.670
+So we have a huge number of roles are available.
+
+05:54.700 --> 05:59.880
+So total thirty two thousand five six deals in this particular data offering these available.
+
+06:00.140 --> 06:07.320
+And we didn't just matter of second it has a completely loaded into of a memory and we have a total
+
+06:07.320 --> 06:10.310
+of 15 different columns set of associated with.
+
+06:10.610 --> 06:17.810
+Now if you see here the very first of all it is still looks like an record because it is a eight.
+
+06:17.840 --> 06:19.460
+It is a state government.
+
+06:19.520 --> 06:26.060
+So this is like an ad record only because we haven't explicitly told that you do not consider anything
+
+06:26.060 --> 06:27.230
+like a header.
+
+06:27.260 --> 06:28.130
+In this case.
+
+06:28.130 --> 06:33.180
+So I am just going to supply explicitly that header is equal to now.
+
+06:35.540 --> 06:36.050
+OK.
+
+06:36.050 --> 06:37.710
+And let's see what it means.
+
+06:38.600 --> 06:46.490
+So now you can see that header will become 0 1 2 because if you see in our all regional dataset we don't
+
+06:46.490 --> 06:47.560
+have any kind of header.
+
+06:47.810 --> 06:54.230
+So that's why we are explicitly telling this feed and this goes see as we function do not consider any
+
+06:54.230 --> 07:01.600
+kind of header if you go to this particular link first of all let me open this link
+
+07:08.010 --> 07:14.370
+OK so from this particular place I'll take on this dataset and it has given all those informations of
+
+07:14.380 --> 07:18.230
+individual feature or individual column information.
+
+07:18.280 --> 07:25.400
+So now rather than putting like 0 0 1 2 as a column name let's give some meaningful name what we were
+
+07:25.420 --> 07:26.320
+given in earlier.
+
+07:26.320 --> 07:29.030
+Case like columns the ABC.
+
+07:29.080 --> 07:31.210
+So let's give some meaningful name here.
+
+07:31.540 --> 07:39.930
+So we are going to create one day which indicates that that particular array is a list of all columns.
+
+07:39.940 --> 07:43.130
+So the first lady to be the case then vote plus.
+
+07:43.450 --> 07:49.360
+And then there is a final debate education liquid education number and marital status.
+
+07:49.380 --> 07:49.710
+Okay.
+
+07:49.810 --> 07:53.230
+So for the sake of simplicity I have already created one at it.
+
+07:54.070 --> 07:55.870
+So let me define this idea here.
+
+07:55.990 --> 07:58.960
+So I am going to create a new cell and DNA.
+
+07:59.050 --> 08:05.830
+So this is just equivalent to what informations I hope collected from individual columns of this particular
+
+08:05.830 --> 08:06.280
+dataset.
+
+08:06.310 --> 08:08.410
+So each class F and LV.
+
+08:08.560 --> 08:09.500
+Same thing.
+
+08:09.730 --> 08:12.610
+From that I created this list today.
+
+08:12.700 --> 08:19.570
+So each invoke Class F and elevate an education limit and education number marital status then occupation.
+
+08:19.570 --> 08:22.860
+So each individual adults information are available.
+
+08:23.170 --> 08:26.870
+And last one is like an account the N salary limit.
+
+08:26.960 --> 08:29.930
+Now how many hours per week it is working.
+
+08:30.070 --> 08:38.250
+So let's pause to honor that argument here like names is equal to read fossil names.
+
+08:38.290 --> 08:39.990
+So we who created this name.
+
+08:40.090 --> 08:45.230
+Now don't get confused that this is that different function we are using a different function.
+
+08:45.400 --> 08:50.590
+And here will pass the column name explicitly like columns is equal to ABC.
+
+08:50.590 --> 08:57.520
+But here we are not using this data frame function instead of that for reading external fine external
+
+08:57.700 --> 09:00.930
+file we're using this read and as closely as we on the Senate.
+
+09:00.940 --> 09:07.150
+And for that you have to provide the names as argument which would eventually reflect as a individual
+
+09:07.150 --> 09:10.210
+column name while you are reading this particular file.
+
+09:10.580 --> 09:10.910
+Okay.
+
+09:10.930 --> 09:18.320
+So now let me just executed safe tap so you can see it looks a little more interpretable.
+
+09:18.490 --> 09:26.770
+That first column is not H and then invoke Class F and elevate education education no marital status.
+
+09:27.010 --> 09:33.490
+OK so we'll successfully loaded this data into a data frame object and we'll created this data frame
+
+09:33.490 --> 09:33.880
+object.
+
+09:33.880 --> 09:38.230
+Now we can do all those kinds of operation on top of this data frame object.
+
+09:38.230 --> 09:46.990
+So let me just assign this particular statement to the IDF which is generally people use to address
+
+09:46.990 --> 09:48.370
+this data very very well.
+
+09:48.850 --> 09:55.690
+So let me just assigning the F and if I just bring this the F again you will be able to see all those
+
+09:55.690 --> 10:03.120
+kinds of data now if you just apply this in IDF or type function I would see.
+
+10:03.790 --> 10:07.450
+So it has a readiness to find us or frame made offline.
+
+10:07.480 --> 10:14.190
+So now we're going to work with one of the very important old data structure of this bind us it is nothing
+
+10:14.190 --> 10:17.870
+with a data frame object and we have successfully created it.
+
+10:18.280 --> 10:24.460
+So now in the next video we'll see what other more options attributes in a funk since we can apply on
+
+10:24.460 --> 10:25.640
+the top of this data.
+
+10:26.890 --> 10:28.230
+So that's all about this video.
+
+10:28.230 --> 10:29.410
+See you in the next video.

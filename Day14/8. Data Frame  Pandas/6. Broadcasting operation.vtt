@@ -1,0 +1,169 @@
+WEBVTT
+
+00:00.950 --> 00:01.990
+Hi everyone.
+
+00:02.090 --> 00:07.160
+So let's see some of the broadcasting operation we can apply on top of this data stream object.
+
+00:07.610 --> 00:11.360
+So let me just display first few records of data offering.
+
+00:11.930 --> 00:18.200
+So this had method is very much helpful just to give you a glance at what your data looks like.
+
+00:18.470 --> 00:26.190
+So now let's say you want to apply let's say to each of every single employee of every single angle
+
+00:26.360 --> 00:29.830
+containing about it as a Laker addition of five.
+
+00:30.050 --> 00:37.310
+So it doesn't make sense but it may happen that your business use case you may need to do such a kind
+
+00:37.310 --> 00:46.280
+of operation so we can use like a leaf cake as we have seen in the earlier video last video that the
+
+00:46.320 --> 00:46.960
+FH.
+
+00:47.120 --> 00:50.220
+We can just simply supply them near each plus fine.
+
+00:50.780 --> 00:59.170
+So now it looks like we're confusing that we're trying to add this column plus by now what does it mean.
+
+00:59.270 --> 01:06.850
+Because this is particularly full CDC twin rating and now plus pi indicates that every single cause
+
+01:06.860 --> 01:09.650
+of that particular cities we are going to add five.
+
+01:10.010 --> 01:11.480
+So now let's.
+
+01:11.480 --> 01:14.550
+Rather than assigning to this each column.
+
+01:14.660 --> 01:18.560
+Let me just execute it and see what it really does.
+
+01:18.590 --> 01:23.320
+So thirty nine become 44 50 become 50 fight and you fight.
+
+01:23.320 --> 01:27.080
+Just try to assign it let's say each and
+
+01:29.810 --> 01:34.000
+every single age value VBA picking my fight.
+
+01:34.040 --> 01:36.440
+Now let's do this head again.
+
+01:39.410 --> 01:44.310
+So now you can see 39 become 44 and 50 become 55.
+
+01:44.360 --> 01:50.660
+So that is the kind of broadcasting operation that once you do all those kinds of arithmetic it will
+
+01:50.660 --> 01:56.080
+be applied on every single course available in your data set or in your data fleet.
+
+01:56.780 --> 02:01.130
+Let's say you want to multiply this F and elevate an education number.
+
+02:01.160 --> 02:04.670
+It doesn't make sense at this moment but let's try to do it.
+
+02:04.820 --> 02:09.980
+So let's say I'm trying to grab us our final rate
+
+02:13.760 --> 02:15.980
+and another column is like RDF
+
+02:18.920 --> 02:20.310
+in new number.
+
+02:23.290 --> 02:26.620
+And if I just execute it it will be multiplied.
+
+02:26.620 --> 02:30.110
+So seventy seven thousand 561 516.
+
+02:30.310 --> 02:31.510
+Multiply by Turkey.
+
+02:32.150 --> 02:32.980
+OK.
+
+02:33.010 --> 02:37.900
+So let me just call up stout but let's ease couple of more.
+
+02:38.170 --> 02:40.290
+Let's say we have our hours per week.
+
+02:40.300 --> 02:46.840
+So each employee has done this much although support per week but after that we found that everyone
+
+02:46.840 --> 02:50.430
+has done some two hours of overtime.
+
+02:50.440 --> 02:56.500
+And if you want to update this particular column let's say powers but VK so we can just simply call
+
+02:56.590 --> 02:58.720
+it let's say the f
+
+03:01.810 --> 03:02.730
+I'm going to updated
+
+03:07.070 --> 03:15.000
+my early to put two hours of overtime deal then every single week.
+
+03:15.420 --> 03:16.820
+So perfectly executed.
+
+03:17.190 --> 03:18.210
+Let's see the result.
+
+03:21.930 --> 03:23.390
+So earlier it was a 40.
+
+03:23.390 --> 03:26.790
+Now become 42 and 13 become 50.
+
+03:27.270 --> 03:32.000
+So this is the kind of broadcasting operation we can supply on it.
+
+03:32.100 --> 03:33.730
+Let's see the capital gain.
+
+03:33.750 --> 03:42.270
+So let's say capital gain whatever gain will be each individual employee has a squawk let's say you
+
+03:42.270 --> 03:45.240
+want to divide it by let's say five.
+
+03:46.950 --> 03:53.090
+So now 2 1 7 4 has been divided by five will become four active four.
+
+03:53.100 --> 03:54.400
+Let me just call up six.
+
+03:54.860 --> 04:00.990
+OK so this is about the broadcasting of this and that all those kinds of mathematical manipulation you
+
+04:00.990 --> 04:03.780
+can apply on individual column itself.
+
+04:03.780 --> 04:09.420
+So it will be applied on eventually every single course available in your column.
+
+04:09.420 --> 04:09.630
+OK.
+
+04:09.650 --> 04:14.070
+So that is all about the broadcasting of it and I hope you enjoy listening to Syria and see the next
+
+04:14.070 --> 04:14.330
+video.

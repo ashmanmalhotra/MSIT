@@ -1,0 +1,304 @@
+WEBVTT
+
+00:01.430 --> 00:02.390
+Hi everyone.
+
+00:02.480 --> 00:05.040
+So let's see about that data type conversion.
+
+00:05.060 --> 00:12.580
+With the help of this not as type mater so we have taken this and I did not data not see as we filed
+
+00:12.590 --> 00:14.030
+for this particular video.
+
+00:14.270 --> 00:15.680
+So let me just executed.
+
+00:16.650 --> 00:20.080
+And let's see what is the data type of individual caller.
+
+00:20.150 --> 00:29.270
+So we are only learning data from attributes and amateur video that we can use this not in matter to
+
+00:29.270 --> 00:32.450
+declare individual column related information.
+
+00:32.930 --> 00:40.200
+So you can see the majority of column in our case it's the object type of column and demeaning all an
+
+00:40.550 --> 00:48.050
+integer 64 bit so data six there are six column which is in danger Miss column and remaining all the
+
+00:48.620 --> 00:50.440
+object based column.
+
+00:50.450 --> 00:57.270
+Now we haven't given any kind of information while leading this particular fight that bind us while
+
+00:57.270 --> 01:02.710
+reading this particular file you create this fuss over a column let's say eight treated like I in danger
+
+01:03.410 --> 01:07.210
+and then another column like a world class treated like an object.
+
+01:07.250 --> 01:14.890
+So as per the binders best ability I would say binders as assigned is based data type.
+
+01:15.050 --> 01:19.300
+What it can do individual column of other data every object.
+
+01:19.850 --> 01:23.810
+But it may happen that we are not satisfied with that.
+
+01:23.840 --> 01:27.700
+So let's say binders is any help providing some more data.
+
+01:28.190 --> 01:32.380
+So let's talk about the very same point where let's say sex.
+
+01:32.480 --> 01:36.970
+So we already know that the sex column has just the two sets of value.
+
+01:36.980 --> 01:38.910
+Either it will be a male or a female.
+
+01:39.200 --> 01:45.470
+So it doesn't make sense to put this particular column in The Object data type rather than that we can
+
+01:45.470 --> 01:52.100
+make it like a category kind of data type so category is nothing but when you want to encode a very
+
+01:52.100 --> 01:57.590
+lesser number of unique values that are really well in your particular features sorta column.
+
+01:57.590 --> 02:01.320
+In that case you have to use this category kind of call.
+
+02:01.380 --> 02:08.030
+Now while reading this particular file and put it into memory it has occupied three point seven plus
+
+02:08.030 --> 02:09.380
+megabytes of memory.
+
+02:09.470 --> 02:18.110
+So let's see Vi converting from object the sex column when we convert it into category kind of data
+
+02:18.110 --> 02:20.900
+type whether we can save some space or not.
+
+02:21.380 --> 02:23.440
+So let's first grab the sex column
+
+02:26.940 --> 02:28.520
+and let me just displayed first
+
+02:31.340 --> 02:34.130
+Yeah we have a linear object not a data object.
+
+02:35.000 --> 02:43.760
+So now you can see this mean mean and at the end of this city's data frame cities object we avoid data
+
+02:43.760 --> 02:44.780
+tables like an object.
+
+02:44.780 --> 02:49.700
+So we want to make this particular object as a category kind of data type.
+
+02:50.490 --> 03:00.440
+OK so far that we are going to use this as data matter and insight that we are going to apply this category.
+
+03:00.530 --> 03:08.780
+And let's see now if you observe here for the display purpose and for the visualization there is no
+
+03:08.780 --> 03:14.370
+change but in memory the way data has been presented earlier as object type.
+
+03:14.480 --> 03:18.380
+Now it has been presented as a date at a later category.
+
+03:18.440 --> 03:22.280
+So we just the two categories like a male and a female.
+
+03:22.490 --> 03:29.720
+So we can call it easily like a male is equal to zero or a female is equal to kind of 1 so that is the
+
+03:29.720 --> 03:31.960
+idea behind it in case of me.
+
+03:31.970 --> 03:38.690
+It was already occupying four character space and in case of female it is occupying the six character
+
+03:38.690 --> 03:39.570
+space.
+
+03:39.740 --> 03:45.450
+Now instead of the video just map those unique sets of value into one character space.
+
+03:45.470 --> 03:51.140
+So that's how we can reduce the space in our memory might still be balancing that how much memory will
+
+03:51.140 --> 03:51.890
+occupy.
+
+03:51.890 --> 03:54.680
+And we don't even assign it over original data.
+
+03:54.890 --> 04:01.560
+So I have to assign this C.D. to my what is it sex column.
+
+04:01.640 --> 04:03.680
+Okay and let me see.
+
+04:03.680 --> 04:05.240
+Sex.
+
+04:05.810 --> 04:06.390
+OK.
+
+04:06.560 --> 04:08.960
+Now let me just executed.
+
+04:09.770 --> 04:12.970
+And if you just apply let's say it for game.
+
+04:15.410 --> 04:23.450
+So now you can see here it was occupying three point seven plus megabytes of space in a memory.
+
+04:23.450 --> 04:28.240
+Now it is occupying three point five plus megabytes of memory.
+
+04:28.250 --> 04:35.170
+OK so you can see we'll reduce this amount of space required to represent the data by just converting
+
+04:35.210 --> 04:38.260
+our sex column from Object to what captivity.
+
+04:38.360 --> 04:43.780
+And if you observe this particular sex column information that earlier it was an object.
+
+04:43.790 --> 04:45.150
+Now it's OK.
+
+04:45.720 --> 04:47.670
+OK let's try it done another one.
+
+04:47.690 --> 04:51.290
+So let's say we have a marital status also.
+
+04:51.320 --> 04:56.850
+So marital status is also one less of number of unique values that are relevant.
+
+04:56.870 --> 05:02.630
+So I'm just copying the same quarter Leah and Lexie after that we can reduce it or not.
+
+05:02.930 --> 05:04.540
+So let's see magic done.
+
+05:04.600 --> 05:12.260
+I'm just going to select this medical status and I'm just re signing after conversion to a little additional
+
+05:13.070 --> 05:19.270
+color and let's drive it this fraud in flogging.
+
+05:21.140 --> 05:27.260
+Now you can see this marital status also become category and our memory uses also got reduced and it
+
+05:27.260 --> 05:29.430
+is reproducing so earlier.
+
+05:29.560 --> 05:31.130
+V O nine object column.
+
+05:31.130 --> 05:36.570
+Now Viola two category column and a seven object column because V O convert it to object column into
+
+05:36.740 --> 05:43.430
+category column and amount of space required in a memory also got continuously going down from three
+
+05:43.430 --> 05:48.390
+point seven in me space to three point five to three point three.
+
+05:48.440 --> 05:54.370
+So very very you feel that that is a list number of unique may lose out available in your data set.
+
+05:54.560 --> 06:01.020
+So in that case you can use such a kind of category data type and convert those data typing to get any.
+
+06:01.070 --> 06:06.990
+So this is about how you can convert into data instead of that you can convert something into a digital
+
+06:06.990 --> 06:09.760
+so you can convert it to float also.
+
+06:09.770 --> 06:16.220
+So as of now it doesn't make sense to convert any other thing into float or in danger but just for the
+
+06:16.220 --> 06:23.060
+illustration purposes let's say we want to convert this age from in danger to the float.
+
+06:23.060 --> 06:27.230
+So we are going to use the same s type matter.
+
+06:27.740 --> 06:35.810
+So let me just grab this age as right now I want to convert it into float.
+
+06:36.260 --> 06:43.250
+So I am just going to posit like a float and let me just assigning to the other original column like
+
+06:43.250 --> 06:44.270
+a page.
+
+06:46.040 --> 06:48.470
+OK and let me just add security.
+
+06:49.010 --> 06:52.700
+Now let's see what is the later type of individual content.
+
+06:52.760 --> 06:59.270
+Now as of now it is already in digits six people to meet and after converting into float again it is
+
+06:59.270 --> 07:01.910
+occupying the same space like a 64 bit.
+
+07:01.910 --> 07:05.180
+So it may happen in memory space.
+
+07:05.180 --> 07:07.160
+We have been reduced.
+
+07:07.280 --> 07:09.650
+So it's still three point three plus empty.
+
+07:09.900 --> 07:14.140
+By this age column is now float 64 bit.
+
+07:14.930 --> 07:23.050
+So we have a one float column two category column fine digital column an object kind of column is seven.
+
+07:23.420 --> 07:29.390
+So that is how you can do in the conversion of individual column from one day to day to another leader
+
+07:29.430 --> 07:37.190
+type with dental x type matter and after convoys and it may happen that your memory space might reduce
+
+07:37.190 --> 07:38.740
+or might increase also.
+
+07:39.080 --> 07:46.100
+So depending on taking some smart move you can reduce the amount of space required to represent your
+
+07:46.100 --> 07:47.410
+data in memory.
+
+07:47.900 --> 07:48.140
+OK.
+
+07:48.170 --> 07:51.410
+So that is all about that data type convert zone with Delta.
+
+07:51.450 --> 07:53.070
+This is not a state matter.
+
+07:53.100 --> 07:55.310
+On top of the different object.

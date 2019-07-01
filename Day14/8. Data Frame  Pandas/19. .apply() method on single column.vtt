@@ -1,0 +1,223 @@
+WEBVTT
+
+00:00.920 --> 00:02.120
+Hi everyone.
+
+00:02.270 --> 00:03.460
+So let's see about that.
+
+00:03.460 --> 00:07.620
+Not a plain matter on a single column of the data frame object.
+
+00:08.270 --> 00:14.480
+So we have already seen this thing in our cities sex and date how to apply this apply matter and applying
+
+00:14.480 --> 00:21.200
+those particular logic v rapidly into one particular function and applied on every single value available
+
+00:21.500 --> 00:24.170
+in that particular C.D. object.
+
+00:24.200 --> 00:30.470
+Now here also we are going to take one single column with a secure link to the one C.D. object only
+
+00:30.710 --> 00:33.500
+so we are going to use the same dataset.
+
+00:33.500 --> 00:41.810
+So I am just executing and let us display what we can do with this dataset on which particular column
+
+00:41.840 --> 00:45.710
+we can apply this display matter.
+
+00:45.740 --> 00:52.250
+So we have a brand new data frame objects that we limit you know the F object.
+
+00:52.250 --> 00:55.840
+So let's think about the one use case like a salary.
+
+00:56.210 --> 01:00.190
+So in a salary we hold just the two unique values that are relevant.
+
+01:00.320 --> 01:08.090
+So either salary will be less than 50 gay dollar or degraded in triplicate or we can even verify Twitter
+
+01:09.500 --> 01:10.400
+unique matter.
+
+01:10.430 --> 01:15.100
+So we have already learned about the unique metric here.
+
+01:19.220 --> 01:24.190
+So you can see we have to lose only possible values that are relevant in a salary column.
+
+01:24.230 --> 01:27.820
+So one is the less than fit together and both are like an object only.
+
+01:27.920 --> 01:35.520
+Now let's say we want to create one more new column which is dependent on this particular salary column.
+
+01:35.570 --> 01:40.880
+So we'll take this salary column and we'll apply one particular function and inside that particular
+
+01:40.880 --> 01:42.980
+function we are going to write the logic.
+
+01:43.310 --> 01:51.170
+So let's say we'll create a very simple logic like a Will just map all those data fed the salaries let's
+
+01:51.170 --> 01:54.220
+say list then we pick a dollar we'll just married to one number.
+
+01:54.230 --> 01:59.150
+So let's say a number will be let's say 1 and very well the salary is created in triplicate.
+
+01:59.150 --> 02:02.810
+It will just maybe 2 the one of the number let's say it will be.
+
+02:03.470 --> 02:05.960
+OK let's create a one function first.
+
+02:06.020 --> 02:10.840
+So to create a function in a by turn be able to start with the deaf keyboard.
+
+02:11.270 --> 02:12.530
+And then the function name.
+
+02:12.560 --> 02:18.590
+So let's say the function name will you like and call salary because here we are encoding the salary
+
+02:18.590 --> 02:20.690
+value into two unique numbers.
+
+02:20.820 --> 02:21.340
+OK.
+
+02:22.160 --> 02:23.840
+Let me take salary as input
+
+02:26.630 --> 02:28.520
+and after that we'll write of a logic.
+
+02:28.610 --> 02:35.410
+So let's say if salary will compare with the first two anyway.
+
+02:35.480 --> 02:39.260
+So it will be a space and listing for Tiki.
+
+02:40.850 --> 02:41.660
+OK.
+
+02:41.840 --> 02:47.480
+And then hold and religious return let's say of a number.
+
+02:47.900 --> 02:48.620
+Oh sorry.
+
+02:48.620 --> 02:53.330
+Someone else will donate to.
+
+02:57.290 --> 02:59.960
+OK so we created the function.
+
+02:59.990 --> 03:03.370
+Now let's apply this particular function on a salary column.
+
+03:03.710 --> 03:11.110
+So when we tried to grab the salary column which is nothing but the equivalent to one full fledged series
+
+03:11.120 --> 03:13.450
+object and that we have already seen.
+
+03:13.490 --> 03:19.130
+So in this video we'll just apply on a one single column and in the next video we'll see how to apply
+
+03:19.130 --> 03:20.920
+on a multiple different columns.
+
+03:21.170 --> 03:29.540
+So let's grab first the salary column and if a display in this particular column so I have a values
+
+03:29.540 --> 03:34.040
+like a list then 58 and denigrated in triplicate.
+
+03:34.050 --> 03:38.910
+Now let me just play custom function what we're just now created a play
+
+03:45.510 --> 03:48.200
+and code selling and let's see particularly time.
+
+03:48.330 --> 03:51.750
+So very well the value is less than free ticket it should be done on one.
+
+03:51.900 --> 03:54.190
+Otherwise it will return to.
+
+03:54.480 --> 03:59.710
+So you can see there are some places it has a return of one otherwise it has returned to.
+
+03:59.910 --> 04:07.140
+So that means that this function got played on every single value really well in a salary column and
+
+04:07.140 --> 04:11.740
+we'll grab this salary as a input argument to this particular function.
+
+04:11.760 --> 04:17.880
+So while applying this particular function to every single value of the salary column that particular
+
+04:17.880 --> 04:20.650
+value has been mapped to the salary variable.
+
+04:21.210 --> 04:23.160
+OK now we got the results.
+
+04:23.160 --> 04:24.990
+Let me just assign it.
+
+04:25.170 --> 04:29.360
+So we are going to create a brand new different column.
+
+04:29.370 --> 04:34.020
+So let's say I am going to create another column let's say and call it
+
+04:38.360 --> 04:38.910
+salary.
+
+04:39.100 --> 04:40.510
+Okay.
+
+04:40.800 --> 04:49.110
+And let me just assign the full apply part to this new column name like and call it salary and let us
+
+04:49.110 --> 04:53.790
+display first few records.
+
+04:53.880 --> 05:01.860
+Now you can see we are just scored all values which is 1 Let's try with some more few values so you
+
+05:01.860 --> 05:04.890
+can see that at some plays I gotta do so.
+
+05:04.940 --> 05:11.850
+So it has generated a second new column which is having a completely desired value from the salary column.
+
+05:11.880 --> 05:18.510
+So Bill now we'll just apply it on a one single column and we'll use just that particular column to
+
+05:18.510 --> 05:23.090
+derive our newly created column like I encoded in their scores salary.
+
+05:23.130 --> 05:29.490
+Now in the next video we'll see how to use all this data frame and we'll apply this a play function
+
+05:29.790 --> 05:37.090
+on a whole data object and any of the column we can use to manipulate and create some new data.
+
+05:37.620 --> 05:38.000
+OK.
+
+05:38.040 --> 05:39.750
+So that is all about this video.
+
+05:39.770 --> 05:41.090
+See the next video.

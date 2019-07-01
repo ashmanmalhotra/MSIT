@@ -1,0 +1,184 @@
+WEBVTT
+
+00:01.330 --> 00:02.600
+Hi everyone.
+
+00:02.770 --> 00:04.730
+So let's see to my third spot.
+
+00:04.750 --> 00:07.870
+We can apply on top of individual cities objects.
+
+00:07.870 --> 00:11.750
+So this is basically cities matter like our and unique might turn any unique mega.
+
+00:11.980 --> 00:18.450
+So a number of times so before processing Dateline and explaining the concept related to data frame
+
+00:18.550 --> 00:21.060
+object I have executed this matter.
+
+00:21.250 --> 00:24.310
+But now we are explicitly going to watch that.
+
+00:24.490 --> 00:27.980
+What this matter is so and unique and a unique matter.
+
+00:28.000 --> 00:34.700
+So let me just display first few records of this data frame object.
+
+00:34.750 --> 00:42.350
+Now there are some of the column that bind us as identified like an object column or a string column.
+
+00:42.400 --> 00:48.790
+So from the one angle it looks like a string but from the statistical point of view it may have a list
+
+00:48.790 --> 00:50.400
+number of unique values.
+
+00:50.440 --> 00:57.190
+So let's say about the sex column or let's say about the last column or even a relationship column even
+
+00:57.210 --> 00:58.260
+in occupation also.
+
+00:58.270 --> 01:03.940
+So there are a number of categorical columns that I really want you know it dataset particularly in
+
+01:03.940 --> 01:05.090
+this particular dataset.
+
+01:05.170 --> 01:12.000
+Because when you How was that kind of data set in that case you help to identify such a kind of column
+
+01:12.360 --> 01:18.160
+and you treat treated completely differently before applying for other machine learning related algorithm
+
+01:18.400 --> 01:24.310
+because you have to set your data set to another kind of encoding technique like a one time encoding
+
+01:24.640 --> 01:28.160
+or label encoding kind of technique you want to play on a double.
+
+01:28.330 --> 01:34.750
+So we are not going to go into detail of those kind of encoding but the idea is that you have to identify
+
+01:35.020 --> 01:39.130
+the column in which you are release the number of unique values that are available.
+
+01:39.190 --> 01:41.040
+Now hopefully you'll find that thing.
+
+01:41.080 --> 01:48.460
+So let's say about sex column based on our earlier knowledge we already know that it may have well not
+
+01:48.460 --> 01:51.560
+more than two columns or sometimes maximum three columns.
+
+01:51.640 --> 01:57.520
+So we can identify those things with dead bodies to make us like a and unique and a unique Microsoft.
+
+01:58.000 --> 02:02.610
+So let's grab the sex column first.
+
+02:03.340 --> 02:04.690
+And this is a serious matter.
+
+02:04.720 --> 02:13.810
+So this particular part will be done to see cities object and I'm just going to apply unique to my time
+
+02:14.740 --> 02:19.560
+so you can see Vio got the one which is having just a two way use.
+
+02:19.600 --> 02:25.160
+Now you can just see the first is that there is a little space one space after that.
+
+02:25.210 --> 02:27.540
+That is a mean space and then.
+
+02:27.760 --> 02:30.190
+So we'll just do unique values that are really.
+
+02:30.550 --> 02:33.580
+You can apply this land function to grab it.
+
+02:33.580 --> 02:35.740
+How many unique values that are relevant now.
+
+02:35.740 --> 02:39.190
+This exact result you can get fixed and unique.
+
+02:39.250 --> 02:45.480
+So instead of unique you can apply and you can equally turn exactly the similarity.
+
+02:45.680 --> 02:50.760
+Daniel played this land function on the top of the output of this particular design.
+
+02:51.310 --> 02:56.510
+So we'll identify that in a sex Leo just to do unique values that are relevant one is male and it's
+
+02:56.640 --> 02:57.040
+finished.
+
+02:57.640 --> 03:03.120
+Now let's grab for some other column so let's say the listenership.
+
+03:03.300 --> 03:03.730
+OK.
+
+03:03.780 --> 03:04.330
+This incident
+
+03:07.540 --> 03:10.320
+so we can grab like 20 if
+
+03:17.060 --> 03:17.960
+you like.
+
+03:20.080 --> 03:26.230
+So in relation second Silvio we're just five in six column one literally the same way.
+
+03:26.250 --> 03:29.070
+You know we can drive it let's say education
+
+03:35.730 --> 03:43.870
+and is very much helpful that if you have a lesser number of unique values that are really well you
+
+03:43.870 --> 03:48.250
+have to treat your data with some different kinds of technique.
+
+03:48.310 --> 03:51.310
+So we tell Bob this unique My Turn Eight will return there.
+
+03:51.310 --> 03:54.770
+How many unique and what are the unique values that are really.
+
+03:55.030 --> 03:58.340
+So in education columns Silvio quite some unique values.
+
+03:58.420 --> 04:04.150
+Now it doesn't make sense to apply this unique value on a real number because real numbers have infinite
+
+04:04.150 --> 04:05.130
+numbers of money.
+
+04:05.170 --> 04:10.930
+So it definitely won't make any kind of sense but let's say we will apply this unique on the top of
+
+04:10.930 --> 04:11.910
+this each column.
+
+04:12.280 --> 04:25.540
+So let's see how many we get a number equal return in each.
+
+04:26.080 --> 04:29.530
+Now you can see still we we're not very big number.
+
+04:29.530 --> 04:34.740
+Listen I'm so and unique militant 73 unique values that are relevant.
+
+04:35.260 --> 04:41.820
+OK so that is about the N unique matter and a unique matter which we can apply on top of this city's
+
+04:41.830 --> 04:42.130
+object.

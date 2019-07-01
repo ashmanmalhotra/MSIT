@@ -1,0 +1,244 @@
+WEBVTT
+
+00:00.940 --> 00:01.940
+Hi everyone.
+
+00:01.990 --> 00:07.630
+So we have seen how to filter the data based on some sort of comparison operator.
+
+00:07.660 --> 00:13.330
+Now really combine this multiple companies and operator will combine those conditions with even hardly
+
+00:13.330 --> 00:15.980
+one logical operator like high end and our operator.
+
+00:16.300 --> 00:20.710
+And we'll see how we can filter the data into my dismal condition.
+
+00:20.710 --> 00:26.100
+So we have already created multiple conditions in the last two videos so let's say one can this end
+
+00:26.110 --> 00:29.190
+is something like sex is a mean.
+
+00:29.350 --> 00:39.180
+So let's grab the data where the sex column is a male and all the age value will be greater than 50.
+
+00:39.220 --> 00:46.210
+So they try only to recall where the sex column is made and is greater than 50.
+
+00:46.240 --> 00:53.560
+So let's create a condition and really combine both of this condition with some sort of ending operator.
+
+00:53.830 --> 00:56.290
+So let me just copy it.
+
+00:57.310 --> 00:59.410
+So this is the first condition.
+
+00:59.410 --> 01:01.790
+So I am just going to view the name like a con.
+
+01:01.810 --> 01:14.260
+So it is equal to condition one and that one is lexicon to condition to sort of age 50.
+
+01:14.620 --> 01:17.500
+OK so you created a condition.
+
+01:17.500 --> 01:22.500
+Let me just display on one and 2.
+
+01:22.720 --> 01:25.300
+So true and con.
+
+01:25.930 --> 01:26.780
+OK.
+
+01:26.820 --> 01:30.030
+Now let me just collapse this back.
+
+01:30.130 --> 01:32.640
+Now we need to retract those data.
+
+01:32.840 --> 01:37.030
+They bought of the condition so get satisfied.
+
+01:37.390 --> 01:42.710
+So we are going to supply inside the F so first condition is like on 1.
+
+01:42.790 --> 01:50.180
+So it will only require those that core business having a value male in a sex column and that is going
+
+01:50.260 --> 01:51.080
+to.
+
+01:51.190 --> 01:56.650
+And most of the condition meaning combined with and operator now and operator.
+
+01:56.680 --> 02:03.780
+We already know as a programmer that if Mourdock of this condition got satisfy then lately they're going
+
+02:03.820 --> 02:04.930
+to resign.
+
+02:05.140 --> 02:08.690
+So let me just bring some fuel that goes on.
+
+02:08.860 --> 02:20.330
+Let's the head held on to and let me bring on one head that is had made it is very useful when you're
+
+02:20.350 --> 02:26.770
+actually working with the data analysis because every since now and then you hope to seat your data
+
+02:27.070 --> 02:34.000
+and plus find out cause it will immediately give you now you can see only that Corbett is having a next
+
+02:34.000 --> 02:37.590
+number three where only most of this value will be true.
+
+02:37.780 --> 02:44.920
+Otherwise at least one false will do so it will be on this face and we can even first come by here also
+
+02:45.270 --> 02:48.530
+with ending operation in corn.
+
+02:49.090 --> 02:57.560
+Now let let me just create this brand and I will like Palmetto so it will just say can we first base
+
+02:57.600 --> 02:57.820
+it.
+
+02:58.300 --> 03:04.810
+OK so only record of it is having a third or index number clean it is having a value too.
+
+03:04.930 --> 03:07.530
+So it will just recline only those so-called.
+
+03:07.750 --> 03:17.770
+Now let me apply this both of the condition to get the date of any object and now you can see the total
+
+03:17.770 --> 03:23.290
+recall only from our first fight or only Total Recall it has come like if you observe the result you
+
+03:23.290 --> 03:28.570
+can see all are male only an eighty side greater than 50 only.
+
+03:29.020 --> 03:36.490
+OK now let's say there is no hard condition that the present order data should be having a mean and
+
+03:36.490 --> 03:43.710
+it should be having age greater than 50 instead of date either one of them got satisfied with me cookie.
+
+03:43.720 --> 03:51.130
+So in that case me are to lose the order of operations so you're going to use the second one on two
+
+03:51.880 --> 03:55.290
+and he'll be became like a pipe symbol.
+
+03:55.380 --> 04:01.590
+Notice generally this pipe symbol will be available just near to your end turkey on your keyboard.
+
+04:01.600 --> 04:03.090
+Now let me just executed.
+
+04:03.850 --> 04:08.780
+So now you can see a lot of male only the old guard familia.
+
+04:08.800 --> 04:11.860
+We got a female also but variable there is a female.
+
+04:11.860 --> 04:13.540
+It has to be a greater than 50 only.
+
+04:13.550 --> 04:17.080
+So I drove from one condition has to satisfy.
+
+04:17.170 --> 04:19.870
+So either both of the conditions will get satisfied.
+
+04:19.870 --> 04:24.880
+So in a first case we adjust the male condition got satisfied but age is less than 50.
+
+04:24.880 --> 04:28.090
+In our second case also it's a mean less than 50.
+
+04:28.120 --> 04:31.860
+What I would say equal to 50 but it's not a greater than 50.
+
+04:31.870 --> 04:35.160
+In this particular case male and greater than 50.
+
+04:35.290 --> 04:41.280
+So either one of them condition got satisfied and based on that it is required that is it.
+
+04:41.350 --> 04:44.430
+So this way you can combine those kind of condition.
+
+04:44.500 --> 04:50.710
+You can even come none none other condition Victor even under a complex statement let's say will create
+
+04:50.710 --> 04:57.860
+another third one let's let let let me create.
+
+04:58.300 --> 05:00.520
+Let me see first few records.
+
+05:05.230 --> 05:12.200
+So we have all education also available so we can create a third condition let's say on the.
+
+05:12.880 --> 05:16.840
+And Viola educations would be must be bachelors only.
+
+05:16.870 --> 05:21.010
+So let's say let's skip the heart condition legal education
+
+05:26.800 --> 05:28.630
+and let me just copy.
+
+05:30.760 --> 05:34.270
+Ok so current condition or so we'll create it.
+
+05:34.540 --> 05:37.150
+Now we can combine these multiple conditions together.
+
+05:37.420 --> 05:45.040
+So let's say we want to get the result that data which is having a education must be a bachelor at least
+
+05:45.040 --> 05:51.850
+must be a bachelor whether it is greater than 50 years of age if it is then it's also ok if it is not
+
+05:52.090 --> 05:53.340
+then it's also ok.
+
+05:53.380 --> 06:02.950
+So conditioned to got something like EMI deal so you can combine this on one and lexicon two and you
+
+06:02.960 --> 06:06.460
+can deciding it so there's no yard requirement.
+
+06:06.510 --> 06:09.770
+You can combine all those two conditions.
+
+06:10.140 --> 06:16.860
+So now you can see either this condition got to satisfy or either this condition got to satisfy it has
+
+06:16.860 --> 06:17.370
+let it out.
+
+06:17.370 --> 06:20.890
+That is so conditioned please Laker the.
+
+06:21.090 --> 06:26.550
+So now you can see wherever there is a bachelor it might happen that this condition one in condition
+
+06:27.290 --> 06:28.920
+two got five songs.
+
+06:29.280 --> 06:37.320
+OK so that is a lack of logic circuit related stuff that is based on your logic my my idea here is to
+
+06:37.320 --> 06:40.640
+introduce that how you can filter that data up is done.
+
+06:40.690 --> 06:41.670
+My given condition.
