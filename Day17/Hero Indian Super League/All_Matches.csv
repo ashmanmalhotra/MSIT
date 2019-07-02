@@ -1,0 +1,279 @@
+"Season"|"MatchID"|"Round"|"Date_Time"|"PSO"|"AET"|"Team1_Code"|"Team1_Name"|"HT_Team1_Goals"|"FT_Team1_Goals"|"ET_Team1_Goals"|"PS_Team1_Goals"|"Team2_Code"|"Team2_Name"|"HT_Team2_Goals"|"FT_Team2_Goals"|"ET_Team2_Goals"|"PS_Team2_Goals"
+"2014"|"S01M001"|"Round 1"|2014-10-12 14:30:00|0|0|"ATK"|"Atlético de Kolkata"|1|3|NA|NA|"MUM"|"Mumbai City FC"|0|0|NA|NA
+"2014"|"S01M002"|"Round 1"|2014-10-13 14:30:00|0|0|"NEU"|"NorthEast United FC"|1|1|NA|NA|"KER"|"Kerala Blasters"|0|0|NA|NA
+"2014"|"S01M003"|"Round 1"|2014-10-14 14:30:00|0|0|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA|"PUN"|"FC Pune City"|0|0|NA|NA
+"2014"|"S01M004"|"Round 1"|2014-10-15 14:30:00|0|0|"GOA"|"FC Goa"|0|1|NA|NA|"CHN"|"Chennaiyin FC"|2|2|NA|NA
+"2014"|"S01M005"|"Round 1"|2014-10-16 14:30:00|0|0|"NEU"|"NorthEast United FC"|0|0|NA|NA|"ATK"|"Atlético de Kolkata"|1|2|NA|NA
+"2014"|"S01M006"|"Round 1"|2014-10-18 14:30:00|0|0|"MUM"|"Mumbai City FC"|3|5|NA|NA|"PUN"|"FC Pune City"|0|0|NA|NA
+"2014"|"S01M007"|"Round 1"|2014-10-19 12:00:00|0|0|"ATK"|"Atlético de Kolkata"|0|1|NA|NA|"DEL"|"Delhi Dynamos FC"|0|1|NA|NA
+"2014"|"S01M008"|"Round 1"|2014-10-19 14:30:00|0|0|"NEU"|"NorthEast United FC"|1|1|NA|NA|"GOA"|"FC Goa"|1|1|NA|NA
+"2014"|"S01M009"|"Round 1"|2014-10-21 14:30:00|0|0|"CHN"|"Chennaiyin FC"|1|2|NA|NA|"KER"|"Kerala Blasters"|0|1|NA|NA
+"2014"|"S01M010"|"Round 1"|2014-10-23 14:30:00|0|0|"GOA"|"FC Goa"|1|1|NA|NA|"ATK"|"Atlético de Kolkata"|0|2|NA|NA
+"2014"|"S01M011"|"Round 1"|2014-10-24 14:30:00|0|0|"MUM"|"Mumbai City FC"|0|0|NA|NA|"NEU"|"NorthEast United FC"|0|2|NA|NA
+"2014"|"S01M012"|"Round 1"|2014-10-25 14:30:00|0|0|"DEL"|"Delhi Dynamos FC"|2|4|NA|NA|"CHN"|"Chennaiyin FC"|0|1|NA|NA
+"2014"|"S01M013"|"Round 1"|2014-10-26 11:00:00|0|0|"ATK"|"Atlético de Kolkata"|1|1|NA|NA|"KER"|"Kerala Blasters"|1|1|NA|NA
+"2014"|"S01M014"|"Round 1"|2014-10-26 13:30:00|0|0|"PUN"|"FC Pune City"|1|2|NA|NA|"GOA"|"FC Goa"|0|0|NA|NA
+"2014"|"S01M015"|"Round 1"|2014-10-28 13:30:00|0|0|"CHN"|"Chennaiyin FC"|4|5|NA|NA|"MUM"|"Mumbai City FC"|0|1|NA|NA
+"2014"|"S01M016"|"Round 1"|2014-10-29 13:30:00|0|0|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA|"NEU"|"NorthEast United FC"|0|0|NA|NA
+"2014"|"S01M017"|"Round 1"|2014-10-30 13:30:00|0|0|"PUN"|"FC Pune City"|1|1|NA|NA|"KER"|"Kerala Blasters"|1|2|NA|NA
+"2014"|"S01M018"|"Round 2"|2014-11-01 13:30:00|0|0|"GOA"|"FC Goa"|0|2|NA|NA|"DEL"|"Delhi Dynamos FC"|1|1|NA|NA
+"2014"|"S01M019"|"Round 2"|2014-11-02 13:30:00|0|0|"MUM"|"Mumbai City FC"|1|1|NA|NA|"KER"|"Kerala Blasters"|0|0|NA|NA
+"2014"|"S01M020"|"Round 2"|2014-11-03 13:30:00|0|0|"PUN"|"FC Pune City"|0|1|NA|NA|"NEU"|"NorthEast United FC"|0|0|NA|NA
+"2014"|"S01M021"|"Round 2"|2014-11-04 13:30:00|0|0|"CHN"|"Chennaiyin FC"|0|1|NA|NA|"ATK"|"Atlético de Kolkata"|1|1|NA|NA
+"2014"|"S01M022"|"Round 2"|2014-11-05 13:30:00|0|0|"MUM"|"Mumbai City FC"|0|1|NA|NA|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA
+"2014"|"S01M023"|"Round 2"|2014-11-06 13:30:00|0|0|"KER"|"Kerala Blasters"|0|1|NA|NA|"GOA"|"FC Goa"|0|0|NA|NA
+"2014"|"S01M024"|"Round 2"|2014-11-07 13:30:00|0|0|"ATK"|"Atlético de Kolkata"|0|1|NA|NA|"PUN"|"FC Pune City"|1|3|NA|NA
+"2014"|"S01M025"|"Round 2"|2014-11-08 13:30:00|0|0|"CHN"|"Chennaiyin FC"|1|2|NA|NA|"NEU"|"NorthEast United FC"|1|2|NA|NA
+"2014"|"S01M026"|"Round 2"|2014-11-09 11:00:00|0|0|"GOA"|"FC Goa"|0|0|NA|NA|"MUM"|"Mumbai City FC"|0|0|NA|NA
+"2014"|"S01M027"|"Round 2"|2014-11-09 13:30:00|0|0|"KER"|"Kerala Blasters"|0|0|NA|NA|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA
+"2014"|"S01M028"|"Round 2"|2014-11-11 13:30:00|0|0|"PUN"|"FC Pune City"|1|1|NA|NA|"CHN"|"Chennaiyin FC"|0|1|NA|NA
+"2014"|"S01M029"|"Round 2"|2014-11-12 13:30:00|0|0|"KER"|"Kerala Blasters"|0|0|NA|NA|"MUM"|"Mumbai City FC"|0|0|NA|NA
+"2014"|"S01M030"|"Round 2"|2014-11-13 13:30:00|0|0|"DEL"|"Delhi Dynamos FC"|0|1|NA|NA|"GOA"|"FC Goa"|1|4|NA|NA
+"2014"|"S01M031"|"Round 2"|2014-11-14 13:30:00|0|0|"ATK"|"Atlético de Kolkata"|0|0|NA|NA|"CHN"|"Chennaiyin FC"|0|0|NA|NA
+"2014"|"S01M032"|"Round 2"|2014-11-15 13:30:00|0|0|"NEU"|"NorthEast United FC"|0|0|NA|NA|"PUN"|"FC Pune City"|0|0|NA|NA
+"2014"|"S01M033"|"Round 2"|2014-11-16 13:30:00|0|0|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA|"KER"|"Kerala Blasters"|0|1|NA|NA
+"2014"|"S01M034"|"Round 2"|2014-11-17 13:30:00|0|0|"MUM"|"Mumbai City FC"|0|0|NA|NA|"GOA"|"FC Goa"|0|0|NA|NA
+"2014"|"S01M035"|"Round 2"|2014-11-18 13:30:00|0|0|"ATK"|"Atlético de Kolkata"|0|1|NA|NA|"NEU"|"NorthEast United FC"|0|0|NA|NA
+"2014"|"S01M036"|"Round 2"|2014-11-19 13:30:00|0|0|"CHN"|"Chennaiyin FC"|0|3|NA|NA|"PUN"|"FC Pune City"|0|1|NA|NA
+"2014"|"S01M037"|"Round 2"|2014-11-21 13:30:00|0|0|"KER"|"Kerala Blasters"|2|2|NA|NA|"ATK"|"Atlético de Kolkata"|0|1|NA|NA
+"2014"|"S01M038"|"Round 2"|2014-11-22 13:30:00|0|0|"GOA"|"FC Goa"|1|2|NA|NA|"PUN"|"FC Pune City"|0|0|NA|NA
+"2014"|"S01M039"|"Round 2"|2014-11-23 13:30:00|0|0|"MUM"|"Mumbai City FC"|0|0|NA|NA|"CHN"|"Chennaiyin FC"|0|3|NA|NA
+"2014"|"S01M040"|"Round 2"|2014-11-24 13:30:00|0|0|"NEU"|"NorthEast United FC"|0|1|NA|NA|"DEL"|"Delhi Dynamos FC"|2|2|NA|NA
+"2014"|"S01M041"|"Round 2"|2014-11-26 13:30:00|0|0|"GOA"|"FC Goa"|0|3|NA|NA|"KER"|"Kerala Blasters"|0|0|NA|NA
+"2014"|"S01M042"|"Round 2"|2014-11-27 13:30:00|0|0|"NEU"|"NorthEast United FC"|NA|3|NA|NA|"CHN"|"Chennaiyin FC"|NA|0|NA|NA
+"2014"|"S01M043"|"Round 2"|2014-11-28 13:30:00|0|0|"DEL"|"Delhi Dynamos FC"|1|4|NA|NA|"MUM"|"Mumbai City FC"|0|1|NA|NA
+"2014"|"S01M044"|"Round 2"|2014-11-29 13:30:00|0|0|"PUN"|"FC Pune City"|1|1|NA|NA|"ATK"|"Atlético de Kolkata"|1|1|NA|NA
+"2014"|"S01M045"|"Round 2"|2014-11-30 13:30:00|0|0|"KER"|"Kerala Blasters"|0|0|NA|NA|"CHN"|"Chennaiyin FC"|0|1|NA|NA
+"2014"|"S01M046"|"Round 3"|2014-12-01 13:30:00|0|0|"GOA"|"FC Goa"|2|3|NA|NA|"NEU"|"NorthEast United FC"|0|0|NA|NA
+"2014"|"S01M047"|"Round 3"|2014-12-02 13:30:00|0|0|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA|"ATK"|"Atlético de Kolkata"|0|0|NA|NA
+"2014"|"S01M048"|"Round 3"|2014-12-03 13:30:00|0|0|"PUN"|"FC Pune City"|0|2|NA|NA|"MUM"|"Mumbai City FC"|0|0|NA|NA
+"2014"|"S01M049"|"Round 3"|2014-12-04 13:30:00|0|0|"KER"|"Kerala Blasters"|0|0|NA|NA|"NEU"|"NorthEast United FC"|0|0|NA|NA
+"2014"|"S01M050"|"Round 3"|2014-12-05 13:30:00|0|0|"CHN"|"Chennaiyin FC"|0|1|NA|NA|"GOA"|"FC Goa"|2|3|NA|NA
+"2014"|"S01M051"|"Round 3"|2014-12-06 13:30:00|0|0|"PUN"|"FC Pune City"|0|0|NA|NA|"DEL"|"Delhi Dynamos FC"|0|1|NA|NA
+"2014"|"S01M052"|"Round 3"|2014-12-07 13:30:00|0|0|"MUM"|"Mumbai City FC"|1|2|NA|NA|"ATK"|"Atlético de Kolkata"|0|1|NA|NA
+"2014"|"S01M053"|"Round 3"|2014-12-09 11:00:00|0|0|"CHN"|"Chennaiyin FC"|2|2|NA|NA|"DEL"|"Delhi Dynamos FC"|0|2|NA|NA
+"2014"|"S01M054"|"Round 3"|2014-12-09 13:30:00|0|0|"KER"|"Kerala Blasters"|1|1|NA|NA|"PUN"|"FC Pune City"|0|0|NA|NA
+"2014"|"S01M055"|"Round 3"|2014-12-10 11:00:00|0|0|"ATK"|"Atlético de Kolkata"|0|1|NA|NA|"GOA"|"FC Goa"|1|1|NA|NA
+"2014"|"S01M056"|"Round 3"|2014-12-10 13:30:00|0|0|"NEU"|"NorthEast United FC"|1|1|NA|NA|"MUM"|"Mumbai City FC"|0|1|NA|NA
+"2014"|"S01M057"|"Semi-finals"|2014-12-13 13:30:00|0|0|"KER"|"Kerala Blasters"|NA|3|NA|NA|"CHN"|"Chennaiyin FC"|NA|0|NA|NA
+"2014"|"S01M058"|"Semi-finals"|2014-12-14 13:30:00|0|0|"ATK"|"Atlético de Kolkata"|0|0|NA|NA|"GOA"|"FC Goa"|0|0|NA|NA
+"2014"|"S01M059"|"Semi-finals"|2014-12-16 13:30:00|0|1|"CHN"|"Chennaiyin FC"|1|3|3|NA|"KER"|"Kerala Blasters"|0|0|1|NA
+"2014"|"S01M060"|"Semi-finals"|2014-12-17 13:30:00|1|0|"GOA"|"FC Goa"|0|0|0|2|"ATK"|"Atlético de Kolkata"|0|0|0|4
+"2014"|"S01M061"|"Final"|2014-12-20 13:30:00|0|0|"KER"|"Kerala Blasters"|0|0|NA|NA|"ATK"|"Atlético de Kolkata"|0|1|NA|NA
+"2015"|"S02M001"|"Round 1"|2015-10-03 14:30:00|0|0|"CHN"|"Chennaiyin FC"|1|2|NA|NA|"ATK"|"Atlético de Kolkata"|1|3|NA|NA
+"2015"|"S02M002"|"Round 1"|2015-10-04 14:30:00|0|0|"GOA"|"FC Goa"|2|2|NA|NA|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA
+"2015"|"S02M003"|"Round 1"|2015-10-05 14:30:00|0|0|"PUN"|"FC Pune City"|1|3|NA|NA|"MUM"|"Mumbai City FC"|1|1|NA|NA
+"2015"|"S02M004"|"Round 1"|2015-10-06 14:30:00|0|0|"KER"|"Kerala Blasters"|0|3|NA|NA|"NEU"|"NorthEast United FC"|0|1|NA|NA
+"2015"|"S02M005"|"Round 1"|2015-10-07 14:30:00|0|0|"GOA"|"FC Goa"|1|1|NA|NA|"ATK"|"Atlético de Kolkata"|0|1|NA|NA
+"2015"|"S02M006"|"Round 1"|2015-10-08 14:30:00|0|0|"DEL"|"Delhi Dynamos FC"|1|1|NA|NA|"CHN"|"Chennaiyin FC"|0|0|NA|NA
+"2015"|"S02M007"|"Round 1"|2015-10-09 14:30:00|0|0|"PUN"|"FC Pune City"|0|1|NA|NA|"NEU"|"NorthEast United FC"|0|0|NA|NA
+"2015"|"S02M008"|"Round 1"|2015-10-10 14:30:00|0|0|"KER"|"Kerala Blasters"|0|0|NA|NA|"MUM"|"Mumbai City FC"|0|0|NA|NA
+"2015"|"S02M009"|"Round 1"|2015-10-11 14:30:00|0|0|"GOA"|"FC Goa"|0|0|NA|NA|"CHN"|"Chennaiyin FC"|2|4|NA|NA
+"2015"|"S02M010"|"Round 1"|2015-10-13 14:30:00|0|0|"ATK"|"Atlético de Kolkata"|1|2|NA|NA|"KER"|"Kerala Blasters"|0|1|NA|NA
+"2015"|"S02M011"|"Round 1"|2015-10-14 14:30:00|0|0|"PUN"|"FC Pune City"|0|1|NA|NA|"DEL"|"Delhi Dynamos FC"|1|2|NA|NA
+"2015"|"S02M012"|"Round 1"|2015-10-15 14:30:00|0|0|"NEU"|"NorthEast United FC"|1|1|NA|NA|"GOA"|"FC Goa"|2|3|NA|NA
+"2015"|"S02M013"|"Round 1"|2015-10-17 14:30:00|0|0|"PUN"|"FC Pune City"|1|1|NA|NA|"ATK"|"Atlético de Kolkata"|0|0|NA|NA
+"2015"|"S02M014"|"Round 1"|2015-10-18 14:30:00|0|0|"KER"|"Kerala Blasters"|0|0|NA|NA|"DEL"|"Delhi Dynamos FC"|0|1|NA|NA
+"2015"|"S02M015"|"Round 1"|2015-10-20 14:30:00|0|0|"NEU"|"NorthEast United FC"|0|2|NA|NA|"CHN"|"Chennaiyin FC"|0|0|NA|NA
+"2015"|"S02M016"|"Round 1"|2015-10-21 14:30:00|0|0|"MUM"|"Mumbai City FC"|1|2|NA|NA|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA
+"2015"|"S02M017"|"Round 1"|2015-10-22 14:30:00|0|0|"GOA"|"FC Goa"|1|2|NA|NA|"KER"|"Kerala Blasters"|1|1|NA|NA
+"2015"|"S02M018"|"Round 1"|2015-10-23 14:30:00|0|0|"NEU"|"NorthEast United FC"|0|1|NA|NA|"ATK"|"Atlético de Kolkata"|0|0|NA|NA
+"2015"|"S02M019"|"Round 1"|2015-10-24 14:30:00|0|0|"CHN"|"Chennaiyin FC"|1|2|NA|NA|"PUN"|"FC Pune City"|0|1|NA|NA
+"2015"|"S02M020"|"Round 1"|2015-10-25 13:30:00|0|0|"MUM"|"Mumbai City FC"|1|2|NA|NA|"GOA"|"FC Goa"|0|0|NA|NA
+"2015"|"S02M021"|"Round 1"|2015-10-27 13:30:00|0|0|"PUN"|"FC Pune City"|2|3|NA|NA|"KER"|"Kerala Blasters"|2|2|NA|NA
+"2015"|"S02M022"|"Round 1"|2015-10-28 13:30:00|0|0|"MUM"|"Mumbai City FC"|2|5|NA|NA|"NEU"|"NorthEast United FC"|1|1|NA|NA
+"2015"|"S02M023"|"Round 1"|2015-10-29 13:30:00|0|0|"ATK"|"Atlético de Kolkata"|0|0|NA|NA|"DEL"|"Delhi Dynamos FC"|0|1|NA|NA
+"2015"|"S02M024"|"Round 1"|2015-10-30 13:30:00|0|0|"GOA"|"FC Goa"|0|1|NA|NA|"PUN"|"FC Pune City"|0|1|NA|NA
+"2015"|"S02M025"|"Round 1"|2015-10-31 13:30:00|0|0|"KER"|"Kerala Blasters"|0|1|NA|NA|"CHN"|"Chennaiyin FC"|1|1|NA|NA
+"2015"|"S02M026"|"Round 2"|2015-11-01 13:30:00|0|0|"MUM"|"Mumbai City FC"|0|1|NA|NA|"ATK"|"Atlético de Kolkata"|2|4|NA|NA
+"2015"|"S02M027"|"Round 2"|2015-11-03 13:30:00|0|0|"DEL"|"Delhi Dynamos FC"|1|1|NA|NA|"NEU"|"NorthEast United FC"|0|1|NA|NA
+"2015"|"S02M028"|"Round 2"|2015-11-04 13:30:00|0|0|"KER"|"Kerala Blasters"|1|2|NA|NA|"PUN"|"FC Pune City"|0|0|NA|NA
+"2015"|"S02M029"|"Round 2"|2015-11-05 13:30:00|0|0|"CHN"|"Chennaiyin FC"|0|0|NA|NA|"GOA"|"FC Goa"|0|2|NA|NA
+"2015"|"S02M030"|"Round 2"|2015-11-06 13:30:00|0|0|"DEL"|"Delhi Dynamos FC"|0|1|NA|NA|"MUM"|"Mumbai City FC"|0|1|NA|NA
+"2015"|"S02M031"|"Round 2"|2015-11-07 13:30:00|0|0|"ATK"|"Atlético de Kolkata"|0|0|NA|NA|"NEU"|"NorthEast United FC"|1|1|NA|NA
+"2015"|"S02M032"|"Round 2"|2015-11-08 13:30:00|0|0|"PUN"|"FC Pune City"|1|2|NA|NA|"GOA"|"FC Goa"|2|2|NA|NA
+"2015"|"S02M033"|"Round 2"|2015-11-10 13:30:00|0|0|"KER"|"Kerala Blasters"|1|2|NA|NA|"ATK"|"Atlético de Kolkata"|1|3|NA|NA
+"2015"|"S02M034"|"Round 2"|2015-11-11 13:30:00|0|0|"CHN"|"Chennaiyin FC"|1|1|NA|NA|"NEU"|"NorthEast United FC"|1|2|NA|NA
+"2015"|"S02M035"|"Round 2"|2015-11-13 13:30:00|0|0|"MUM"|"Mumbai City FC"|0|0|NA|NA|"PUN"|"FC Pune City"|0|0|NA|NA
+"2015"|"S02M036"|"Round 2"|2015-11-14 13:30:00|0|0|"DEL"|"Delhi Dynamos FC"|0|1|NA|NA|"ATK"|"Atlético de Kolkata"|1|1|NA|NA
+"2015"|"S02M037"|"Round 2"|2015-11-15 13:30:00|0|0|"NEU"|"NorthEast United FC"|0|1|NA|NA|"KER"|"Kerala Blasters"|2|4|NA|NA
+"2015"|"S02M038"|"Round 2"|2015-11-17 13:30:00|0|0|"MUM"|"Mumbai City FC"|0|0|NA|NA|"GOA"|"FC Goa"|2|7|NA|NA
+"2015"|"S02M039"|"Round 2"|2015-11-18 13:30:00|0|0|"ATK"|"Atlético de Kolkata"|1|2|NA|NA|"CHN"|"Chennaiyin FC"|1|1|NA|NA
+"2015"|"S02M040"|"Round 2"|2015-11-19 13:30:00|0|0|"DEL"|"Delhi Dynamos FC"|2|3|NA|NA|"PUN"|"FC Pune City"|0|1|NA|NA
+"2015"|"S02M041"|"Round 2"|2015-11-20 13:30:00|0|0|"NEU"|"NorthEast United FC"|1|2|NA|NA|"MUM"|"Mumbai City FC"|0|0|NA|NA
+"2015"|"S02M042"|"Round 2"|2015-11-21 13:30:00|0|0|"CHN"|"Chennaiyin FC"|2|4|NA|NA|"KER"|"Kerala Blasters"|0|1|NA|NA
+"2015"|"S02M043"|"Round 2"|2015-11-22 13:30:00|0|0|"ATK"|"Atlético de Kolkata"|2|4|NA|NA|"GOA"|"FC Goa"|0|0|NA|NA
+"2015"|"S02M044"|"Round 2"|2015-11-24 13:30:00|0|0|"CHN"|"Chennaiyin FC"|3|4|NA|NA|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA
+"2015"|"S02M045"|"Round 2"|2015-11-25 13:30:00|0|0|"GOA"|"FC Goa"|0|1|NA|NA|"NEU"|"NorthEast United FC"|0|1|NA|NA
+"2015"|"S02M046"|"Round 2"|2015-11-26 13:30:00|0|0|"MUM"|"Mumbai City FC"|1|1|NA|NA|"KER"|"Kerala Blasters"|0|1|NA|NA
+"2015"|"S02M047"|"Round 2"|2015-11-27 13:30:00|0|0|"ATK"|"Atlético de Kolkata"|1|4|NA|NA|"PUN"|"FC Pune City"|0|1|NA|NA
+"2015"|"S02M048"|"Round 2"|2015-11-28 13:30:00|0|0|"NEU"|"NorthEast United FC"|1|1|NA|NA|"DEL"|"Delhi Dynamos FC"|1|2|NA|NA
+"2015"|"S02M049"|"Round 2"|2015-11-29 13:30:00|0|0|"KER"|"Kerala Blasters"|1|1|NA|NA|"GOA"|"FC Goa"|2|5|NA|NA
+"2015"|"S02M050"|"Round 3"|2015-12-01 13:30:00|0|0|"MUM"|"Mumbai City FC"|0|0|NA|NA|"CHN"|"Chennaiyin FC"|3|3|NA|NA
+"2015"|"S02M051"|"Round 3"|2015-12-01 13:30:00|0|0|"CHN"|"Chennaiyin FC"|2|3|NA|NA|"MUM"|"Mumbai City FC"|0|0|NA|NA
+"2015"|"S02M052"|"Round 3"|2015-12-02 13:30:00|0|0|"NEU"|"NorthEast United FC"|3|3|NA|NA|"PUN"|"FC Pune City"|1|2|NA|NA
+"2015"|"S02M053"|"Round 3"|2015-12-03 13:30:00|0|0|"DEL"|"Delhi Dynamos FC"|3|3|NA|NA|"KER"|"Kerala Blasters"|2|3|NA|NA
+"2015"|"S02M054"|"Round 3"|2015-12-04 13:30:00|0|0|"ATK"|"Atlético de Kolkata"|1|2|NA|NA|"MUM"|"Mumbai City FC"|1|3|NA|NA
+"2015"|"S02M055"|"Round 3"|2015-12-05 13:30:00|0|0|"PUN"|"FC Pune City"|0|0|NA|NA|"CHN"|"Chennaiyin FC"|0|1|NA|NA
+"2015"|"S02M056"|"Round 3"|2015-12-06 13:30:00|0|0|"DEL"|"Delhi Dynamos FC"|2|2|NA|NA|"GOA"|"FC Goa"|0|3|NA|NA
+"2015"|"S02M057"|"Semi-finals"|2015-12-11 13:30:00|0|0|"DEL"|"Delhi Dynamos FC"|1|1|NA|NA|"GOA"|"FC Goa"|0|0|NA|NA
+"2015"|"S02M058"|"Semi-finals"|2015-12-12 13:30:00|0|0|"CHN"|"Chennaiyin FC"|1|3|NA|NA|"ATK"|"Atlético de Kolkata"|0|0|NA|NA
+"2015"|"S02M059"|"Semi-finals"|2015-12-15 13:30:00|0|0|"GOA"|"FC Goa"|2|3|NA|NA|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA
+"2015"|"S02M060"|"Semi-finals"|2015-12-16 13:30:00|0|0|"ATK"|"Atlético de Kolkata"|1|2|NA|NA|"CHN"|"Chennaiyin FC"|0|1|NA|NA
+"2015"|"S02M061"|"Final"|2015-12-20 13:30:00|0|0|"GOA"|"FC Goa"|0|2|NA|NA|"CHN"|"Chennaiyin FC"|0|3|NA|NA
+"2016"|"S03M001"|"Round 1"|2016-10-01 14:30:00|0|0|"NEU"|"NorthEast United FC"|0|1|NA|NA|"KER"|"Kerala Blasters"|0|0|NA|NA
+"2016"|"S03M002"|"Round 1"|2016-10-02 14:30:00|0|0|"ATK"|"Atlético de Kolkata"|0|2|NA|NA|"CHN"|"Chennaiyin FC"|0|2|NA|NA
+"2016"|"S03M003"|"Round 1"|2016-10-03 14:30:00|0|0|"PUN"|"FC Pune City"|0|0|NA|NA|"MUM"|"Mumbai City FC"|0|1|NA|NA
+"2016"|"S03M004"|"Round 1"|2016-10-04 14:30:00|0|0|"NEU"|"NorthEast United FC"|1|2|NA|NA|"GOA"|"FC Goa"|0|0|NA|NA
+"2016"|"S03M005"|"Round 1"|2016-10-05 14:30:00|0|0|"KER"|"Kerala Blasters"|0|0|NA|NA|"ATK"|"Atlético de Kolkata"|0|1|NA|NA
+"2016"|"S03M006"|"Round 1"|2016-10-06 14:30:00|0|0|"CHN"|"Chennaiyin FC"|1|1|NA|NA|"DEL"|"Delhi Dynamos FC"|2|3|NA|NA
+"2016"|"S03M007"|"Round 1"|2016-10-07 14:30:00|0|0|"MUM"|"Mumbai City FC"|0|1|NA|NA|"NEU"|"NorthEast United FC"|0|0|NA|NA
+"2016"|"S03M008"|"Round 1"|2016-10-08 14:30:00|0|0|"GOA"|"FC Goa"|1|1|NA|NA|"PUN"|"FC Pune City"|1|2|NA|NA
+"2016"|"S03M009"|"Round 1"|2016-10-09 14:30:00|0|0|"KER"|"Kerala Blasters"|0|0|NA|NA|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA
+"2016"|"S03M010"|"Round 1"|2016-10-11 14:30:00|0|0|"MUM"|"Mumbai City FC"|1|1|NA|NA|"ATK"|"Atlético de Kolkata"|0|1|NA|NA
+"2016"|"S03M011"|"Round 1"|2016-10-12 14:30:00|0|0|"PUN"|"FC Pune City"|0|0|NA|NA|"NEU"|"NorthEast United FC"|0|1|NA|NA
+"2016"|"S03M012"|"Round 1"|2016-10-13 14:30:00|0|0|"CHN"|"Chennaiyin FC"|2|2|NA|NA|"GOA"|"FC Goa"|0|0|NA|NA
+"2016"|"S03M013"|"Round 1"|2016-10-14 14:30:00|0|0|"KER"|"Kerala Blasters"|0|1|NA|NA|"MUM"|"Mumbai City FC"|0|0|NA|NA
+"2016"|"S03M014"|"Round 1"|2016-10-15 14:30:00|0|0|"DEL"|"Delhi Dynamos FC"|1|1|NA|NA|"NEU"|"NorthEast United FC"|0|1|NA|NA
+"2016"|"S03M015"|"Round 1"|2016-10-16 14:30:00|0|0|"ATK"|"Atlético de Kolkata"|1|1|NA|NA|"GOA"|"FC Goa"|0|1|NA|NA
+"2016"|"S03M016"|"Round 1"|2016-10-17 14:30:00|0|0|"PUN"|"FC Pune City"|0|1|NA|NA|"KER"|"Kerala Blasters"|1|1|NA|NA
+"2016"|"S03M017"|"Round 1"|2016-10-18 14:30:00|0|0|"DEL"|"Delhi Dynamos FC"|0|3|NA|NA|"MUM"|"Mumbai City FC"|2|3|NA|NA
+"2016"|"S03M018"|"Round 1"|2016-10-20 14:30:00|0|0|"NEU"|"NorthEast United FC"|0|0|NA|NA|"CHN"|"Chennaiyin FC"|0|1|NA|NA
+"2016"|"S03M019"|"Round 1"|2016-10-21 14:30:00|0|0|"MUM"|"Mumbai City FC"|0|0|NA|NA|"GOA"|"FC Goa"|1|1|NA|NA
+"2016"|"S03M020"|"Round 1"|2016-10-22 14:30:00|0|0|"ATK"|"Atlético de Kolkata"|0|1|NA|NA|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA
+"2016"|"S03M021"|"Round 1"|2016-10-23 14:30:00|0|0|"PUN"|"FC Pune City"|0|1|NA|NA|"CHN"|"Chennaiyin FC"|1|1|NA|NA
+"2016"|"S03M022"|"Round 1"|2016-10-24 14:30:00|0|0|"GOA"|"FC Goa"|1|1|NA|NA|"KER"|"Kerala Blasters"|0|2|NA|NA
+"2016"|"S03M023"|"Round 1"|2016-10-25 14:30:00|0|0|"ATK"|"Atlético de Kolkata"|0|0|NA|NA|"MUM"|"Mumbai City FC"|0|1|NA|NA
+"2016"|"S03M024"|"Round 1"|2016-10-27 14:30:00|0|0|"DEL"|"Delhi Dynamos FC"|0|1|NA|NA|"PUN"|"FC Pune City"|1|1|NA|NA
+"2016"|"S03M025"|"Round 1"|2016-10-28 14:30:00|0|0|"NEU"|"NorthEast United FC"|1|1|NA|NA|"ATK"|"Atlético de Kolkata"|0|2|NA|NA
+"2016"|"S03M026"|"Round 1"|2016-10-29 14:30:00|0|0|"CHN"|"Chennaiyin FC"|0|0|NA|NA|"KER"|"Kerala Blasters"|0|0|NA|NA
+"2016"|"S03M027"|"Round 1"|2016-10-30 13:30:00|0|0|"GOA"|"FC Goa"|0|0|NA|NA|"DEL"|"Delhi Dynamos FC"|0|2|NA|NA
+"2016"|"S03M028"|"Round 2"|2016-11-02 13:30:00|0|0|"CHN"|"Chennaiyin FC"|0|1|NA|NA|"MUM"|"Mumbai City FC"|0|1|NA|NA
+"2016"|"S03M029"|"Round 2"|2016-11-03 13:30:00|0|0|"PUN"|"FC Pune City"|0|0|NA|NA|"GOA"|"FC Goa"|1|1|NA|NA
+"2016"|"S03M030"|"Round 2"|2016-11-04 13:30:00|0|0|"DEL"|"Delhi Dynamos FC"|0|2|NA|NA|"KER"|"Kerala Blasters"|0|0|NA|NA
+"2016"|"S03M031"|"Round 2"|2016-11-05 13:30:00|0|0|"NEU"|"NorthEast United FC"|0|0|NA|NA|"MUM"|"Mumbai City FC"|1|1|NA|NA
+"2016"|"S03M032"|"Round 2"|2016-11-06 13:30:00|0|0|"PUN"|"FC Pune City"|1|2|NA|NA|"ATK"|"Atlético de Kolkata"|0|1|NA|NA
+"2016"|"S03M033"|"Round 2"|2016-11-08 13:30:00|0|0|"KER"|"Kerala Blasters"|0|2|NA|NA|"GOA"|"FC Goa"|1|1|NA|NA
+"2016"|"S03M034"|"Round 2"|2016-11-09 13:30:00|0|0|"DEL"|"Delhi Dynamos FC"|2|4|NA|NA|"CHN"|"Chennaiyin FC"|1|1|NA|NA
+"2016"|"S03M035"|"Round 2"|2016-11-10 13:30:00|0|0|"MUM"|"Mumbai City FC"|0|0|NA|NA|"PUN"|"FC Pune City"|0|1|NA|NA
+"2016"|"S03M036"|"Round 2"|2016-11-11 13:30:00|0|0|"GOA"|"FC Goa"|0|2|NA|NA|"NEU"|"NorthEast United FC"|0|1|NA|NA
+"2016"|"S03M037"|"Round 2"|2016-11-12 13:30:00|0|0|"KER"|"Kerala Blasters"|0|3|NA|NA|"CHN"|"Chennaiyin FC"|1|1|NA|NA
+"2016"|"S03M038"|"Round 2"|2016-11-13 13:30:00|0|0|"DEL"|"Delhi Dynamos FC"|0|2|NA|NA|"ATK"|"Atlético de Kolkata"|1|2|NA|NA
+"2016"|"S03M039"|"Round 2"|2016-11-15 13:30:00|0|0|"CHN"|"Chennaiyin FC"|1|2|NA|NA|"PUN"|"FC Pune City"|0|0|NA|NA
+"2016"|"S03M040"|"Round 2"|2016-11-16 13:30:00|0|0|"GOA"|"FC Goa"|0|0|NA|NA|"MUM"|"Mumbai City FC"|0|0|NA|NA
+"2016"|"S03M041"|"Round 2"|2016-11-17 13:30:00|0|0|"ATK"|"Atlético de Kolkata"|0|1|NA|NA|"NEU"|"NorthEast United FC"|1|1|NA|NA
+"2016"|"S03M042"|"Round 2"|2016-11-18 13:30:00|0|0|"PUN"|"FC Pune City"|0|4|NA|NA|"DEL"|"Delhi Dynamos FC"|1|3|NA|NA
+"2016"|"S03M043"|"Round 2"|2016-11-19 13:30:00|0|0|"MUM"|"Mumbai City FC"|2|5|NA|NA|"KER"|"Kerala Blasters"|0|0|NA|NA
+"2016"|"S03M044"|"Round 2"|2016-11-20 13:30:00|0|0|"CHN"|"Chennaiyin FC"|0|1|NA|NA|"ATK"|"Atlético de Kolkata"|1|1|NA|NA
+"2016"|"S03M045"|"Round 2"|2016-11-22 13:30:00|0|0|"NEU"|"NorthEast United FC"|0|1|NA|NA|"PUN"|"FC Pune City"|0|0|NA|NA
+"2016"|"S03M046"|"Round 2"|2016-11-23 13:30:00|0|0|"MUM"|"Mumbai City FC"|1|2|NA|NA|"CHN"|"Chennaiyin FC"|0|0|NA|NA
+"2016"|"S03M047"|"Round 2"|2016-11-24 13:30:00|0|0|"GOA"|"FC Goa"|0|1|NA|NA|"ATK"|"Atlético de Kolkata"|1|2|NA|NA
+"2016"|"S03M048"|"Round 2"|2016-11-25 13:30:00|0|0|"KER"|"Kerala Blasters"|1|2|NA|NA|"PUN"|"FC Pune City"|0|1|NA|NA
+"2016"|"S03M049"|"Round 2"|2016-11-26 13:30:00|0|0|"CHN"|"Chennaiyin FC"|2|3|NA|NA|"NEU"|"NorthEast United FC"|1|3|NA|NA
+"2016"|"S03M050"|"Round 2"|2016-11-27 13:30:00|0|0|"DEL"|"Delhi Dynamos FC"|1|5|NA|NA|"GOA"|"FC Goa"|1|1|NA|NA
+"2016"|"S03M051"|"Round 2"|2016-11-29 13:30:00|0|0|"ATK"|"Atlético de Kolkata"|1|1|NA|NA|"KER"|"Kerala Blasters"|1|1|NA|NA
+"2016"|"S03M052"|"Round 2"|2016-11-30 13:30:00|0|0|"NEU"|"NorthEast United FC"|0|2|NA|NA|"DEL"|"Delhi Dynamos FC"|0|1|NA|NA
+"2016"|"S03M053"|"Round 3"|2016-12-01 13:30:00|0|0|"GOA"|"FC Goa"|2|5|NA|NA|"CHN"|"Chennaiyin FC"|3|4|NA|NA
+"2016"|"S03M054"|"Round 3"|2016-12-02 13:30:00|0|0|"ATK"|"Atlético de Kolkata"|0|0|NA|NA|"PUN"|"FC Pune City"|0|0|NA|NA
+"2016"|"S03M055"|"Round 3"|2016-12-03 13:30:00|0|0|"MUM"|"Mumbai City FC"|0|0|NA|NA|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA
+"2016"|"S03M056"|"Round 3"|2016-12-04 13:30:00|0|0|"KER"|"Kerala Blasters"|0|1|NA|NA|"NEU"|"NorthEast United FC"|0|0|NA|NA
+"2016"|"S03M057"|"Semi-finals"|2016-12-10 13:30:00|0|0|"ATK"|"Atlético de Kolkata"|3|3|NA|NA|"MUM"|"Mumbai City FC"|2|2|NA|NA
+"2016"|"S03M058"|"Semi-finals"|2016-12-11 13:30:00|0|0|"KER"|"Kerala Blasters"|0|1|NA|NA|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA
+"2016"|"S03M059"|"Semi-finals"|2016-12-13 13:30:00|0|0|"MUM"|"Mumbai City FC"|0|0|NA|NA|"ATK"|"Atlético de Kolkata"|0|0|NA|NA
+"2016"|"S03M060"|"Semi-finals"|2016-12-14 13:30:00|1|0|"DEL"|"Delhi Dynamos FC"|2|2|2|0|"KER"|"Kerala Blasters"|1|1|1|3
+"2016"|"S03M061"|"Final"|2016-12-18 13:30:00|1|0|"ATK"|"Atlético de Kolkata"|1|1|1|4|"KER"|"Kerala Blasters"|1|1|1|3
+"2017/2018"|"S04M001"|"Round 1"|2017-11-17 14:30:00|0|0|"KER"|"Kerala Blasters"|0|0|NA|NA|"ATK"|"ATK"|0|0|NA|NA
+"2017/2018"|"S04M002"|"Round 1"|2017-11-18 14:00:00|0|0|"NEU"|"NorthEast United FC"|0|0|NA|NA|"JSD"|"Jamshedpur FC"|0|0|NA|NA
+"2017/2018"|"S04M003"|"Round 1"|2017-11-19 12:00:00|0|0|"CHN"|"Chennaiyin FC"|0|2|NA|NA|"GOA"|"FC Goa"|3|3|NA|NA
+"2017/2018"|"S04M004"|"Round 1"|2017-11-19 14:30:00|0|0|"BGL"|"Bengaluru FC"|0|2|NA|NA|"MUM"|"Mumbai City FC"|0|0|NA|NA
+"2017/2018"|"S04M005"|"Round 1"|2017-11-22 14:30:00|0|0|"PUN"|"FC Pune City"|0|2|NA|NA|"DEL"|"Delhi Dynamos FC"|0|3|NA|NA
+"2017/2018"|"S04M006"|"Round 2"|2017-11-23 14:30:00|0|0|"CHN"|"Chennaiyin FC"|2|3|NA|NA|"NEU"|"NorthEast United FC"|0|0|NA|NA
+"2017/2018"|"S04M007"|"Round 2"|2017-11-24 14:30:00|0|0|"KER"|"Kerala Blasters"|0|0|NA|NA|"JSD"|"Jamshedpur FC"|0|0|NA|NA
+"2017/2018"|"S04M008"|"Round 2"|2017-11-25 14:30:00|0|0|"MUM"|"Mumbai City FC"|0|2|NA|NA|"GOA"|"FC Goa"|0|1|NA|NA
+"2017/2018"|"S04M009"|"Round 2"|2017-11-26 12:00:00|0|0|"ATK"|"ATK"|0|1|NA|NA|"PUN"|"FC Pune City"|1|4|NA|NA
+"2017/2018"|"S04M010"|"Round 2"|2017-11-26 14:30:00|0|0|"BGL"|"Bengaluru FC"|2|4|NA|NA|"DEL"|"Delhi Dynamos FC"|0|1|NA|NA
+"2017/2018"|"S04M011"|"Round 3"|2017-11-29 14:30:00|0|0|"PUN"|"FC Pune City"|0|2|NA|NA|"MUM"|"Mumbai City FC"|1|1|NA|NA
+"2017/2018"|"S04M012"|"Round 3"|2017-11-30 14:30:00|0|0|"GOA"|"FC Goa"|3|4|NA|NA|"BGL"|"Bengaluru FC"|1|3|NA|NA
+"2017/2018"|"S04M013"|"Round 3"|2017-12-01 14:30:00|0|0|"JSD"|"Jamshedpur FC"|0|0|NA|NA|"ATK"|"ATK"|0|0|NA|NA
+"2017/2018"|"S04M014"|"Round 3"|2017-12-02 14:30:00|0|0|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA|"NEU"|"NorthEast United FC"|2|2|NA|NA
+"2017/2018"|"S04M015"|"Round 3"|2017-12-03 12:00:00|0|0|"PUN"|"FC Pune City"|0|0|NA|NA|"CHN"|"Chennaiyin FC"|0|1|NA|NA
+"2017/2018"|"S04M016"|"Round 4"|2017-12-03 14:30:00|0|0|"KER"|"Kerala Blasters"|1|1|NA|NA|"MUM"|"Mumbai City FC"|0|1|NA|NA
+"2017/2018"|"S04M017"|"Round 4"|2017-12-06 14:30:00|0|0|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA|"JSD"|"Jamshedpur FC"|0|1|NA|NA
+"2017/2018"|"S04M018"|"Round 4"|2017-12-07 14:30:00|0|0|"CHN"|"Chennaiyin FC"|0|3|NA|NA|"ATK"|"ATK"|0|2|NA|NA
+"2017/2018"|"S04M019"|"Round 4"|2017-12-08 14:30:00|0|0|"NEU"|"NorthEast United FC"|0|0|NA|NA|"BGL"|"Bengaluru FC"|0|1|NA|NA
+"2017/2018"|"S04M020"|"Round 4"|2017-12-09 14:30:00|0|0|"GOA"|"FC Goa"|2|5|NA|NA|"KER"|"Kerala Blasters"|2|2|NA|NA
+"2017/2018"|"S04M021"|"Round 5"|2017-12-10 12:00:00|0|0|"JSD"|"Jamshedpur FC"|0|0|NA|NA|"PUN"|"FC Pune City"|1|1|NA|NA
+"2017/2018"|"S04M022"|"Round 5"|2017-12-10 14:30:00|0|0|"MUM"|"Mumbai City FC"|0|1|NA|NA|"CHN"|"Chennaiyin FC"|0|0|NA|NA
+"2017/2018"|"S04M023"|"Round 5"|2017-12-14 14:30:00|0|0|"PUN"|"FC Pune City"|1|1|NA|NA|"BGL"|"Bengaluru FC"|0|3|NA|NA
+"2017/2018"|"S04M024"|"Round 5"|2017-12-15 14:30:00|0|0|"KER"|"Kerala Blasters"|1|1|NA|NA|"NEU"|"NorthEast United FC"|0|0|NA|NA
+"2017/2018"|"S04M025"|"Round 5"|2017-12-16 14:30:00|0|0|"DEL"|"Delhi Dynamos FC"|0|1|NA|NA|"GOA"|"FC Goa"|2|5|NA|NA
+"2017/2018"|"S04M026"|"Round 6"|2017-12-17 12:00:00|0|0|"BGL"|"Bengaluru FC"|0|1|NA|NA|"CHN"|"Chennaiyin FC"|1|2|NA|NA
+"2017/2018"|"S04M027"|"Round 6"|2017-12-17 14:30:00|0|0|"MUM"|"Mumbai City FC"|0|0|NA|NA|"ATK"|"ATK"|0|1|NA|NA
+"2017/2018"|"S04M028"|"Round 6"|2017-12-20 14:30:00|0|0|"NEU"|"NorthEast United FC"|0|0|NA|NA|"MUM"|"Mumbai City FC"|1|2|NA|NA
+"2017/2018"|"S04M029"|"Round 6"|2017-12-21 14:30:00|0|0|"BGL"|"Bengaluru FC"|0|0|NA|NA|"JSD"|"Jamshedpur FC"|0|1|NA|NA
+"2017/2018"|"S04M030"|"Round 6"|2017-12-22 14:30:00|0|0|"CHN"|"Chennaiyin FC"|0|1|NA|NA|"KER"|"Kerala Blasters"|0|1|NA|NA
+"2017/2018"|"S04M031"|"Round 7"|2017-12-23 12:00:00|0|0|"GOA"|"FC Goa"|0|0|NA|NA|"PUN"|"FC Pune City"|0|2|NA|NA
+"2017/2018"|"S04M032"|"Round 7"|2017-12-23 14:30:00|0|0|"ATK"|"ATK"|0|1|NA|NA|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA
+"2017/2018"|"S04M033"|"Round 7"|2017-12-28 14:30:00|0|0|"JSD"|"Jamshedpur FC"|0|0|NA|NA|"CHN"|"Chennaiyin FC"|1|1|NA|NA
+"2017/2018"|"S04M034"|"Round 7"|2017-12-29 14:30:00|0|0|"MUM"|"Mumbai City FC"|2|4|NA|NA|"DEL"|"Delhi Dynamos FC"|0|0|NA|NA
+"2017/2018"|"S04M035"|"Round 7"|2017-12-30 14:30:00|0|0|"PUN"|"FC Pune City"|3|5|NA|NA|"NEU"|"NorthEast United FC"|0|0|NA|NA
+"2017/2018"|"S04M036"|"Round 8"|2017-12-31 12:00:00|0|0|"KER"|"Kerala Blasters"|0|1|NA|NA|"BGL"|"Bengaluru FC"|0|3|NA|NA
+"2017/2018"|"S04M037"|"Round 8"|2018-01-03 17:10:00|0|0|"ATK"|"ATK"|1|1|NA|NA|"GOA"|"FC Goa"|1|1|NA|NA
+"2017/2018"|"S04M038"|"Round 8"|2018-01-04 14:30:00|0|0|"KER"|"Kerala Blasters"|0|1|NA|NA|"PUN"|"FC Pune City"|1|1|NA|NA
+"2017/2018"|"S04M039"|"Round 8"|2018-01-05 14:30:00|0|0|"JSD"|"Jamshedpur FC"|2|2|NA|NA|"MUM"|"Mumbai City FC"|1|2|NA|NA
+"2017/2018"|"S04M040"|"Round 8"|2018-01-06 14:30:00|0|0|"NEU"|"NorthEast United FC"|1|2|NA|NA|"GOA"|"FC Goa"|1|1|NA|NA
+"2017/2018"|"S04M041"|"Round 9"|2018-01-07 12:00:00|0|0|"CHN"|"Chennaiyin FC"|1|2|NA|NA|"DEL"|"Delhi Dynamos FC"|1|2|NA|NA
+"2017/2018"|"S04M042"|"Round 9"|2018-01-07 14:30:00|0|0|"BGL"|"Bengaluru FC"|1|1|NA|NA|"ATK"|"ATK"|0|0|NA|NA
+"2017/2018"|"S04M043"|"Round 9"|2018-01-10 14:30:00|0|0|"DEL"|"Delhi Dynamos FC"|1|1|NA|NA|"KER"|"Kerala Blasters"|1|3|NA|NA
+"2017/2018"|"S04M044"|"Round 9"|2018-01-11 14:30:00|0|0|"GOA"|"FC Goa"|1|2|NA|NA|"JSD"|"Jamshedpur FC"|0|1|NA|NA
+"2017/2018"|"S04M045"|"Round 9"|2018-01-12 14:30:00|0|0|"NEU"|"NorthEast United FC"|0|0|NA|NA|"ATK"|"ATK"|0|1|NA|NA
+"2017/2018"|"S04M046"|"Round 10"|2018-01-13 14:30:00|0|0|"CHN"|"Chennaiyin FC"|0|1|NA|NA|"PUN"|"FC Pune City"|0|0|NA|NA
+"2017/2018"|"S04M047"|"Round 10"|2018-01-14 12:00:00|0|0|"DEL"|"Delhi Dynamos FC"|0|2|NA|NA|"BGL"|"Bengaluru FC"|0|0|NA|NA
+"2017/2018"|"S04M048"|"Round 10"|2018-01-14 14:30:00|0|0|"MUM"|"Mumbai City FC"|0|0|NA|NA|"KER"|"Kerala Blasters"|1|1|NA|NA
+"2017/2018"|"S04M049"|"Round 10"|2018-01-17 14:30:00|0|0|"JSD"|"Jamshedpur FC"|2|2|NA|NA|"KER"|"Kerala Blasters"|0|1|NA|NA
+"2017/2018"|"S04M050"|"Round 10"|2018-01-18 14:30:00|0|0|"MUM"|"Mumbai City FC"|0|1|NA|NA|"BGL"|"Bengaluru FC"|1|3|NA|NA
+"2017/2018"|"S04M051"|"Round 11"|2018-01-19 14:30:00|0|0|"NEU"|"NorthEast United FC"|1|3|NA|NA|"CHN"|"Chennaiyin FC"|0|1|NA|NA
+"2017/2018"|"S04M052"|"Round 11"|2018-01-20 14:30:00|0|0|"PUN"|"FC Pune City"|1|3|NA|NA|"ATK"|"ATK"|0|0|NA|NA
+"2017/2018"|"S04M053"|"Round 11"|2018-01-21 12:00:00|0|0|"JSD"|"Jamshedpur FC"|1|3|NA|NA|"DEL"|"Delhi Dynamos FC"|2|2|NA|NA
+"2017/2018"|"S04M054"|"Round 11"|2018-01-21 14:30:00|0|0|"KER"|"Kerala Blasters"|1|1|NA|NA|"GOA"|"FC Goa"|1|2|NA|NA
+"2017/2018"|"S04M055"|"Round 11"|2018-01-24 14:30:00|0|0|"PUN"|"FC Pune City"|0|2|NA|NA|"JSD"|"Jamshedpur FC"|1|1|NA|NA
+"2017/2018"|"S04M056"|"Round 12"|2018-01-25 14:30:00|0|0|"ATK"|"ATK"|1|1|NA|NA|"CHN"|"Chennaiyin FC"|0|2|NA|NA
+"2017/2018"|"S04M057"|"Round 12"|2018-01-26 14:30:00|0|0|"BGL"|"Bengaluru FC"|1|2|NA|NA|"NEU"|"NorthEast United FC"|1|1|NA|NA
+"2017/2018"|"S04M058"|"Round 12"|2018-01-27 14:30:00|0|0|"KER"|"Kerala Blasters"|0|2|NA|NA|"DEL"|"Delhi Dynamos FC"|1|1|NA|NA
+"2017/2018"|"S04M059"|"Round 12"|2018-01-28 12:00:00|0|0|"GOA"|"FC Goa"|2|3|NA|NA|"MUM"|"Mumbai City FC"|1|4|NA|NA
+"2017/2018"|"S04M060"|"Round 12"|2018-01-28 14:30:00|0|0|"ATK"|"ATK"|0|0|NA|NA|"JSD"|"Jamshedpur FC"|0|1|NA|NA
+"2017/2018"|"S04M061"|"Round 13"|2018-02-01 14:30:00|0|0|"MUM"|"Mumbai City FC"|0|1|NA|NA|"JSD"|"Jamshedpur FC"|1|2|NA|NA
+"2017/2018"|"S04M062"|"Round 13"|2018-02-02 14:30:00|0|0|"PUN"|"FC Pune City"|0|1|NA|NA|"KER"|"Kerala Blasters"|0|2|NA|NA
+"2017/2018"|"S04M063"|"Round 13"|2018-02-03 14:30:00|0|0|"ATK"|"ATK"|0|0|NA|NA|"BGL"|"Bengaluru FC"|1|2|NA|NA
+"2017/2018"|"S04M064"|"Round 13"|2018-02-06 14:30:00|0|0|"CHN"|"Chennaiyin FC"|1|1|NA|NA|"BGL"|"Bengaluru FC"|1|3|NA|NA
+"2017/2018"|"S04M065"|"Round 13"|2018-02-27 14:30:00|0|0|"DEL"|"Delhi Dynamos FC"|1|5|NA|NA|"MUM"|"Mumbai City FC"|0|1|NA|NA
+"2017/2018"|"S04M066"|"Round 14"|2018-02-04 14:30:00|0|0|"GOA"|"FC Goa"|1|2|NA|NA|"NEU"|"NorthEast United FC"|1|2|NA|NA
+"2017/2018"|"S04M067"|"Round 14"|2018-02-07 14:30:00|0|0|"NEU"|"NorthEast United FC"|0|0|NA|NA|"PUN"|"FC Pune City"|0|1|NA|NA
+"2017/2018"|"S04M068"|"Round 14"|2018-02-08 14:30:00|0|0|"ATK"|"ATK"|1|2|NA|NA|"KER"|"Kerala Blasters"|1|2|NA|NA
+"2017/2018"|"S04M069"|"Round 14"|2018-02-09 14:30:00|0|0|"BGL"|"Bengaluru FC"|1|2|NA|NA|"GOA"|"FC Goa"|0|0|NA|NA
+"2017/2018"|"S04M070"|"Round 14"|2018-02-10 14:30:00|0|0|"JSD"|"Jamshedpur FC"|0|1|NA|NA|"NEU"|"NorthEast United FC"|0|0|NA|NA
+"2017/2018"|"S04M071"|"Round 15"|2018-02-11 12:00:00|0|0|"MUM"|"Mumbai City FC"|0|0|NA|NA|"PUN"|"FC Pune City"|1|2|NA|NA
+"2017/2018"|"S04M072"|"Round 15"|2018-02-11 14:30:00|0|0|"DEL"|"Delhi Dynamos FC"|0|1|NA|NA|"CHN"|"Chennaiyin FC"|0|1|NA|NA
+"2017/2018"|"S04M073"|"Round 15"|2018-02-14 14:30:00|0|0|"NEU"|"NorthEast United FC"|0|0|NA|NA|"DEL"|"Delhi Dynamos FC"|0|1|NA|NA
+"2017/2018"|"S04M074"|"Round 15"|2018-02-15 14:30:00|0|0|"GOA"|"FC Goa"|0|0|NA|NA|"CHN"|"Chennaiyin FC"|0|1|NA|NA
+"2017/2018"|"S04M075"|"Round 15"|2018-02-16 14:30:00|0|0|"BGL"|"Bengaluru FC"|0|1|NA|NA|"PUN"|"FC Pune City"|1|1|NA|NA
+"2017/2018"|"S04M076"|"Round 16"|2018-02-17 14:30:00|0|0|"NEU"|"NorthEast United FC"|0|0|NA|NA|"KER"|"Kerala Blasters"|1|1|NA|NA
+"2017/2018"|"S04M077"|"Round 16"|2018-02-18 12:00:00|0|0|"CHN"|"Chennaiyin FC"|0|1|NA|NA|"JSD"|"Jamshedpur FC"|1|1|NA|NA
+"2017/2018"|"S04M078"|"Round 16"|2018-02-18 14:30:00|0|0|"ATK"|"ATK"|0|1|NA|NA|"MUM"|"Mumbai City FC"|1|2|NA|NA
+"2017/2018"|"S04M079"|"Round 16"|2018-02-21 14:30:00|0|0|"GOA"|"FC Goa"|0|1|NA|NA|"DEL"|"Delhi Dynamos FC"|0|1|NA|NA
+"2017/2018"|"S04M080"|"Round 16"|2018-02-22 14:30:00|0|0|"MUM"|"Mumbai City FC"|1|3|NA|NA|"NEU"|"NorthEast United FC"|2|2|NA|NA
+"2017/2018"|"S04M081"|"Round 17"|2018-02-23 14:30:00|0|0|"KER"|"Kerala Blasters"|0|0|NA|NA|"CHN"|"Chennaiyin FC"|0|0|NA|NA
+"2017/2018"|"S04M082"|"Round 17"|2018-02-24 14:30:00|0|0|"DEL"|"Delhi Dynamos FC"|1|4|NA|NA|"ATK"|"ATK"|1|3|NA|NA
+"2017/2018"|"S04M083"|"Round 17"|2018-02-25 12:00:00|0|0|"PUN"|"FC Pune City"|0|0|NA|NA|"GOA"|"FC Goa"|1|4|NA|NA
+"2017/2018"|"S04M084"|"Round 17"|2018-02-25 14:30:00|0|0|"JSD"|"Jamshedpur FC"|0|0|NA|NA|"BGL"|"Bengaluru FC"|2|2|NA|NA
+"2017/2018"|"S04M085"|"Round 17"|2018-02-28 14:30:00|0|0|"GOA"|"FC Goa"|3|5|NA|NA|"ATK"|"ATK"|0|1|NA|NA
+"2017/2018"|"S04M086"|"Round 18"|2018-03-01 14:30:00|0|0|"BGL"|"Bengaluru FC"|0|2|NA|NA|"KER"|"Kerala Blasters"|0|0|NA|NA
+"2017/2018"|"S04M087"|"Round 18"|2018-03-02 14:30:00|0|0|"DEL"|"Delhi Dynamos FC"|2|2|NA|NA|"PUN"|"FC Pune City"|1|2|NA|NA
+"2017/2018"|"S04M088"|"Round 18"|2018-03-03 14:30:00|0|0|"CHN"|"Chennaiyin FC"|0|1|NA|NA|"MUM"|"Mumbai City FC"|0|0|NA|NA
+"2017/2018"|"S04M089"|"Round 18"|2018-03-04 12:00:00|0|0|"JSD"|"Jamshedpur FC"|0|0|NA|NA|"GOA"|"FC Goa"|1|3|NA|NA
+"2017/2018"|"S04M090"|"Round 18"|2018-03-04 14:30:00|0|0|"ATK"|"ATK"|1|1|NA|NA|"NEU"|"NorthEast United FC"|0|0|NA|NA
+"2017/2018"|"S04M091"|"Semi-finals"|2018-03-07 14:30:00|0|0|"PUN"|"FC Pune City"|0|0|NA|NA|"BGL"|"Bengaluru FC"|0|0|NA|NA
+"2017/2018"|"S04M092"|"Semi-finals"|2018-03-10 14:30:00|0|0|"GOA"|"FC Goa"|0|1|NA|NA|"CHN"|"Chennaiyin FC"|0|1|NA|NA
+"2017/2018"|"S04M093"|"Semi-finals"|2018-03-11 14:30:00|0|0|"BGL"|"Bengaluru FC"|1|3|NA|NA|"PUN"|"FC Pune City"|0|1|NA|NA
+"2017/2018"|"S04M094"|"Semi-finals"|2018-03-13 14:30:00|0|0|"CHN"|"Chennaiyin FC"|2|3|NA|NA|"GOA"|"FC Goa"|0|0|NA|NA
+"2017/2018"|"S04M095"|"Final"|2018-03-17 14:30:00|0|0|"BGL"|"Bengaluru FC"|1|2|NA|NA|"CHN"|"Chennaiyin FC"|2|3|NA|NA

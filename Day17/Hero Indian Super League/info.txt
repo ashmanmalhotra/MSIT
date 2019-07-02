@@ -1,0 +1,23 @@
+Description
+Data related to Hero Indian Super League, a men's professional football league in India
+Summary
+
+This project contains various connected data for all the seasons of Hero Indian Super League till last year. The data has been scraped using R from the websites listed below:
+
+    All_Transfers.csv - transfermarkt
+		https://www.transfermarkt.com/jumplist/startseite/wettbewerb/IND1
+    Other files - worldfootball
+
+Summary of tables available/to be added
+
+    Season_Teams: Teams in each season with team code and flag for whether they made the playoffs or not
+    Teams_Profile: Details of each team like date founded, home ground, homepage etc.
+    Teams_Manager_History: History of team managers per team
+    All_Matches: Summary of individual Matches in each season
+    Match_Info: Further details about each match like referee, stadium, attendance
+    Match_Report: Detailed list of players & substitutes in each match along with substitution time, card time, goal time
+    Player_Bio: Biographic details about each player like DOB, height, playing position
+    All_Transfers: All transfers per season with available values
+    Match_Attendance: To be added
+    Referees_Assistants: To be added
+    Player_career: To be added
